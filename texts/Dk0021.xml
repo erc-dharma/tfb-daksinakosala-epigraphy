@@ -59,31 +59,31 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the
-                file</change>
+            <change who="part:nabo" when="2020-03-21" status="draft">Encoding initial vowels and details</change>
+            <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">   
-             <div type="textpart" subtype="main" xml:lang="san-Latn">  
+             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                 <p><pb n="2r"/>                  
-                       <lb n="1" break="no"/>gurudevatādhidaivataviśeṣaḥ śrīmā<choice><orig>ṁ</orig><reg>n</reg></choice> śrīmatyāṁ devyā<supplied reason="lost">ṁ</supplied> droṇabha<lb n="2" break="no"/>ṭṭārikāyām utpannaḥ śrīmahārājanāgabalaḥ</p> 
+                       <lb n="1" break="no"/>gurudevatādhidaivataviśeṣaḥ <space type="binding-hole"/> śrīmāṁ śrīmatyāṁ devyā<supplied reason="omitted">ṁ</supplied> droṇabha<lb n="2" break="no"/>ṭṭārikāyām utpannaḥ śrīmahārājanāgabalaḥ</p> 
                 <lg n="1" met="upajāti">    
                        <l n="a">nāgai<supplied reason="omitted">ḥ</supplied> kṣara<lb n="3"/>tprasrutadānagaṇḍai<supplied reason="omitted">r</supplied></l> 
-                       <l n="b">bhramatpatākākulitāntarāl<choice><sic>e</sic><corr>ai</corr></choice>ḥ</l>
+                       <l n="b">bhramatpatākākulitāntarālaiḥ</l>
                        <l n="c">sainyaṁ <lb n="4"/>sphuracchastrarucā par<choice><sic>i</sic><corr>ī</corr></choice>taṁ</l>
                        <l n="d">virājate yasya raṇāgry<choice><sic>i</sic><corr>a</corr></choice>bhūmau</l></lg>
                 <lg n="1" met="vasantatilaka">    
-                       <l n="a"><lb n="5"/>suśco<choice><sic>ddhaḥ</sic><corr>titaṁ</corr></choice> khuranipātarajo <reg>’</reg>tidūraṁ</l> 
+                       <l n="a"><lb n="5"/>suśco<choice><orig>ddhaḥ</orig><reg>titaṁ</reg></choice> khuranipātarajo ’tidūraṁ</l> 
                        <l n="b">yasyānuyātam iti mā<lb n="6"/>rgagataṁ karī<supplied reason="omitted">n</supplied>draiḥ</l>
-                       <l n="c">tac chāmyate pṛthukarapra<choice><sic>sru</sic><corr>sṛ</corr></choice>taiḥ payobhi<supplied reason="omitted">ḥ</supplied></l>
+                       <l n="c">tac chāmyate pṛthukarapra<choice><orig>sru</orig><reg>sṛ</reg></choice>taiḥ payobhi<supplied reason="omitted">ḥ</supplied></l>
                        <l n="d"><choice><sic>tai</sic><corr>te</corr></choice><lb n="7"/><choice><sic>nā</sic><corr>na</corr></choice> hy asau nṛpatināgabaleti nāmnā</l></lg>
-                    <p>tatas tasya pu<surplus>t</surplus>tras ta<lb n="8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmā<choice><orig>ṁ</orig><reg>n</reg></choice> śrīmatyāṁ devyāṁ
-                       <lb n="10"/>indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
+                    <p>tatas tasya puttras ta<lb n="8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmāṁ śrīmatyāṁ devyāṁ
+                       <lb n="10"/>Indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
                 <lg n="1" met="upajāti">    
                        <l n="a"><lb n="11"/> I<supplied reason="omitted">n</supplied>dro dayāśīlaguṇānvitāyā</l> 
-                       <l n="b">audāryacāturya</l></lg>                       
+                       <l n="b">Audāryyacāturyya</l></lg>                       
                 <pb n="2v"/><space quantity="1" unit="page"/>    
             </div></div>    
          <div type="apparatus">
