@@ -59,7 +59,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:nabo" when="2020-03-21" status="draft">Encoding initial vowels and details</change>
+            <change who="part:nabo" when="2020-05-17" status="draft">Encoding changes in translation</change>
+            <change who="part:nabo" when="2020-04-22" status="draft">Encoding initial vowels and details</change>
             <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -68,52 +69,49 @@
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                 <p><pb n="2r"/>                  
-                       <lb n="1" break="no"/>gurudevatādhidaivataviśeṣaḥ <space type="binding-hole"/> śrīmāṁ śrīmatyāṁ devyā<supplied reason="omitted">ṁ</supplied> droṇabha<lb n="2" break="no"/>ṭṭārikāyām utpannaḥ śrīmahārājanāgabalaḥ</p> 
+                       <lb n="2r1" break="no"/>gurudevatādhidaivataviśeṣaḥ <space type="binding-hole"/> śrīmāṁ śrīmatyāṁ devyā<supplied reason="omitted">ṁ</supplied> droṇabha<lb n="2r2" break="no"/>ṭṭārikāyām utpannaḥ śrīmahārājanāgabalaḥ</p> 
                 <lg n="1" met="upajāti">    
-                       <l n="a">nāgai<supplied reason="omitted">ḥ</supplied> kṣara<lb n="3"/>tprasrutadānagaṇḍai<supplied reason="omitted">r</supplied></l> 
+                       <l n="a">nāgai<supplied reason="omitted">ḥ</supplied> kṣara<lb n="2r3"/>tprasrutadānagaṇḍai<supplied reason="omitted">r</supplied></l> 
                        <l n="b">bhramatpatākākulitāntarālaiḥ</l>
-                       <l n="c">sainyaṁ <lb n="4"/>sphuracchastrarucā par<choice><sic>i</sic><corr>ī</corr></choice>taṁ</l>
+                       <l n="c">sainyaṁ <lb n="2r4"/>sphuracchastrarucā par<choice><sic>i</sic><corr>ī</corr></choice>taṁ</l>
                        <l n="d">virājate yasya raṇāgry<choice><sic>i</sic><corr>a</corr></choice>bhūmau</l></lg>
-                <lg n="1" met="vasantatilaka">    
-                       <l n="a"><lb n="5"/>suśco<choice><orig>ddhaḥ</orig><reg>titaṁ</reg></choice> khuranipātarajo ’tidūraṁ</l> 
-                       <l n="b">yasyānuyātam iti mā<lb n="6"/>rgagataṁ karī<supplied reason="omitted">n</supplied>draiḥ</l>
+                <lg n="2" met="vasantatilaka">    
+                       <l n="a"><lb n="2r5"/>suśco<choice><orig>ddhaḥ</orig><reg>titaṁ</reg></choice> khuranipātarajo ’tidūraṁ</l> 
+                       <l n="b">yasyānuyātam iti mā<lb n="2r6"/>rgagataṁ karī<supplied reason="omitted">n</supplied>draiḥ</l>
                        <l n="c">tac chāmyate pṛthukarapra<choice><orig>sru</orig><reg>sṛ</reg></choice>taiḥ payobhi<supplied reason="omitted">ḥ</supplied></l>
-                       <l n="d"><choice><sic>tai</sic><corr>te</corr></choice><lb n="7"/><choice><sic>nā</sic><corr>na</corr></choice> hy asau nṛpatināgabaleti nāmnā</l></lg>
-                    <p>tatas tasya puttras ta<lb n="8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmāṁ śrīmatyāṁ devyāṁ
-                       <lb n="10"/>Indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
-                <lg n="1" met="upajāti">    
-                       <l n="a"><lb n="11"/> I<supplied reason="omitted">n</supplied>dro dayāśīlaguṇānvitāyā</l> 
+                       <l n="d"><choice><sic>tai</sic><corr>te</corr></choice><lb n="2r7"/><choice><sic>nā</sic><corr>na</corr></choice> hy asau nṛpatināgabaleti nāmnā</l></lg>
+                    <p>tatas tasya puttras ta<lb n="2r8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="2r9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmāṁ śrīmatyāṁ devyāṁ
+                       <lb n="2r10"/>Indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
+                <lg n="3" met="upajāti">    
+                       <l n="a"><lb n="2r11"/> I<supplied reason="omitted">n</supplied>dro dayāśīlaguṇānvitāyā</l> 
                        <l n="b">Audāryyacāturyya</l></lg>                       
                 <pb n="2v"/><space quantity="1" unit="page"/>    
             </div></div>    
          <div type="apparatus">
+             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp> 
-                  <app loc="1">
-                      <lem><foreign>śrīmān</foreign></lem>
+                  <app loc="2r1">
+                      <lem><foreign>śrīmatyāṁ</foreign></lem>
                       <note>The character for <foreign>śrī°</foreign> seems to be corrupted.</note>
                   </app>
-                  <app loc="1">
-                      <lem><foreign>bhramatpatākākulitāntarāleḥ</foreign></lem>
-                      <note>As an adjective phrase describing the elephants, this compound should be in the instrumental.</note>
-                  </app>
                </listApp>
-         </div>
-         <div type="translation" xml:lang="eng">
-                    <p><supplied reason="undefined" evidence="parallel">His <supplied reason="explanation">i.e. Vatsarāja's</supplied> son - who was favoured by him <supplied reason="explanation">his respected father</supplied>, who was entirely devoted to Śiva, who was the foremost patron of brahmins,</supplied> the distinguished one who was entirely devoted to his teacher/elders and deities – was the illustrious mahārāja Nāgabala, born from the illustrious queen Droṇabhaṭṭārikā</p>                    
-                    <lg n="2">    
-                       <l n="a">He whose army – surrounded by the glittering of flashing weapons, with elephants that have their temples moist with the flow of rut- fluid and the space in between <supplied reason="explanation">their temples</supplied> filled with fluttering banners – shines on the van of the battlefield.</l>    
-                       <l n="b">The dust scattered over a long way by the falling hoofs <supplied reason="explanation">of his horses</supplied>, along the road that his elephants are said to have followed, that <supplied reason="explanation">dust</supplied> is settled by the water sprouting from <supplied reason="explanation">their, i.e. the elephants’</supplied> large trunks. Therefore he is known by the name of king Nāgabala <supplied reason="explanation"><quote>Elephant Force</quote></supplied>.</l></lg>
-                    <p>After him, his <supplied reason="explanation">i.e. Nāgabala’s</supplied> son – who was favoured by him <supplied reason="explanation">i.e. his respected father</supplied>, who was entirely devoted to Śiva, who was the foremost patron of brahmins, the distinguished one who was entirely devoted to his teacher/elders and deities – was the illustrious mahārāja Bharata, born from the illustrious queen Indrabhaṭṭārikā.</p>
-                    <lg n="1">    
-                       <l n="a"><supplied reason="undefined" evidence="parallel">Like Kārttikeya to Śailendraputrī, to her <supplied reason="explanation">i.e. <persName ref="queens.xml#queen6">>Indrabhaṭṭārikā</persName></supplied></supplied> – who possessed the virtues of compassion and integrity, <supplied reason="undefined" evidence="parallel">and who was fully endowed with</supplied> generosity and amiability – <supplied reason="undefined" evidence="parallel">was born a son</supplied> <quote>Indra</quote>, <supplied reason="undefined" evidence="parallel">whose beauty was spotless and lovely.</supplied></l></lg>
-         </div>
+         </div></div>
+         <div type="translation" xml:lang="eng" resp="part:nabo">
+             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
+                    <p><supplied reason="subaudible" evidence="parallel">His <supplied reason="explanation">Vatsarāja's</supplied> son - who was favoured by him <supplied reason="explanation">his respected father</supplied>, who was entirely devoted to Śiva, who was the foremost patron of brahmins,</supplied> the distinguished one who was entirely devoted to his teacher/elders and deities – was the illustrious Mahārāja Nāgabala, born from the illustrious queen Droṇabhaṭṭārikā</p>                    
+                    <p rend="stanza">He whose army – surrounded by the glittering of flashing weapons, with elephants that have their temples moist with the flow of rut- fluid and the space in between <supplied reason="subaudible">their temples</supplied> filled with fluttering banners – shines on the van of the battlefield.</p>    
+                    <p rend="stanza">The dust scattered over a long way by the falling hoofs <supplied reason="subaudible">of his horses</supplied>, along the road that his elephants are said to have followed, that <supplied reason="subaudible">dust</supplied> is settled by the water sprouting from <supplied reason="subaudible">their, i.e. the elephants'</supplied> large trunks. Therefore he is known by the name of king Nāgabala <supplied reason="explanation"><quote>Elephant Force</quote></supplied>.</p>
+                    <p>After him, his <supplied reason="explanation">Nāgabala’s</supplied> son – who was favoured by him <supplied reason="explanation">his respected father</supplied>, who was entirely devoted to Śiva, who was the foremost patron of brahmins, the distinguished one who was entirely devoted to his teacher/elders and deities – was the illustrious Mahārāja Bharata, born from the illustrious queen Indrabhaṭṭārikā.</p>
+                    <p rend="stanza"><supplied reason="subaudible" evidence="parallel">Like Kārttikeya to Śailendraputrī, to her <supplied reason="explanation">Indrabhaṭṭārikā</supplied></supplied> – who possessed the virtues of compassion and integrity, <supplied reason="subaudible" evidence="parallel">and who was fully endowed with</supplied> generosity and amiability – <supplied reason="subaudible" evidence="parallel">was born a son</supplied> <quote>Indra</quote>, <supplied reason="subaudible" evidence="parallel">whose beauty was spotless and lovely.</supplied></p>
+         </div></div>
          <div type="commentary">
              <p>It is clear from the contents of the text that this plate was meant to be the second plate in a set. The fact that the backside of the plate is not used is peculiar and raises the suspicion that either the charter has never been finished, or the engraver deviated from the standard and used more plates.</p>
              <p>Sircar <bibl rend="omitname"><ptr target="bib:Sircar1965_01"/><citedRange unit="page">347-348</citedRange></bibl><bibl rend="omitname"><ptr target="bib:Sircar1974_01"/><citedRange unit="page">265</citedRange></bibl> has argued that the epithet <foreign>paramagurudevatādhidaivataviśeṣaḥ</foreign> in the introduction should be emended to <foreign>paramagurudaivatādhidaivataviśeṣaḥ</foreign>, as an elaboration of <foreign>paramadaivata</foreign>. He translates the compound with <quote>one who is a great teacher (of his subjects) and devotee of the gods and the supreme god</quote>. It seems unlikely that the word <foreign>adhidaivata</foreign> refers to the king’s devotion to <quote>the supreme god</quote>, however, because that devotion is already expressed in the epithet <foreign>paramamāheśvara</foreign>. The interpretation of the compound as translated here is provided by Yuko Yokochi, cf. <bibl><ptr target="bib:Bosma2018_01"/><citedRange unit="page">274</citedRange></bibl></p>
          </div>
         <div type="bibliography">
         	    <p>The inscription was first mentioned by Bajpai in <bibl rend="omitname"><ptr target="bib:Bajpai1977-1978_01"/><citedRange unit="page">433-437</citedRange></bibl>, and published by Bosma in <bibl rend="omitname"><ptr target="bib:Bosma2018_01"/><citedRange unit="page">273-277</citedRange></bibl> based on pictures of the original.</p>	   
-           <listBibl type="secondary">
+                <p>The translation of incomplete passages is based on two parallels: Dk19 and Dk20.</p>
+            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
