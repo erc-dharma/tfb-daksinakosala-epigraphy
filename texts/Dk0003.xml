@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Rawan Copperplate of Narendra</title>
+                <title>Rawan Plate of Narendra</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:nabo">
@@ -71,7 +71,7 @@
                     <lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb 
                         n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb 
                         n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati viditam astu vo yathāsmābhir vva<lb 
-                        n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mā<choice><orig>tṛi</orig><reg>tṛ</reg></choice>rā<lb 
+                        n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mā<choice><sic>tri</sic><corr>tṛ</corr></choice>rā<lb 
                         n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhi<choice><orig>vra</orig><reg>vṛ</reg></choice>ddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb 
                         n="1v6" break="no"/>sa<choice><sic>t</sic><corr>tt</corr></choice>ra</p>                   
                </div></div>    
