@@ -59,6 +59,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
             <change who="part:nabo" when="2020-05-17" status="draft">Encoding changes in translation</change>
             <change who="part:nabo" when="2020-04-22" status="draft">Encoding initial vowels and details</change>
             <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the file</change>
@@ -110,7 +111,7 @@
              <p>The translation of incomplete passages is based on parallel passages in the <ref target="Dk0019.xml">Bamhanī</ref> and <ref target="Dk0020.xml">Malhār</ref> plates of the same king.</p>
          </div>
         <div type="bibliography">
-        	    <p>The inscription was first mentioned by Bajpai (<bibl rend="omitname"><ptr target="bib:Bajpai1977-1978_01"/></bibl>), and published by Bosma (<bibl rend="omitname"><ptr target="bib:Bosma2018_01"/><citedRange>273-277</citedRange></bibl>) based on pictures of the original.</p>	   
+        	    <p>First mentioned by Bajpai (<bibl rend="omitname"><ptr target="bib:Bajpai1977-1978_01"/></bibl>); edited by Bosma (<bibl rend="omitname"><ptr target="bib:Bosma2018_01"/><citedRange>273-277</citedRange></bibl>) from a photograph of the original; re-edited here by Natasja Bosma.</p>	   
             <listBibl type="primary">
                 <bibl>
                     <ptr target="bib:Bosma2018_01"/>

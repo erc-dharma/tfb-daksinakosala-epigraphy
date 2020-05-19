@@ -59,6 +59,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
             <change who="part:nabo" when="2020-05-18" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -72,7 +73,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti vijayaskandhā<choice><sic>va</sic><corr>vā</corr></choice>rāt tilakeśvaravāsakāt paramabhāga<lb 
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti vijayaskandhāv<choice><sic>a</sic><corr>ā</corr></choice>rāt tilakeśvaravāsakāt paramabhāga<lb 
                                        n="1v2" break="no"/>vato mātāpitṛpādānuddhyātaḥ śrīmahārājanarendraḥ cullāḍa<lb 
                                        n="1v3" break="no"/>s<choice><sic>i</sic><corr>ī</corr></choice>m<choice><sic>a</sic><corr>ā</corr></choice>bho<space type="binding-hole"/>gīyakeśavake brāhmaṇapurassarān prativāsi<lb 
                                        n="1v4" break="no"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vaḥ yathāya<supplied reason="omitted">ṁ</supplied> grāma<supplied reason="omitted">ḥ</supplied>
@@ -83,7 +84,7 @@
                                        n="2r4" break="no"/>mo bhujyata Iti|| adhunā <sic>bhā</sic>śrutasvāmiputraśaṅkhasvāmine
                                    <lb n="2r5"/>paramabhaṭṭārakapādānā<supplied reason="omitted">ṁ</supplied> puṇyāpyāyanād eva tāmraśāsa<pb n="2v" break="no"/><lb 
                                        n="2v1" break="no"/>nenānumoditaḥ Ity</p> <p>evam upalabhyāsyājñāśravaṇavidheyā 
-                                   <lb n="2v2"/>bhūtvā yathākālam ucitabhogabhāgadhānyah<choice><sic>i</sic><corr>ī</corr></choice>raṇyāder upa<lb 
+                                   <lb n="2v2"/>bhūtvā yath<choice><sic>o</sic><corr>ā</corr></choice>kālam ucitabhogabhāgadhānyah<choice><sic>i</sic><corr>ī</corr></choice>raṇyāder upa<lb 
                                        n="2v3" break="no"/>nayaṁ ka<space type="binding-hole"/><choice><orig>rṣyi</orig><reg>riṣya</reg></choice>theti|| bhaviṣyataś ca bhūpā<supplied reason="omitted">n</supplied> kuśalopetam anu<lb 
                                        n="2v4" break="no"/>darśayati|| dūtakam adhikaraṇa<supplied reason="omitted">M</supplied>|| vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān udāha<lb 
                                        n="2v5" break="no"/>ranti||</p>
@@ -95,9 +96,9 @@
                                         <l n="cd">mahīṁ mahimatāṁ śreṣṭha dānāc chreyo 'nupāla<lb n="3r3" break="no"/>na<supplied reason="omitted">M</supplied>||</l></lg>
                                    <lg n="3" met="anuṣṭubh">
                                         <l n="ab">ṣa<space type="binding-hole"/>ṣtiṁ varṣasahasrāṇi svargge modati bhūmidaḥ</l>
-                                        <l n="cd">ācche<lb n="3r4" break="no"/>ttā cānumantā cca tāny eva narake vaseT</l></lg>
+                                        <l n="cd">ācche<lb n="3r4" break="no"/>ttā cānumantā <surplus>c</surplus>ca tāny eva narake vaseT</l></lg>
                     <p>pravarddhamānavija<lb 
-                                       n="3r5" break="no"/>yarājyasa<supplied reason="omitted">ṁ</supplied>vvatsare caturvvi<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śatime <num value="24"><g type="numeral">20</g> 4</num> vaiśākha<abbr>di</abbr> <num value="4">4</num> 
+                                       n="3r5" break="no"/>yarājyasa<choice><orig>v</orig><reg>ṁ</reg></choice>vatsare caturvvi<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śatime <num value="24"><g type="numeral">20</g> 4</num> vaiśākha<abbr>di</abbr> <num value="4">4</num> 
                                    <lb n="3r6"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇaṁ śrīdatteneti||</p>
                     <pb n="3v"/><space quantity="1" unit="page"/>
              </div></div>    
@@ -117,7 +118,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p>The inscription was first edited by Dikshit (<bibl rend="omitname"><ptr target="bib:Dikshit1955-1956_01"/></bibl>), and re-edited by Shastri in his<bibl rend="omitname"><ptr target="bib:Shastri1995_01"/><citedRange>8-11</citedRange></bibl>.</p>	   
+        	    <p>First edited by Dikshit (<bibl rend="omitname"><ptr target="bib:Dikshit1955-1956_01"/></bibl>) from the original plates; again edited by Shastri (<bibl rend="omitname"><ptr target="bib:Shastri1995_01"/><citedRange>8-11</citedRange></bibl>) from the published photographs; re-edited here by Natasja Bosma based on photographs of the original plates (edition of the seal based on Dikshit).</p>	   
             <listBibl type="primary">
               <bibl>
                   <ptr target="bib:Shastri1995_01"/>
