@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Amgura Plates of Jayarāja, Year 3</title>
+                <title>Sāraṅgarh Plates of Sudevarāja (incomplete)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:nabo">
@@ -27,7 +27,7 @@
                     innovation programme (grant agreement no 809994).</note>
                 </authority>
                 <pubPlace>Berlin</pubPlace>
-                <idno type="filename">Dk0004</idno>
+                <idno type="filename">Dk0014</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -59,50 +59,39 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:nabo" when="2020-05-28" status="draft">Initial encoding of the file</change>
+            <change who="part:nabo" when="2020-06-14" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">   
-             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                  <lg n="seal.1" met="anuṣṭubh">
-                     <l n="ab"></l>
-                     <l n="cd"></l>
-                 </lg></div>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+             <div type="textpart" n="A"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
                     <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti 
                                    <lb n="1v2"/>
                                    <lb n="1v3"/>
                                    <lb n="1v4"/>
                                    <lb n="1v5"/>
+                                   <lb n="1v6"/>
                        <pb n="2r"/><lb n="2r1"/>
                                    <lb n="2r2"/>
                                    <lb n="2r3"/>
                                    <lb n="2r3"/>
                                    <lb n="2r4"/>
                                    <lb n="2r5"/>
+                                   <lb n="2r6"/>
                        <pb n="2v"/><lb n="2v1"/>
                                    <lb n="2v2"/>
                                    <lb n="2v3"/>
                                    <lb n="2v3"/>
                                    <lb n="2v4"/>
                                    <lb n="2v5"/>
-                       <pb n="3r"/><lb n="3r1"/>
-                                   <lb n="3r2"/>
-                                   <lb n="3r3"/>
-                                   <lb n="3r3"/>
-                                   <lb n="3r4"/>
-                                   <lb n="3r5"/></p>
-                    <pb n="3v"/><space quantity="1" unit="page"/>
+                                   <lb n="2v6"/></p>
              </div></div>    
          <div type="apparatus">
          </div>
          <div type="translation" xml:lang="eng" resp="part:nabo">
-             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                    <p></p></div>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+             <div type="textpart" n="A"><head xml:lang="eng">Plates</head>
                     <p n="1v1-1v4"></p>
                     <p n="2v5-3r1" rend="stanza"></p></div></div>
          <div type="commentary">
