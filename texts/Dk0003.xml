@@ -69,7 +69,7 @@
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                 	<pb n="1r"/><space quantity="1" unit="page"/>
                  <p><pb n="1v"/>
-                    <lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb 
+                    <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb 
                         n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb 
                         n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb 
                         n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb 
@@ -77,21 +77,22 @@
                         n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
                </div></div>    
          <div type="apparatus">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
          </div>
          <div type="translation" xml:lang="eng" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
-                    <p n="1v1-1v3">Success! Hail! From Śarabhapura the illustrious Mahārāja Narendra, who is entirely devoted to Viṣṇu and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the landholders, beginning with the Brahmins, settled <supplied reason="subaudible">in the village of</supplied> Torāmaka situated in the Maṇṭarāja bhukti:</p> 
-                    <p n="1v3-1v6">Let it be known to you that <supplied reason="subaudible">this village has been granted</supplied> to the Lord Śrīdharasvāmin in the temple constructed at Vaṭapadraka, by me for the increase of religious merit of mother <supplied reason="subaudible">and other members of</supplied> the royal family, <supplied reason="subaudible">to finance</supplied> the repair of the temple’s broken and cracked parts, the performance of <foreign>bali</foreign> and <foreign>caru</foreign> offerings, charitable feeding</p>                    
+                    <p n="1v1-1v3">Success! Hail! From Śarabhapura the illustrious Mahārāja Narendra, who is entirely devoted to Viṣṇu and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the landholders, beginning with the Brahmins, settled <supplied reason="subaudible">in the village of</supplied> Torāmaka situated in the Maṇṭarāja <foreign>bhukti</foreign>:</p> 
+                    <p n="1v3-1v6">Let it be known to you that <supplied reason="subaudible">this village has been granted</supplied> by us for the increase of religious merit of mother <supplied reason="subaudible">and other members of</supplied> the royal family, to the Lord Śrīdharasvāmin in the temple constructed at Vaṭapadraka, <supplied reason="subaudible">in order to finance</supplied> the repair of the temple’s broken and cracked parts, the performance of <foreign>bali</foreign> and <foreign>caru</foreign> offerings, charitable feeding</p>                    
          </div></div>
          <div type="commentary">
              <p>This stray plate was likely the first copperplate of a complete set of three plates. It is commonly referred to as `Rawan’ plate, but the original providence of the plate may have been Malhār.</p> 
-             <p>The grant recorded in this inscription was made in facour of the <foreign>mātṛrājakula</foreign>, which was interpreted by Usha Jain (<bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl>) as `the family of Mātṛrāja'. However, Shastri (<bibl rend="omitname"><ptr target="bib:Shastri1995_01"/><citedRange>12-13</citedRange></bibl>) is probably right to suggest that the expression may refer to the (royal) family of Narendra's mother or, because of the plural, to his mother and (other) members of the royal family. Cf., <bibl><ptr target="bib:Bosma2018_01"/><citedRange>99-100</citedRange></bibl></p>
+             <p>The grant recorded in this inscription was made in facour of the <foreign>mātṛrājakula</foreign>, which was interpreted by Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> as `the family of Mātṛrāja'. However, Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> is probably right to suggest that the expression may refer to the (royal) family of Narendra's mother or, because of the plural, to his mother and (other) members of the royal family. Cf., <bibl><ptr target="bib:Bosma2018_01"/><citedRange>99-100</citedRange></bibl></p>
          </div>
         <div type="bibliography">
-        	    <p>First edited by Bajpai (<bibl rend="omitname"><ptr target="bib:Bajpai1977_01"/></bibl>), and Usha Jain (<bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl>) from the original plate; edited again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_01"/><citedRange>12-13</citedRange></bibl> from the published photographs; re-edited here by Natasja Bosma from a photograph of the original.</p>	   
+        	    <p>First edited by Bajpai <bibl rend="omitname"><ptr target="bib:Bajpai1977_01"/></bibl>, and Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> from the original plate; edited again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> from the published photographs; re-edited here by Natasja Bosma from a photograph of the original.</p>	   
             <listBibl type="primary">
               <bibl>
-                  <ptr target="bib:Shastri1995_01"/>
+                  <ptr target="bib:Shastri1995_02"/>
                   <citedRange>12-13</citedRange>
               </bibl>
               <bibl>

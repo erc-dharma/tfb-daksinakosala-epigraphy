@@ -92,7 +92,7 @@
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp> 
                   <app loc="2r1">
-                      <lem><foreign>śrīmatyāṁ</foreign></lem>
+                      <lem>śrīmatyāṁ</lem>
                       <note>The character for <foreign>śrī°</foreign> seems to be corrupted.</note>
                   </app>
                </listApp>
@@ -107,11 +107,11 @@
          </div></div>
          <div type="commentary">
              <p>It is clear from the contents of the text that this plate was meant to be the second plate in a set. The fact that the backside of the plate is not used is peculiar and raises the suspicion that either the charter has never been finished, or the engraver deviated from the standard and used more plates.</p>
-             <p>Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1965_01"/><citedRange unit="page">347-348</citedRange></bibl><bibl rend="omitname"><ptr target="bib:Sircar1974_01"/><citedRange unit="page">265</citedRange></bibl>) has argued that the epithet <foreign>paramagurudevatādhidaivataviśeṣaḥ</foreign> in the introduction should be emended to <foreign>paramagurudaivatādhidaivataviśeṣaḥ</foreign>, as an elaboration of <foreign>paramadaivata</foreign>. He translates the compound with <quote>one who is a great teacher (of his subjects) and devotee of the gods and the supreme god</quote>. It seems unlikely that the word <foreign>adhidaivata</foreign> refers to the king’s devotion to <quote>the supreme god</quote>, however, because that devotion is already expressed in the epithet <foreign>paramamāheśvara</foreign>. The interpretation of the compound as translated here is provided by Yuko Yokochi, cf. <bibl><ptr target="bib:Bosma2018_01"/><citedRange unit="page">274</citedRange></bibl></p>
+             <p>Sircar <bibl rend="omitname"><ptr target="bib:Sircar1965_01"/><citedRange unit="page">347-348</citedRange></bibl><bibl rend="omitname"><ptr target="bib:Sircar1974_01"/><citedRange unit="page">265</citedRange></bibl> has argued that the epithet <foreign>paramagurudevatādhidaivataviśeṣaḥ</foreign> in the introduction should be emended to <foreign>paramagurudaivatādhidaivataviśeṣaḥ</foreign>, as an elaboration of <foreign>paramadaivata</foreign>. He translates the compound with <quote>one who is a great teacher (of his subjects) and devotee of the gods and the supreme god</quote>. It seems unlikely that the word <foreign>adhidaivata</foreign> refers to the king’s devotion to <quote>the supreme god</quote>, however, because that devotion is already expressed in the epithet <foreign>paramamāheśvara</foreign>. The interpretation of the compound as translated here is provided by Yuko Yokochi, cf. <bibl><ptr target="bib:Bosma2018_01"/><citedRange unit="page">274</citedRange></bibl></p>
              <p>The translation of incomplete passages is based on parallel passages in the <ref target="Dk0019.xml">Bamhanī</ref> and <ref target="Dk0020.xml">Malhār</ref> plates of the same king.</p>
          </div>
         <div type="bibliography">
-        	    <p>First mentioned by Bajpai (<bibl rend="omitname"><ptr target="bib:Bajpai1977-1978_01"/></bibl>); edited by Bosma (<bibl rend="omitname"><ptr target="bib:Bosma2018_01"/><citedRange>273-277</citedRange></bibl>) from a photograph of the original; re-edited here by Natasja Bosma.</p>	   
+        	    <p>First mentioned by Bajpai <bibl rend="omitname"><ptr target="bib:Bajpai1977-1978_01"/></bibl>; edited by Bosma <bibl rend="omitname"><ptr target="bib:Bosma2018_01"/><citedRange>273-277</citedRange></bibl> from a photograph of the original; re-edited here by Natasja Bosma.</p>	   
             <listBibl type="primary">
                 <bibl>
                     <ptr target="bib:Bosma2018_01"/>
