@@ -1,74 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Raipur Plates of Sudevarāja, Year 10</title>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raipur Plates of Sudevarāja, Year 10</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
                     Council (ERC) under the European Union's Horizon 2020 research and
                     innovation programme (grant agreement no 809994).</note>
-                </authority>
-                <pubPlace>Berlin</pubPlace>
-                <idno type="filename">Dk0013</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">Dk0013</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- not to be filled in at this stage -->
-                <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
-                    <msContents>
-                        <summary/>
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p/>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:nabo" when="2020-06-14" status="draft">Initial encoding of the file</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- not to be filled in at this stage -->
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:nabo" when="2020-06-14" status="draft">Initial encoding of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                   <lg n="seal.1" met="anuṣṭubh">
-                     <l n="ab"></l>
-                     <l n="cd"></l>
+                     <l n="ab"/>
+                     <l n="cd"/>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
@@ -105,16 +104,16 @@
              </div></div>    
          <div type="apparatus">
          </div>
-         <div type="translation" xml:lang="eng" resp="part:nabo">
+         <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                    <p></p></div>
+                    <p/></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <p n="1v1-1v4"></p>
-                    <p n="2v5-3r1" rend="stanza"></p></div></div>
+                    <p n="1v1-1v4"/>
+                    <p n="2v5-3r1" rend="stanza"/></div></div>
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p></p>	   
+        	    <p/>	   
             <listBibl type="primary">
               <bibl>
               </bibl>

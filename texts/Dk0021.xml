@@ -1,71 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Stray Būrhīkhār Plate of Śūrabala</title>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stray Būrhīkhār Plate of Śūrabala</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
                         Council (ERC) under the European Union's Horizon 2020 research and
                         innovation programme (grant agreement no 809994).</note>
-                </authority>
-                <pubPlace>Berlin</pubPlace>
-                <idno type="filename">Dk0021</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">Dk0021</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- not to be filled in at this stage -->
-                <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
-                    <msContents>
-                        <summary/>
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p/>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
-            <change who="part:nabo" when="2020-05-17" status="draft">Encoding changes in translation</change>
-            <change who="part:nabo" when="2020-04-22" status="draft">Encoding initial vowels and details</change>
-            <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the file</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- not to be filled in at this stage -->
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
+         <change who="part:nabo" when="2020-05-17" status="draft">Encoding changes in translation</change>
+         <change who="part:nabo" when="2020-04-22" status="draft">Encoding initial vowels and details</change>
+         <change who="part:nabo" when="2020-03-21" status="draft">Initial encoding of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
@@ -81,8 +80,7 @@
                        <l n="b">yasyānuyātam iti mā<lb n="2r6" break="no"/>rgagataṁ karī<supplied reason="omitted">n</supplied>draiḥ</l>
                        <l n="c">tac chāmyate pṛthukarapras<choice><sic>ru</sic><corr>ṛ</corr></choice>taiḥ payobhi<supplied reason="omitted">ḥ</supplied></l>
                        <l n="d">t<choice><sic>ai</sic><corr>e</corr></choice><lb n="2r7" break="no"/>n<choice><sic>ā</sic><corr>a</corr></choice> hy asau nṛpatināgabaleti nāmnā</l></lg>
-                    <p>tatas tasya puttras ta<lb n="2r8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="2r9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmāṁ śrīmatyāṁ devyāṁ <lb 
-                          n="2r10"/>Indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
+                    <p>tatas tasya puttras ta<lb n="2r8" break="no"/>tpādānudhyātaḥ paramamāheśvaraḥ paramabrahmaṇyaḥ pa<lb n="2r9" break="no"/>ramagurudevatādhidaivataviśeṣaḥ śrīmāṁ śrīmatyāṁ devyāṁ <lb n="2r10"/>Indrabhaṭṭārikāyām utpannaḥ śrīmahārājabharataḥ</p>
                 <lg n="3" met="upajāti">    
                        <l n="a"><lb n="2r11"/>I<supplied reason="omitted">n</supplied>dro dayāśīlaguṇānvitāyā</l> 
                        <l n="b">Audāryyacāturyya</l></lg>                       
@@ -97,7 +95,7 @@
                   </app>
                </listApp>
          </div></div>
-         <div type="translation" xml:lang="eng" resp="part:nabo">
+         <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                     <p n="2r1-2r2"><supplied reason="subaudible" evidence="parallel">His <supplied reason="explanation">Vatsarāja's</supplied> son - who was favoured by him <supplied reason="explanation">his respected father</supplied>, who was entirely devoted to Śiva, who was the foremost patron of brahmins,</supplied> the distinguished one who was entirely devoted to his teacher/elders and deities – was the illustrious Mahārāja Nāgabala, born from the illustrious queen Droṇabhaṭṭārikā</p>                    
                     <p n="2r2-2r4" rend="stanza">He whose army – surrounded by the glittering of flashing weapons, with elephants that have their temples moist with the flow of rut- fluid and the space in between <supplied reason="subaudible">their temples</supplied> filled with fluttering banners – shines on the van of the battlefield.</p>    

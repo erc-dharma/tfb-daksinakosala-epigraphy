@@ -1,85 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Stray Rawan Plate of Narendra</title>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:nabo">
-                        <forename>Natasja</forename>
-                        <surname>Bosma</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stray Rawan Plate of Narendra</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:nabo">
+                  <forename>Natasja</forename>
+                  <surname>Bosma</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
                     Council (ERC) under the European Union's Horizon 2020 research and
                     innovation programme (grant agreement no 809994).</note>
-                </authority>
-                <pubPlace>Berlin</pubPlace>
-                <idno type="filename">Dk0003</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">Dk0003</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- not to be filled in at this stage -->
-                <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
-                    <msContents>
-                        <summary/>
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p/>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
-            <change who="part:nabo" when="2020-05-17" status="draft">Initial encoding of the file</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Natasja Bosma.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- not to be filled in at this stage -->
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:nabo" when="2020-05-19" status="draft">Minor changes</change>
+         <change who="part:nabo" when="2020-05-17" status="draft">Initial encoding of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                 	<pb n="1r"/><space quantity="1" unit="page"/>
                  <p><pb n="1v"/>
-                    <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb 
-                        n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb 
-                        n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb 
-                        n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb 
-                        n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhiv<choice><sic>ra</sic><corr>ṛ</corr></choice>ddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb 
-                        n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
+                    <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhiv<choice><sic>ra</sic><corr>ṛ</corr></choice>ddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
                </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:nabo">
+         <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                     <p n="1v1-1v3">Success! Hail! From Śarabhapura the illustrious Mahārāja Narendra, who is entirely devoted to Viṣṇu and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the landholders, beginning with the Brahmins, settled <supplied reason="subaudible">in the village of</supplied> Torāmaka situated in the Maṇṭarāja <foreign>bhukti</foreign>:</p> 
                     <p n="1v3-1v6">Let it be known to you that <supplied reason="subaudible">this village has been granted</supplied> by us for the increase of religious merit of mother <supplied reason="subaudible">and other members of</supplied> the royal family, to the Lord Śrīdharasvāmin in the temple constructed at Vaṭapadraka, <supplied reason="subaudible">in order to finance</supplied> the repair of the temple’s broken and cracked parts, the performance of <foreign>bali</foreign> and <foreign>caru</foreign> offerings, charitable feeding</p>                    
@@ -112,4 +106,3 @@
       </body>
   </text>
 </TEI>
-
