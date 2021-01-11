@@ -139,7 +139,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p>First edited by Fleet <bibl rend="omitname"><ptr target="bib:Fleet1970_04"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>20-23</citedRange></bibl>; re-edited here by Natasja Bosma based on photographs of the original plates (edition of the seal based on Fleet).</p>	   
+        	    <p>First edited by Fleet <bibl rend="omitname"><ptr target="bib:Fleet1970_04"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>20-23</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Fleet).</p>	   
             <listBibl type="primary">
               <bibl>
                   <ptr target="bib:Fleet1970_04"/>
