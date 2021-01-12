@@ -88,7 +88,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                  <lg n="seal.1" met="anuṣṭubh">
+                  <lg n="1" met="anuṣṭubh">
                      <l n="ab">khaḍgadhārājitabhuvaḥ śara<unclear>bhā</unclear>t prāptajanmanaḥ</l>
                      <l n="cd">nṛpateś śrīnarendrasya śāsanaṁ ripuśāsina<supplied reason="omitted">ḥ</supplied></l>
                  </lg></div>
@@ -121,14 +121,14 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p>First edited by Sircar and Pandeya <bibl rend="omitname"><ptr target="bib:Sircar+Pandeya1943_01"/></bibl> from  rubbings made of the original plates and seal; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>5-7</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (unclear passages based on Sircar and Pandeya).</p>	   
+        	    <p>First edited by Sircar and Pandeya <bibl rend="omitname"><ptr target="bib:Sircar+Sarma1943_01"/></bibl> from  rubbings made of the original plates and seal; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>5-7</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (unclear passages based on Sircar and Pandeya).</p>	   
             <listBibl type="primary">
               <bibl>
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>5-7</citedRange>
               </bibl>
               <bibl>
-                <ptr target="bib:Sircar+Pandeya1943_01"/>
+                <ptr target="bib:Sircar+Sarma1943_01"/>
                </bibl>
            </listBibl>
            <listBibl type="secondary">
