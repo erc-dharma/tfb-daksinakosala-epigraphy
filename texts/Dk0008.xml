@@ -129,7 +129,7 @@
                                         <l n="ab"><pb n="3v" break="no"/><lb n="3v1"/>svadattāṁ paradattāṁ vā yatnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd">mahī<choice><orig>m</orig><reg>ṁ</reg></choice> mah<choice><sic>i</sic><corr>ī</corr></choice>matāñ <choice><sic>cch</sic><corr>ch</corr></choice>reṣṭha <lb n="3v2"/>dānāc chreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
-                                <p>svamukhājñayā sa<choice><orig>vva</orig><reg>ṁva</reg></choice>tsara <num value="2">2</num> śrāvaṇa di <num value="20">20</num> <add place="below"><num value="9">9</num></add> <lb 
+                                <p>svamukhājñayā <choice><orig>savva</orig><reg>saṁva</reg></choice>tsara <num value="2">2</num> śrāvaṇa di <num value="20">20</num> <add place="below"><num value="9">9</num></add> <lb 
                                            n="3v3"/>Utkīrṇṇaṁ tā<space type="binding-hole"/><choice><orig>mbra</orig><reg>mra</reg></choice>śāsanaṁ droṇasiṅghena</p>
              </div></div>   
          <div type="apparatus">
@@ -137,13 +137,13 @@
                       <lem>°dhauta°</lem>
                      <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                      <rdg source="bib:Konow1907-1908_01">°dhota°</rdg>
-                     <rdg source="Shastri1995_02">°dhauta°</rdg>
+                     <rdg source="bib:Shastri1995_02">°dhauta°</rdg>
                   </app>
                   <app loc="2r4">
                       <lem>°kauśika°</lem>
                      <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                      <rdg source="bib:Konow1907-1908_01">°kośika°</rdg>
-                     <rdg source="Shastri1995_02">°kauśika°</rdg>
+                     <rdg source="bib:Shastri1995_02">°kauśika°</rdg>
                   </app>
          </div>
          <div type="translation" resp="part:nabo">
