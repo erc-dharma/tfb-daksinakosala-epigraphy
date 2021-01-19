@@ -128,16 +128,19 @@
                       <lem>°s<choice><sic>ima</sic><corr>īmā</corr></choice>°</lem>
                      <rdg source="bib:Dikshit1955-1956_01">°sīma°</rdg>
                      <rdg source="bib:Shastri1995_02">°sīm<choice><sic>a</sic><corr>ā</corr></choice>°</rdg>
+                     <rdg source="bib:Jain+al2005_01">°sīmā°</rdg>
                   </app>
                    <app loc="2r1">
                       <lem>gaṅgāyā<supplied reason="omitted">ṁ</supplied></lem>
                      <rdg source="bib:Dikshit1955-1956_01">gaṅgāyā<supplied reason="omitted">ṁ</supplied></rdg>
                      <rdg source="bib:Shastri1995_02">gaṅgāy<choice><orig>a</orig><reg>ā</reg></choice><supplied reason="omitted">ṁ</supplied></rdg>
+                     <rdg source="bib:Jain+al2005_01">gaṅgāyāṁ</rdg>
                   </app>
                    <app loc="3r1">
                       <lem>phalaṁ</lem>
                      <rdg source="bib:Dikshit1955-1956_01">phala<supplied reason="omitted">m</supplied></rdg>
                      <rdg source="bib:Shastri1995_02">phala<supplied reason="omitted">m</supplied></rdg>
+                      <rdg source="bib:Jain+al2005_01">phala<supplied reason="omitted">m</supplied></rdg>
                   </app>
          </div>
          <div type="translation" resp="part:nabo">
@@ -159,7 +162,7 @@
               <bibl n="D">
                 <ptr target="bib:Dikshit1955-1956_01"/>
                </bibl>
-               <bibl>
+               <bibl n="J">
                   <ptr target="bib:Jain+al2005_01"/>
                   <citedRange>6-10</citedRange>
               </bibl>
