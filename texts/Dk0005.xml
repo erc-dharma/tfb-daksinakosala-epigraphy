@@ -89,13 +89,25 @@
          <div type="edition" xml:lang="san-Latn">   
                 <div type="textpart" n="A"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/>svasti śarabhapurā<surplus>T</surplus>d vikkramopanatasāma<choice><orig>ṁtta</orig><reg>nta</reg></choice>cūḍāmaṇiprabhāprasekāmbu<lb n="1v2" break="no"/>bhir <choice><sic>dho</sic><corr>dhau</corr></choice>tapādayugalo ripuvilāsinīsīma<choice><orig>tto</orig><reg>nto</reg></choice>ddharaṇahetur vvasuvasudhā<lb n="1v3" break="no"/>gopradaḫ paramabhāgavato mātāpi<choice><orig>tri</orig><reg>tṛ</reg></choice>pādānuddhyātaḥ śrīmahājayarājaḥ <lb n="1v4"/>a<choice><orig>ṁtta</orig><reg>nta</reg></choice>ranā<space type="binding-hole"/>lakīyakada<surplus>ṁ</surplus>mbapadrullake prativāsikuṭumbinas samā<lb n="1v5" break="no"/>jñāpayati<g type="dotDouble"/></p> <p>viditam astu vo yathāsmābhir ayaṁ grāmas tridaśapati<lb n="1v6" break="no"/>sadanasukhapratiṣṭhākaro yāvad raviśaśitārākiraṇapratihata<pb n="2r" break="no"/><lb n="2r1" break="no"/>ghorā<choice><orig>ddha</orig><reg>ndha</reg></choice>kāra<supplied reason="omitted">ṁ</supplied> jagad avatiṣṭhate tāvad upabho<choice><orig>jya</orig><reg>gya</reg></choice><supplied reason="omitted">ḥ</supplied> sanidhis sopanidh<subst><del>ī</del><add place="overstrike">i</add></subst><lb n="2r2" break="no"/>r acāṭabhaṭaprā<choice><sic>vai</sic><corr>ve</corr></choice>śya<supplied reason="omitted">s</supplied> sarvvakaravisarjjitaẖ k<unclear>au</unclear>tsasagotrabrāhmaṇakapa<lb n="2r3" break="no"/>rddisvāmi<space type="binding-hole"/><choice><orig>nas</orig><reg>ne</reg></choice> somoparāge mātāpitror ātmanaś ca puṇyābhi<choice><sic>vra</sic><corr>vṛ</corr></choice>ddha<lb n="2r4" break="no"/>ye Udaka<space type="binding-hole"/>pūrvva<supplied reason="omitted">ṁ</supplied> tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭa<surplus>ḥ</surplus>s</p> <p>te  yūyam evam upala<lb n="2r5"/>bhyāsyājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanaya<choice><orig>ṁtta</orig><reg>nta</reg></choice>ḥ sukhaṁ <lb n="2r6"/>prativa<supplied reason="omitted">t</supplied>syatha÷ bhaviṣyataś ca bhūmipān anudarśayati÷</p> 
+                    <p><pb n="1v"/><lb n="1v1"/>svasti śarabhapurā<surplus>T</surplus>d vikkramopanatasāma<choice><orig>ṁtta</orig><reg>nta</reg></choice>cūḍāmaṇiprabhāprasekāmbu<lb 
+                                       n="1v2" break="no"/>bhir dhautapādayugalo ripuvilāsinīsīma<choice><orig>tto</orig><reg>nto</reg></choice>ddharaṇahetur vvasuvasudhā<lb 
+                                       n="1v3" break="no"/>gopradaḫ paramabhāgavato mātāpit<choice><orig>ri</orig><reg>ṛ</reg></choice>pādānuddhyātaḥ śrīmahājayarājaḥ <lb 
+                                       n="1v4"/>a<choice><orig>ṁtta</orig><reg>nta</reg></choice>ranā<space type="binding-hole"/>lakīyakada<surplus>ṁ</surplus>mbapadrullake prativāsikuṭumbinas samā<lb 
+                                       n="1v5" break="no"/>jñāpayati<g type="dotDouble"/></p> <p>viditam astu vo yathāsmābhir ayaṁ grāmas tridaśapati<lb 
+                                       n="1v6" break="no"/>sadanasukhapratiṣṭhākaro yāvad raviśaśitārākiraṇapratihata<pb n="2r" break="no"/><lb 
+                                       n="2r1" break="no"/>ghorā<choice><orig>ddha</orig><reg>ndha</reg></choice>kāra<supplied reason="omitted">ṁ</supplied> jagad avatiṣṭhate tāvad upabho<choice><orig>j</orig><reg>g</reg></choice>ya<supplied reason="omitted">ḥ</supplied> sanidhis sopanidh<subst><del>ī</del><add place="overstrike">i</add></subst><lb 
+                                       n="2r2" break="no"/>r acāṭabhaṭaprāv<choice><sic>ai</sic><corr>e</corr></choice>śya<supplied reason="omitted">s</supplied> sarvvakaravisarjjitaẖ k<unclear>au</unclear>tsasagotrabrāhmaṇakapa<lb 
+                                       n="2r3" break="no"/>rddisvāmi<space type="binding-hole"/><choice><orig>nas</orig><reg>ne</reg></choice> somoparāge mātāpitror ātmanaś ca puṇyābhiv<choice><sic>ra</sic><corr>ṛ</corr></choice>ddha<lb 
+                                       n="2r4" break="no"/>ye Udaka<space type="binding-hole"/>pūrvva<unclear>ṁ</unclear> tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭa<surplus>ḥ</surplus>s</p> <p>te  yūyam evam upala<lb 
+                                       n="2r5"/>bhyāsyājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanaya<choice><orig>ṁtta</orig><reg>nta</reg></choice>ḥ sukhaṁ <lb 
+                                       n="2r6"/>prativa<supplied reason="omitted">t</supplied>syatha÷ bhaviṣyataś ca bhūmipān anudarśayati÷</p> 
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśi<unclear>ṣṭa</unclear><pb n="2v" break="no"/><lb n="2v1" break="no"/>m anupālanajaṁ purāṇā<surplus>T</surplus></l>
                                         <l n="b">dharmmeṣu niścitadhiyaḫ pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice> dharma<supplied reason="omitted">ṁ</supplied></l>
                                         <l n="c"><lb n="2v2"/>tasmā<supplied reason="omitted">d</supplied> dvijāya suviśuddhakulaśrutāya</l>
-                                        <l n="d">dattāṁ bhuvaṁ bhavatu vo mati<lb n="2v3" break="no"/>r eva go<space type="binding-hole"/>ptu<supplied reason="omitted">ṁ</supplied> <del rend="strikeout">matir eva goptum</del></l></lg>
-                                <p>bhavad<choice><sic>v</sic><corr>bh</corr></choice>ir apy eṣā dattir anupāla<lb n="2v4" break="no"/>yitavyā÷<space type="binding-hole"/> vyāsagītāṁś cātra ślokān udāhara<choice><orig>ṁtti</orig><reg>nti</reg></choice>=</p>
+                                        <l n="d">dattāṁ bhuvaṁ bhavatu vo mati<lb n="2v3" break="no"/>r eva go<space type="binding-hole"/>ptuṁ <del rend="strikeout">matir eva goptum</del></l></lg>
+                                <p>bhavad<choice><sic>v</sic><corr>bh</corr></choice>ir apy eṣā dattir anupāla<lb 
+                                           n="2v4" break="no"/>yitavyā÷<space type="binding-hole"/> vyāsagītāṁś cātra ślokān udāhara<choice><orig>ṁtti</orig><reg>nti</reg></choice>=</p>
                                    <lg n="2" met="indravajrā">
                                         <l n="a">Agner apatyaṁ <lb n="2v5"/>prathamaṁ suvarṇṇaṁ=</l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasutāś ca gāvaḥ</l>
@@ -112,11 +124,29 @@
                     <pb n="3v"/><space quantity="1" unit="page"/>
              </div></div>    
          <div type="apparatus">
-             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+             <div type="textpart" n="A"><head xml:lang="eng">Plates</head>
                  <listApp> 
+                  <app loc="1v2">
+                      <lem>dhauta°</lem>
+                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
+                  </app> 
                   <app loc="2r4">
                       <lem source="bib:Sircar1960_02"><del rend="strikeout">matir eva goptum</del></lem>
+                  </app>
+                  <app loc="2r5">
+                      <lem>yathocitaṁ</lem>
+                     <rdg source="bib:Sircar1960_02">yathocita°</rdg>
+                     <rdg source="bib:Shastri1995_02">yathocitaṁ</rdg>
+                  </app>
+                  <app loc="2v1">
+                      <lem>pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice></lem>
+                     <rdg source="bib:Sircar1960_02">pravada<surplus>ṁ</surplus>nti</rdg>
+                     <rdg source="bib:Shastri1995_02">pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice></rdg>
+                  </app>
+                  <app loc="3r2">
+                      <lem>rāja<surplus>ḥbh</surplus>bhis</lem>
+                     <rdg source="bib:Sircar1960_02">rāja<surplus>ḥbh</surplus>bhis</rdg>
+                     <rdg source="bib:Shastri1995_02">rāja<surplus>ḥ</surplus>bhis</rdg>
                   </app>
                </listApp>
          </div></div>
@@ -132,14 +162,15 @@
                     <p n="3r2-3r4" rend="stanza">The earth has been granted by many kings, beginning with Sagara: Whoever possesses the land at any time, to him belong the fruits at that time!</p>
                     <p n="3r4-3r5">By the order from the king’s own mouth, <supplied reason="subaudible">the copperplate charter</supplied> has been engraved by Acalasiṅgha <supplied reason="subaudible">on</supplied> the day 5 <supplied reason="subaudible">of</supplied> the month of Kārttika <supplied reason="subaudible">in</supplied> the increasingly victorious year five 5 <supplied reason="subaudible">of Jayarāja's reign</supplied>.</p></div></div>
          <div type="commentary">
+            <p>The seal that used to be attached to these plates is lost.</p> 
          </div>
         <div type="bibliography">
         	    <p>First edited by Sircar <bibl rend="omitname"><ptr target="bib:Sircar1960_02"/></bibl> from the original plates and their impressions; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>17-19</citedRange></bibl>; re-edited here by Natasja Bosma based on photographs of the original plates.</p>	   
             <listBibl type="primary">
-              <bibl n="S">
+              <bibl n="Si">
                   <ptr target="bib:Sircar1960_02"/>
               </bibl>
-               <bibl>
+               <bibl n="Sh">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>17-19</citedRange>
               </bibl>

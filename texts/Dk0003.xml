@@ -90,10 +90,23 @@
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                 	<pb n="1r"/><space quantity="1" unit="page"/>
                  <p><pb n="1v"/>
-                    <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhiv<choice><sic>ra</sic><corr>ṛ</corr></choice>ddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
+                    <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb 
+                        n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb 
+                        n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb 
+                        n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb 
+                        n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhivṛddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb 
+                        n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
                </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head></div>
+                   <app loc="1v2">
+                      <lem>°bhukt<choice><sic>o</sic><corr>au</corr></choice></lem>
+                     <rdg source="bib:UshaJain1979_01">°bhukto</rdg>
+                     <rdg source="bib:Shastri1995_02">°bhuktau</rdg>
+                      <lem>brāhmaṇādī<supplied reason="omitted">n</supplied></lem>
+                     <rdg source="bib:UshaJain1979_01">brāhmaṇādi°</rdg>
+                     <rdg source="bib:Shastri1995_02">brāhmaṇādī<supplied reason="omitted">n</supplied></rdg>
+                  </app>
          </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
@@ -107,15 +120,15 @@
         <div type="bibliography">
         	    <p>First edited by Bajpai <bibl rend="omitname"><ptr target="bib:Bajpai1977_01"/></bibl>, and Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> from the original plate; edited again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> from the published photographs; re-edited here by Natasja Bosma from a photograph of the original.</p>	   
             <listBibl type="primary">
-              <bibl>
+               <bibl>
+                <ptr target="bib:Bajpai1977_01"/>
+              </bibl>
+              <bibl n="S">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>12-13</citedRange>
               </bibl>
-              <bibl>
+              <bibl n="UJ">
                 <ptr target="bib:UshaJain1979_01"/>
-              </bibl>
-              <bibl>
-                <ptr target="bib:Bajpai1977_01"/>
               </bibl>
            </listBibl>
            <listBibl type="secondary">

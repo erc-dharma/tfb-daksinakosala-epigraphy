@@ -94,19 +94,63 @@
                  </lg></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti śarabhapurān mahārājaśrīnarendraḥ <lb n="1v2"/>nandapurabhogīyaśarkarāpadrake brāhmaṇā<lb n="1v3" break="no"/>dīn prati<space type="binding-hole"/>vāsikuṭumbino bodhayati</p> <p><lb n="1v4"/>Eṣa grāmo rāhudevena svapuṇyābhivṛddha<lb n="1v5" break="no"/>ye brāhmaṇavājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treyasagotra<pb n="2r" break="no"/><lb n="2r1" break="no"/>svāmippāya tāmraśāsanenātisṛṣṭo mayā<lb n="2r2" break="no"/>pi ca Acāṭabhaṭaprāveśya Ity anumodito <lb n="2r3"/>yato bha<space type="binding-hole"/>vadbhir asya yathākālaṁ meya<lb n="2r4" break="no"/>hiraṇyādīnāṁ pratyāyānām upanayanaḥ <lb n="2r5"/>karttavyaḥ</p> <p>bhaviṣyataś ca bhogapatīn abhinandayati <pb n="2v"/><lb n="2v1"/>pūrvvadatter anupālanāc chreyasā sambandhaḥ Ā<lb n="2v2" break="no"/>cchedāc ca pratyapāya Ity anuprapaśyadbhir bhavadbhi<lb n="2v3" break="no"/>r asya grā<space type="binding-hole"/>masyānupālanaṁ karttavyaM <lb n="2v4"/>vyāsagītāv atra ślokāv udāharanti~</p>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti śarabhapurān mahārājaśrīnarendraḥ <lb 
+                           n="1v2"/>nandapurabhogīyaśarkarāpadrake brāhmaṇā<lb 
+                           n="1v3" break="no"/>dīn prati<space type="binding-hole"/>vāsikuṭumbino bodhayati</p> <p><lb 
+                           n="1v4"/>Eṣa grāmo rāhudevena svapuṇyābhivṛddha<lb 
+                           n="1v5" break="no"/>ye brāhmaṇavājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treyasagotra<pb n="2r" break="no"/><lb 
+                           n="2r1" break="no"/>svāmippāya tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭo mayā<lb 
+                           n="2r2" break="no"/>pi ca Acāṭabhaṭaprāveśya Ity anumodito <lb 
+                           n="2r3"/>yato bha<space type="binding-hole"/>vadbhir asya yathākālaṁ meya<lb 
+                           n="2r4" break="no"/>hiraṇyādīnāṁ pratyāyānām upanayanaḥ <lb 
+                           n="2r5"/>karttavyaḥ</p> <p>bhaviṣyataś ca bhogapatīn abhinandayati <pb n="2v"/><lb 
+                           n="2v1"/>pūrvvadatter anupālanāc chreyasā sambandhaḥ Ā<lb 
+                           n="2v2" break="no"/>cchedāc ca pratyapāya Ity anuprapaśyadbhir bhavadbhi<lb 
+                           n="2v3" break="no"/>r asya grā<space type="binding-hole"/>masyānupālanaṁ karttavyaM <lb 
+                           n="2v4"/>vyāsagītāv atra ślokāv udāharanti~</p>
                                    <lg n="1" met="anuṣṭubh">
                                         <l n="ab">pūrvva<lb n="2v5" break="no"/>dattāṃ dvijātibhyo yatnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd"><pb n="3r"/><lb n="3r1"/>mahīṁ mahīmatāṁ śreṣṭha dānāc chreyo 'nupālanaM</l></lg>
                                    <lg n="2" met="anuṣṭubh">
                                         <l n="ab"><lb n="3r2"/>ṣaṣṭiṁ varṣasahasrāṇi svargge vasati bhūmidaḥ</l>
                                         <l n="cd"><lb n="3r3"/>Ācchettā <space type="binding-hole"/>cānumantā ca tāny eva narake <lb n="3r4"/>vase<supplied reason="omitted">T</supplied></l></lg>
-                    <p>pravarddhamānat<choice><orig>ri</orig><reg>ṛ</reg></choice>tīyavarṣasya mārggaśi<lb n="3r5" break="no"/>ramāsadivase daśame Utkīrṇṇāṁ śrīdatteneti[~]</p>
+                    <p>pravarddhamānat<choice><orig>ri</orig><reg>ṛ</reg></choice>tīyavarṣasya mārggaśi<lb 
+                           n="3r5" break="no"/>ramāsadivase daśame Utkīrṇṇāṁ śrīdatteneti[~]</p>
                     <pb n="3v"/><space quantity="1" unit="page"/>
               </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+                  <app loc="ab">
+                      <lem>°bhuvaḥ</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">°bhuvaḥ</rdg>
+                     <rdg source="bib:Shastri1995_02">°bhuvaiḥ</rdg>
+                  </app>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head></div>
+                  <app loc="1v5">
+                      <lem>°vājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treya°</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">°vājasaneya-Ātreya°</rdg>
+                     <rdg source="bib:Shastri1995_02">°vājasaneya-Ātreya°</rdg>
+                  </app>
+                  <app loc="2r1">
+                      <lem>tā<choice><orig>mbra</orig><reg>mra</reg></choice>°</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">tāmra°</rdg>
+                     <rdg source="bib:Shastri1995_02">tā<choice><orig>mbra</orig><reg>mra</reg></choice>°</rdg>
+                  </app>
+                  <app loc="2v1">
+                      <lem>pūrvva°</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">pūrvva°</rdg>
+                     <rdg source="bib:Shastri1995_02">pūrva°</rdg>
+                  </app>
+                  <app loc="2v4">
+                      <lem>°gītāv atra</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">°gītau cātra</rdg>
+                     <rdg source="bib:Shastri1995_02">°gītāv atra</rdg>
+                  </app>
+                   <app loc="3r4">
+                      <lem>°t<choice><orig>ri</orig><reg>ṛ</reg></choice>tīya°</lem>
+                     <rdg source="bib:Sircar+Sarma1943_01">°t<choice><orig>ri</orig><reg>ṛ</reg></choice>tīya°</rdg>
+                     <rdg source="bib:Shastri1995_02">°tṛ<surplus>i</surplus>tīya°</rdg>
+                  </app>
          </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
@@ -123,11 +167,11 @@
         <div type="bibliography">
         	    <p>First edited by Sircar and Pandeya <bibl rend="omitname"><ptr target="bib:Sircar+Sarma1943_01"/></bibl> from  rubbings made of the original plates and seal; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>5-7</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (unclear passages based on Sircar and Pandeya).</p>	   
             <listBibl type="primary">
-              <bibl>
+              <bibl n="S">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>5-7</citedRange>
               </bibl>
-              <bibl>
+              <bibl n="SS">
                 <ptr target="bib:Sircar+Sarma1943_01"/>
                </bibl>
            </listBibl>
