@@ -94,7 +94,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralL"/>~ svasti śarabhapurāt paramabhāgavato mātāpitṛpādānu<lb 
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralL"/><g type="dashPlain"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānu<lb 
                            n="1v2" break="no"/>ddhyāta<choice><orig>ś</orig><reg>ḥ</reg></choice> śr<choice><sic>i</sic><corr>ī</corr></choice>mahājayarāja<supplied reason="omitted">ḥ</supplied> sāmparājabhukti<choice><sic>i</sic><corr>ī</corr></choice>yarājyagrāme pra<lb 
                            n="1v3" break="no"/>ti<space type="binding-hole"/>vāsinas samājñāpayati</p> <p>viditam astu vo yathāsmā<lb 
                            n="1v4" break="no"/>bhir ayaṁ grāmo vājasaneyakauśikasagotrabrāhmaṇaviṣṇusvā<lb 
@@ -102,13 +102,13 @@
                            n="2r1" break="no"/>śāsanenātisṛṣṭas</p> <p>te yūyam ev<choice><orig>o</orig><reg>am u</reg></choice>palabhyāsyājñāśravaṇavidheyā bhū<lb 
                            n="2r2" break="no"/>tvā yathocitaṁ bhogabhāgam upaneṣyatha bhaviṣyataś ca bhūmipālā<lb 
                            n="2r3" break="no"/>n bo<space type="binding-hole"/>dhayati bhavadbhir apy asyā datte<supplied reason="omitted">ḥ</supplied> pratipālanaṁ karttavya<lb 
-                           n="2r4" break="no"/>m ataś ca vyāsagītān api ślokān udāhara<choice><orig>ṁtti</orig><reg>nti</reg></choice>~</p>
+                           n="2r4" break="no"/>m ataś ca vyāsagītān api ślokān udāhara<choice><orig>ṁtti</orig><reg>nti</reg></choice><g type="dashPlain"/></p>
                        <lg n="1" met="anuṣṭubh">
                             <l n="ab">bahubhir vvasudhā <lb n="2r5"/>dattā rājabhis sagarādibhiḥ</l>
                             <l n="cd">yasya yasya yadā bhūmis tasya tasya <pb n="2v"/><lb n="2v1"/>tadā phalaṁ</l></lg>
                        <lg n="2" met="anuṣṭubh"> 
                             <l n="ab">svadattā<supplied reason="omitted">ṁ</supplied> paradattāṁ vā yatnād rakṣa yudhiṣṭhira</l>
-                            <l n="cd">ma<lb n="2v2" break="no"/>hī<supplied reason="omitted">ṁ</supplied> mahīmatā<supplied reason="omitted">ṁ</supplied> śreṣṭha dānāc chreyo 'nupālanaṁ~</l></lg>
+                            <l n="cd">ma<lb n="2v2" break="no"/>hī<supplied reason="omitted">ṁ</supplied> mahīmatā<supplied reason="omitted">ṁ</supplied> śreṣṭha dānāc chreyo 'nupālanaṁ<g type="dashPlain"/></l></lg>
                        <lg n="3" met="anuṣṭubh">
                             <l n="ab">ṣaṣṭivarṣa<lb n="2v3" break="no"/>sa<space type="binding-hole"/>hasrāṇi svargge vasati bhūmida<supplied reason="omitted">ḥ</supplied></l>
                             <l n="cd">Ācche<choice><orig>p</orig><reg>t</reg></choice>tā cā<lb n="2v4" break="no"/>numa<choice><orig>ṁttā</orig><reg>ntā</reg></choice> ca tāny eva narake vaseT</l></lg>
@@ -131,7 +131,9 @@
                       <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
                       <rdg source="bib:Tripathy1977_01">śr<choice><sic>i</sic><corr>ī</corr></choice>°</rdg>
                       <rdg source="bib:Shastri1995_02">śrī°</rdg>
-                      <lem>°bhukti<choice><sic>i</sic><corr>ī</corr></choice>ya°</lem>
+                  </app>
+                  <app loc="1v2">
+                         <lem>°bhukti<choice><sic>i</sic><corr>ī</corr></choice>ya°</lem>
                       <rdg source="bib:Tripathy1977_01">°bhuktīya°</rdg>
                       <rdg source="bib:Shastri1995_02">°bhuktīya°</rdg>
                   </app>
