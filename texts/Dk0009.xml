@@ -106,7 +106,7 @@
                                        n="2r2"/>sanidhi<supplied reason="omitted">s</supplied> sopanidhir acāṭabhaṭaprāveśya<supplied reason="omitted">s</supplied> sarvvakaravisarjji<lb 
                                        n="2r3" break="no"/>taḥ mātāpitror ātmanaś ca puṇyābhivṛddhaye kā<choice><orig>s</orig><reg>ś</reg></choice>yapa<supplied reason="omitted">sa</supplied>gotra<lb
                                        n="2r4" break="no"/>vājasa<space type="binding-hole"/>neyimādhavacaturvvedasvāmine tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb 
-                                       n="2r5" break="no"/>nātis<choice><orig>ri</orig><reg>ṛ</reg></choice>ṣ<choice><orig>ṭh</orig><reg>ṭ</reg></choice>aḥ</p> <p>te <choice><sic>yu</sic><corr>yū</corr></choice>yam evam upalabhy<choice><orig>a A</orig><reg>āsyā</reg></choice>jñāśravaṇavidhe<choice><sic>ya</sic><corr>yā</corr></choice> <lb 
+                                       n="2r5" break="no"/>nātis<choice><orig>ri</orig><reg>ṛ</reg></choice>ṣ<choice><orig>ṭh</orig><reg>ṭ</reg></choice>aḥ</p> <p>te <choice><sic>yu</sic><corr>yū</corr></choice>yam evam upalabhy<choice><orig>a A</orig><reg>ā</reg></choice><supplied reason="omitted">syā</supplied>jñāśravaṇavidhe<choice><sic>ya</sic><corr>yā</corr></choice> <lb 
                                        n="2r6"/>bhūtvā yathoch<choice><sic>a</sic><corr>i</corr></choice>taṁ bhogabhāgam upanaya<surplus>ṁ</surplus>nta<supplied reason="omitted">s</supplied> sukhaṁ prativats<supplied reason="omitted">y</supplied>atha <lb
                                        n="2r7"/>bhavi<choice><orig>ś</orig><reg>ṣ</reg></choice>yataś ca bhūmipālān anudarśayati</p>
                                    <lg n="1" met="vasantatilakā">
@@ -136,6 +136,8 @@
                                        n="3v2"/>śā<choice><orig>ś</orig><reg>s</reg></choice>anam Utkīrṇṇaṁ ak<choice><orig>k</orig><reg>ṣ</reg></choice>aśālikagolasiṅghena<g type="ddandaHooked"/></p>
              </div></div>    
          <div type="apparatus">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                <app loc="3r1">
                       <lem>ṣaṣṭ<choice><sic>ī</sic><corr>i</corr></choice>°</lem>
                      <rdg source="bib:Jain1978_01">”><supplied reason="omitted">ṣa</supplied>ṣṭiṁ°</rdg>
@@ -146,12 +148,12 @@
                      <rdg source="bib:Jain1978_01">Indrarāja</rdg>
                      <rdg source="bib:Shastri1995_02">Indrabalarāja<supplied reason="omitted">ḥ</supplied></rdg>
                </app>
-         </div>
+         </div></div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The permanent charter belongs to the illustrious Sudevarāja, whose kingdom was acquired by hereditary descent and whose enemies were annihilated by his valour.</p></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <p n="1v1-1v5">Success! Hail! From Śrīpura, the illustrious great Sudevarāja, son of the illustrious great Durgarāja, whose feet are washed by the sprinkling water that is the brilliance of the crest-jewels on the crests of his feudatories who have been brought into submission by his prowess, who made the women of his enemies tear out their parted hair, who is a giver of riches, land, and cattle, who is entirely devoted to Viṣṇu, and favoured by his father and mother, issues (the following command) to the residents of (the village of) Khalapadraka situated in the Ḍakarī <foreign>bhoga</foreign>:</p>   
+                    <p n="1v1-1v5">Success! Hail! From Śrīpura, the illustrious great Sudevarāja, son of the illustrious great Durgarāja, whose feet are washed by the sprinkling water that is the brilliance of the crest-jewels on the crests of his feudatories who have been brought into submission by his prowess, who made the women of his enemies tear out their parted hair, who is a giver of riches, land, and cattle, who is entirely devoted to Viṣṇu, and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the residents of <supplied reason="subaudible">the village of</supplied> Khalapadraka situated in the Ḍakarī <foreign>bhoga</foreign>:</p>   
                     <p n="1v5-2r5">Let it be known to you that by means of <supplied reason="subaudible">this</supplied> copperplate charter, this village has been granted by us for the increase of religious merit of father, mother, and ourselves, to the Vājasaneyin Mādhava Caturvedasvāmin, belonging to the Kāśyapa <foreign>gotra</foreign>. <supplied reason="subaudible">The grant of the village</supplied>, which leads to happiness and fame in the abode of the lord of the gods <supplied reason="explanation">i.e., Indra’s heaven</supplied>, is to be enjoyed as long as the world will endure, <supplied reason="subaudible">the world</supplied> of which the darkness of the night is removed by the rays of the sun, moon and stars; <supplied reason="subaudible">comes along with the right to</supplied> hidden treasures and deposits; is not to be entered by irregular or regular troops; and is exempt from all taxes.</p> 
                     <p n="2r5-2v2">Having taken note of that, you should be obedient to the command received from him <supplied reason="explanation">i.e., the donee</supplied> and render the <supplied reason="subaudible">proper shares of</supplied> periodical offerings and produce, while living happily <supplied reason="subaudible">in this village</supplied>. And <supplied reason="subaudible">the king</supplied> instructs the future rulers:</p>
                     <p n="2v2-2v4" rend="stanza">The ancients, reflecting on virtue, proclaim that the religious merit arising from the protection <supplied reason="subaudible">of a grant</supplied> is more excellent than <supplied reason="subaudible">that which arises</supplied> from the giving <supplied reason="subaudible">itself</supplied>; therefore, your intent should indeed be to protect the earth that has been granted to a Brahmin of perfectly pure family and religious learning.</p>
@@ -164,7 +166,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p>First edited by Jain <bibl rend="omitname"><ptr target="bib:Jain1978_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>32-34</citedRange></bibl>; re-edited here by Natasja Bosma based on photographs of the original plates (edition of the seal based on Jain).</p>	   	   
+        	    <p>First edited by Jain <bibl rend="omitname"><ptr target="bib:Jain1978_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>32-34</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Jain).</p>	   	   
             <listBibl type="primary">
               <bibl n="J">
                   <ptr target="bib:Jain1978_01"/>

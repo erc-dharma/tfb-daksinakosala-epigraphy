@@ -124,8 +124,8 @@
                     <pb n="3v"/><space quantity="1" unit="page"/>
              </div></div>    
          <div type="apparatus">
-             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                  <listApp> 
                   <app loc="1v2">
                       <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
@@ -179,7 +179,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-        	    <p>First edited by Sircar and Singh Deo <bibl rend="omitname"><ptr target="bib:Sircar+SinghDeo1976_01"/></bibl> and Tripathy <bibl rend="omitname"><ptr target="bib:Tripathy1977_01"/></bibl> from (impressions of) the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>14-16</citedRange></bibl>; re-edited here by Natasja Bosma based on photographs of the original plates (edition of the seal based on Tripathy).</p>	   
+        	    <p>First edited by Sircar and Singh Deo <bibl rend="omitname"><ptr target="bib:Sircar+SinghDeo1976_01"/></bibl> and Tripathy <bibl rend="omitname"><ptr target="bib:Tripathy1977_01"/></bibl> from (impressions of) the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>14-16</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Tripathy).</p>	   
             <listBibl type="primary">
               <bibl>
                   <ptr target="Sircar+SinghDeo1976_01"/>

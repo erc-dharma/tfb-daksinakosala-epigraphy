@@ -98,7 +98,7 @@
                         n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
                </div></div>    
          <div type="apparatus">
-             <div type="textpart" n="A"><head xml:lang="eng">Plate</head></div>
+            <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                    <app loc="1v2">
                       <lem>°bhukt<choice><sic>o</sic><corr>au</corr></choice></lem>
                      <rdg source="bib:UshaJain1979_01">°bhukto</rdg>
@@ -109,7 +109,7 @@
                      <rdg source="bib:UshaJain1979_01">brāhmaṇādi°</rdg>
                      <rdg source="bib:Shastri1995_02">brāhmaṇādī<supplied reason="omitted">n</supplied></rdg>
                   </app>
-         </div>
+         </div></div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                     <p n="1v1-1v3">Success! Hail! From Śarabhapura the illustrious Mahārāja Narendra, who is entirely devoted to Viṣṇu and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the landholders, beginning with the Brahmins, settled <supplied reason="subaudible">in the village of</supplied> Torāmaka situated in the Maṇṭarāja <foreign>bhukti</foreign>:</p> 
@@ -120,7 +120,7 @@
              <p>The grant recorded in this inscription was made in facour of the <foreign>mātṛrājakula</foreign>, which was interpreted by Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> as `the family of Mātṛrāja'. However, Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> is probably right to suggest that the expression may refer to the (royal) family of Narendra's mother or, because of the plural, to his mother and (other) members of the royal family. Cf., <bibl><ptr target="bib:Bosma2018_01"/><citedRange>99-100</citedRange></bibl></p>
          </div>
         <div type="bibliography">
-        	    <p>First edited by Bajpai <bibl rend="omitname"><ptr target="bib:Bajpai1977_01"/></bibl>, and Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> from the original plate; edited again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> from the published photographs; re-edited here by Natasja Bosma from a photograph of the original.</p>	   
+        	    <p>First edited by Bajpai <bibl rend="omitname"><ptr target="bib:Bajpai1977_01"/></bibl> and Usha Jain <bibl rend="omitname"><ptr target="bib:UshaJain1979_01"/></bibl> from the original plate; edited again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>12-13</citedRange></bibl> from the published photographs; re-edited here by Natasja Bosma from a photograph of the original.</p>	   
             <listBibl type="primary">
                <bibl>
                 <ptr target="bib:Bajpai1977_01"/>

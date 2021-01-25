@@ -133,7 +133,7 @@
              </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head></div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="2r2">
                       <lem>°ā<choice><orig>ddha</orig><reg>ndha</reg></choice>kāraṁ</lem>
                       <rdg source="bib:Fleet1970_04">°āndhakāraṁ</rdg>
@@ -179,7 +179,7 @@
                       <rdg source="bib:Fleet1970_04">phala<surplus>ṁ</surplus>m</rdg>
                       <rdg source="bib:Shastri1995_02">phalam</rdg>
                   </app>
-         </div>
+         </div></div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The enemy-chastising charter belongs to the illustrious Jayarāja, who was the heart of Prasanna and whose enemies were overcome by his valour.</p></div>
