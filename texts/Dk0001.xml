@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -93,30 +96,16 @@
                      <l n="cd">nṛpateś śrīnarendrasya śāsanaṁ ripuśāsina<supplied reason="omitted">ḥ</supplied></l>
                  </lg></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti śarabhapurān mahārājaśrīnarendraḥ <lb 
-                           n="1v2"/>nandapurabhogīyaśarkarāpadrake brāhmaṇā<lb 
-                           n="1v3" break="no"/>dīn prati<space type="binding-hole"/>vāsikuṭumbino bodhayati</p> <p><lb 
-                           n="1v4"/>Eṣa grāmo rāhudevena svapuṇyābhivṛddha<lb 
-                           n="1v5" break="no"/>ye brāhmaṇavājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treyasagotra<pb n="2r" break="no"/><lb 
-                           n="2r1" break="no"/>svāmippāya tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭo mayā<lb 
-                           n="2r2" break="no"/>pi ca Acāṭabhaṭaprāveśya Ity anumodito <lb 
-                           n="2r3"/>yato bha<space type="binding-hole"/>vadbhir asya yathākālaṁ meya<lb 
-                           n="2r4" break="no"/>hiraṇyādīnāṁ pratyāyānām upanayanaḥ <lb 
-                           n="2r5"/>karttavyaḥ</p> <p>bhaviṣyataś ca bhogapatīn abhinandayati <pb n="2v"/><lb 
-                           n="2v1"/>pūrvvadatter anupālanāc chreyasā sambandhaḥ Ā<lb 
-                           n="2v2" break="no"/>cchedāc ca pratyapāya Ity anuprapaśyadbhir bhavadbhi<lb 
-                           n="2v3" break="no"/>r asya grā<space type="binding-hole"/>masyānupālanaṁ karttavyaM <lb 
-                           n="2v4"/>vyāsagītāv atra ślokāv udāharanti<g type="dashPlain"/></p>
+                    <pb n="1r"/>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti śarabhapurān mahārājaśrīnarendraḥ <lb n="1v2"/>nandapurabhogīyaśarkarāpadrake brāhmaṇā<lb n="1v3" break="no"/>dīn prati<space type="binding-hole"/>vāsikuṭumbino bodhayati</p> <p><lb n="1v4"/>Eṣa grāmo rāhudevena svapuṇyābhivṛddha<lb n="1v5" break="no"/>ye brāhmaṇavājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treyasagotra<pb n="2r" break="no"/><lb n="2r1" break="no"/>svāmippāya tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭo mayā<lb n="2r2" break="no"/>pi ca Acāṭabhaṭaprāveśya Ity anumodito <lb n="2r3"/>yato bha<space type="binding-hole"/>vadbhir asya yathākālaṁ meya<lb n="2r4" break="no"/>hiraṇyādīnāṁ pratyāyānām upanayanaḥ <lb n="2r5"/>karttavyaḥ</p> <p>bhaviṣyataś ca bhogapatīn abhinandayati <pb n="2v"/><lb n="2v1"/>pūrvvadatter anupālanāc chreyasā sambandhaḥ Ā<lb n="2v2" break="no"/>cchedāc ca pratyapāya Ity anuprapaśyadbhir bhavadbhi<lb n="2v3" break="no"/>r asya grā<space type="binding-hole"/>masyānupālanaṁ karttavyaM <lb n="2v4"/>vyāsagītāv atra ślokāv udāharanti<g type="dashPlain"/></p>
                                    <lg n="1" met="anuṣṭubh">
                                         <l n="ab">pūrvva<lb n="2v5" break="no"/>dattāṃ dvijātibhyo yatnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd"><pb n="3r"/><lb n="3r1"/>mahīṁ mahīmatāṁ śreṣṭha dānāc chreyo 'nupālanaM</l></lg>
                                    <lg n="2" met="anuṣṭubh">
                                         <l n="ab"><lb n="3r2"/>ṣaṣṭiṁ varṣasahasrāṇi svargge vasati bhūmidaḥ</l>
                                         <l n="cd"><lb n="3r3"/>Ācchettā <space type="binding-hole"/>cānumantā ca tāny eva narake <lb n="3r4"/>vase<supplied reason="omitted">T</supplied></l></lg>
-                    <p>pravarddhamānat<choice><orig>ri</orig><reg>ṛ</reg></choice>tīyavarṣasya mārggaśi<lb 
-                           n="3r5" break="no"/>ramāsadivase daśame Utkīrṇṇāṁ śrīdatteneti<unclear><g type="dashPlain"/></unclear></p>
-                    <pb n="3v"/><space quantity="1" unit="page"/>
+                    <p>pravarddhamānat<choice><orig>ri</orig><reg>ṛ</reg></choice>tīyavarṣasya mārggaśi<lb n="3r5" break="no"/>ramāsadivase daśame Utkīrṇṇāṁ śrīdatteneti<unclear><g type="dashPlain"/></unclear></p>
+                    <pb n="3v"/>
               </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
