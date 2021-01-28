@@ -167,10 +167,10 @@
         <div type="bibliography">
         	    <p>First edited by Konow <bibl rend="omitname"><ptr target="bib:Konow1907-1908_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>28-31</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Konow).</p>	   	   
             <listBibl type="primary">
-              <bibl n="K">
+              <bibl n="SK">
                   <ptr target="bib:Konow1907-1908_01"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>28-31</citedRange>
               </bibl>

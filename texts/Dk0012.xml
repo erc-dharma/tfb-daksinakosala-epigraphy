@@ -180,13 +180,13 @@
         <div type="bibliography">
         	    <p>First published by Pandeya <bibl rend="omitname"><ptr target="Pandeya1945_01"/></bibl> and first edited by Lahiri <bibl rend="omitname"><ptr target="Lahiri1955-1956_01"/></bibl> from impressions of the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>43-45</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Lahiri).</p>	   	   
             <listBibl type="primary">
-               <bibl n="L">
+               <bibl n="ANL">
                   <ptr target="Lahiri1955-1956_01"/>
               </bibl>
               <bibl>
                   <ptr target="bib:Pandeya1945_01"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>43-45</citedRange>
               </bibl>

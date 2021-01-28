@@ -167,10 +167,10 @@
         <div type="bibliography">
         	    <p>First edited by Sircar <bibl rend="omitname"><ptr target="bib:Sircar1960_02"/></bibl> from the original plates and their impressions; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>17-19</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   
             <listBibl type="primary">
-              <bibl n="Si">
+              <bibl n="DCS">
                   <ptr target="bib:Sircar1960_02"/>
               </bibl>
-               <bibl n="Sh">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>17-19</citedRange>
               </bibl>

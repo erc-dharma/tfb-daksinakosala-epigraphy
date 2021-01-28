@@ -125,11 +125,11 @@
                <bibl>
                 <ptr target="bib:Bajpai1977_01"/>
               </bibl>
-              <bibl n="S">
+              <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>12-13</citedRange>
               </bibl>
-              <bibl n="UJ">
+              <bibl n="KUJ">
                 <ptr target="bib:UshaJain1979_01"/>
               </bibl>
            </listBibl>

@@ -168,10 +168,10 @@
         <div type="bibliography">
         	    <p>First edited by Jain <bibl rend="omitname"><ptr target="bib:Jain1978_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>32-34</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Jain).</p>	   	   
             <listBibl type="primary">
-              <bibl n="J">
+              <bibl n="BJ">
                   <ptr target="bib:Jain1978_01"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>28-31</citedRange>
               </bibl>

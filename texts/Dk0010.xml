@@ -183,13 +183,13 @@
         <div type="bibliography">
         	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="Pandeya1934_01"/></bibl> from the original plates; published again by Katare <bibl rend="omitname"><ptr target="Katare1955-1956_01"/></bibl> and Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>35-38</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Pandeya).</p>	   	   
             <listBibl type="primary">
-              <bibl n="K">
+              <bibl n="SLK">
                   <ptr target="bib:Katare1955-1956_01"/>
               </bibl>
-               <bibl n="P">
+               <bibl n="LPP">
                   <ptr target="bib:Pandeya1934_01"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>35-38</citedRange>
               </bibl>

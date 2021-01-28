@@ -159,14 +159,14 @@
         <div type="bibliography">
         	    <p>First edited by Dikshit <bibl rend="omitname"><ptr target="bib:Dikshit1955-1956_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>8-11</citedRange></bibl> and Jain et al. <bibl rend="omitname"><ptr target="bib:Jain+al2005_01"/><citedRange>6-10</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Dikshit).</p>	   
             <listBibl type="primary">
-              <bibl n="D">
+              <bibl n="MGD">
                 <ptr target="bib:Dikshit1955-1956_01"/>
                </bibl>
-               <bibl n="J">
+               <bibl n="JRS">
                   <ptr target="bib:Jain+al2005_01"/>
                   <citedRange>6-10</citedRange>
               </bibl>
-              <bibl n="S">
+              <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>8-11</citedRange>
               </bibl>

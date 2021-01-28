@@ -235,10 +235,10 @@
         <div type="bibliography">
         	    <p>First edited by Fleet <bibl rend="omitname"><ptr target="Fleet1970_02"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>46-49</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Fleet).</p>	   	   
             <listBibl type="primary">
-               <bibl n="F">
+               <bibl n="JFF">
                   <ptr target="Fleet1970_02"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>46-49</citedRange>
               </bibl>

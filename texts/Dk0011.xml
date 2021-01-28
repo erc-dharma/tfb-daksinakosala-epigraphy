@@ -185,10 +185,10 @@
         <div type="bibliography">
         	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="Pandeya1935-1936_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>39-42</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Pandeya).</p>	   	   
             <listBibl type="primary">
-               <bibl n="P">
+               <bibl n="LPP">
                   <ptr target="bib:Pandeya1935-1936_01"/>
               </bibl>
-               <bibl n="S">
+               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>39-42</citedRange>
               </bibl>

@@ -167,7 +167,7 @@
         <div type="bibliography">
         	    <p>First edited by Sircar and Pandeya <bibl rend="omitname"><ptr target="bib:Sircar+Sarma1943_01"/></bibl> from  rubbings made of the original plates and seal; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>5-7</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (unclear passages based on Sircar and Pandeya).</p>	   
             <listBibl type="primary">
-              <bibl n="S">
+              <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>5-7</citedRange>
               </bibl>

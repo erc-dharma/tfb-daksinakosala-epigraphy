@@ -184,11 +184,11 @@
               <bibl>
                   <ptr target="Sircar+SinghDeo1976_01"/>
               </bibl>
-              <bibl>
+              <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>14-16</citedRange>
               </bibl>
-              <bibl n="T">
+              <bibl n="SST">
                   <ptr target="Tripathy1977_01"/>
               </bibl>
            </listBibl>
