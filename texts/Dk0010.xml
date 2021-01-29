@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -93,28 +96,14 @@
                      <l n="cd">śrīmato jayarājasya śāsanaṁ ripuśāsanam</l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurād vikkramopanatasāmantama<supplied reason="lost" evidence="parallel">kuṭacūḍāmaṇi</supplied><lb 
-                                       n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsi<supplied reason="lost" evidence="parallel">nīsīmantoddharaṇa</supplied><lb 
-                                       n="1v3" break="no"/>hetur vvasuva<space type="binding-hole"/>sudhāgopradaḫ paramabhāga<supplied reason="lost" evidence="parallel">vato mātāpitṛpādā</supplied><lb 
-                                       n="1v4" break="no"/>nuddhyātaś śrī<space type="binding-hole"/>mahādurgarājaḥ cu<gap reason="lost" quantity="9" unit="character"/><lb 
-                                       n="1v5" break="no"/>vake prativāsikuṭumbinas samājñā<supplied reason="lost" evidence="parallel">payati</supplied></p> <p><supplied reason="lost" evidence="parallel">viditam astu vo</supplied><lb 
-                                       n="1v6"/>yathāsmābir ayaṁ grāmas <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisa<supplied reason="lost" evidence="parallel">danasukhapratiṣṭhākaro</supplied><pb n="2r"/><lb 
-                                       n="2r1"/>yāvad raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭha<lb 
-                                       n="2r2" break="no"/>te tāvad upabhogyas sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvaka<lb 
-                                       n="2r3" break="no"/>ravisarjjita<supplied reason="omitted">ḥ</supplied> <space type="binding-hole"/>pūrvvaṁ nannapādais taittirīyapārāśarasagotrabrāhma<lb
-                                       n="2r4" break="no"/>ṇakāraṇika<space type="binding-hole"/>kansippasvāmi<choice><sic>no</sic><corr>ne</corr></choice>datta Idānīm apy asmābhir api<lb
-                                       n="2r5"/>mahādevīrājakulānāṁ vijñāpyās tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanīkṛtaḥ</p> <p>te yūyam e<lb
-                                       n="2r6" break="no"/>vam upalabhyāsyājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāga<pb n="2v" break="no"/><lb 
-                                       n="2v1" break="no"/>m upanayantas sukhaṁ prativatsyatha bhaviṣyataś ca bhūmipān anu<lb
-                                       n="2v2" break="no"/>darśayati<g type="dashPlain"/></p>
+                    <pb n="1r"/>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurād vikkramopanatasāmantama<supplied reason="lost" evidence="parallel">kuṭacūḍāmaṇi</supplied><lb n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsi<supplied reason="lost" evidence="parallel">nīsīmantoddharaṇa</supplied><lb n="1v3" break="no"/>hetur vvasuva<space type="binding-hole"/>sudhāgopradaḫ paramabhāga<supplied reason="lost" evidence="parallel">vato mātāpitṛpādā</supplied><lb n="1v4" break="no"/>nuddhyātaś śrī<space type="binding-hole"/>mahādurgarājaḥ cu<gap reason="lost" quantity="9" unit="character"/><lb n="1v5" break="no"/>vake prativāsikuṭumbinas samājñā<supplied reason="lost" evidence="parallel">payati</supplied></p> <p><supplied reason="lost" evidence="parallel">viditam astu vo</supplied><lb n="1v6"/>yathāsmābir ayaṁ grāmas <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisa<supplied reason="lost" evidence="parallel">danasukhapratiṣṭhākaro</supplied><pb n="2r"/><lb n="2r1"/>yāvad raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭha<lb n="2r2" break="no"/>te tāvad upabhogyas sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvaka<lb n="2r3" break="no"/>ravisarjjita<supplied reason="omitted">ḥ</supplied> <space type="binding-hole"/>pūrvvaṁ nannapādais taittirīyapārāśarasagotrabrāhma<lb n="2r4" break="no"/>ṇakāraṇika<space type="binding-hole"/>kansippasvāmi<choice><sic>no</sic><corr>ne</corr></choice>datta Idānīm apy asmābhir api<lb n="2r5"/>mahādevīrājakulānāṁ vijñāpyās tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanīkṛtaḥ</p> <p>te yūyam e<lb n="2r6" break="no"/>vam upalabhyāsyājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāga<pb n="2v" break="no"/><lb n="2v1" break="no"/>m upanayantas sukhaṁ prativatsyatha bhaviṣyataś ca bhūmipān anu<lb n="2v2" break="no"/>darśayati<g type="dashPlain"/></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭam anupālanajaṁ purāṇā</l>
                                         <l n="b">dharmmeṣu niścita<lb n="2v3" break="no"/>dhiyaḫ pravadanti <space type="binding-hole"/>dharmmaṁ<g type="dashPlain"/></l>
                                         <l n="c">tasmā<supplied reason="omitted">d</supplied> dvijāya suviśuddhakulaśrutāya</l>
                                         <l n="d">dattāṁ <lb n="2v4"/>bhuvaṁ bhavatu <space type="binding-hole"/>vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g type="dashDouble"/></l></lg>
-                                   <p>tad bhavadbhir apy eṣā dattir anu<lb
-                                       n="2v5" break="no"/>pālay<choice><sic>ī</sic><corr>i</corr></choice>tavyā vyāsagītāṁś cātra ślokān udāharanti</p>
+                                   <p>tad bhavadbhir apy eṣā dattir anu<lb n="2v5" break="no"/>pālay<choice><sic>ī</sic><corr>i</corr></choice>tavyā vyāsagītāṁś cātra ślokān udāharanti</p>
                                    <lg n="2" met="indravajrā">
                                         <l n="a">Agner apatyaṁ pra<lb n="2v6" break="no"/>thamaṁ suvarṇṇaṁ</l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasutāś ca gāvaḥ</l>
@@ -130,8 +119,7 @@
                                         <l n="ab">svadattāṁ paradattāṁ vā <lb n="3r5" break="no"/>yatnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd">mahī<choice><orig>t</orig><reg>ṁ</reg></choice> mah<choice><sic>i</sic><corr>ī</corr></choice>matāñ <choice><orig>cch</orig><reg>ch</reg></choice>reṣṭha dānāc chreyo 'nupāla<lb n="3r6" break="no"/>na<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
-                                <p>svamukhājñayā pravarddhamānav<choice><sic>ī</sic><corr>i</corr></choice>jaya<choice><orig>savva</orig><reg>saṁva</reg></choice><supplied reason="omitted">t</supplied> <num value="7">7</num> dvibhādra di <num value="10">10</num> <pb n="3v"/><lb
-                                       n="3v1"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇasiṅghena<g type="dashDouble"/></p>
+                                <p>svamukhājñayā pravarddhamānav<choice><sic>ī</sic><corr>i</corr></choice>jaya<choice><orig>savva</orig><reg>saṁva</reg></choice><supplied reason="omitted">t</supplied> <num value="7">7</num> dvibhādra di <num value="10">10</num> <pb n="3v"/><lb n="3v1"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇasiṅghena<g type="dashDouble"/></p>
              </div></div>    
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
@@ -181,7 +169,7 @@
              <p>Part of the first plate in this set is broken off and, due to which a number of characters are missing at the end of each line. Most of the missing text can be reconstructed based on parallel passages from other copperplate charters of the same king, except for the name and district of the granted village. The phrase referring to these names starts with <foreign>cu</foreign> and ends with <foreign>vake</foreign>, with nine characters missing in between. Shastri suggests reconstructing the phrase as <foreign>cullādasīmabhogīyakeśavake</foreign>: the village of Keśavaka situated in the Cullādasīma <foreign>bhoga</foreign>. The same village and district are mentioned in a copperplate charter of Sudevarāja’s predecessor Narendra (<ref target="Dk0002.xml">Dk0002</ref>). In that record it is stated that Keśavaka was originally granted by the Paramabhaṭṭāraka, whereas the present charter mentions a certain Nanna as the original donor. </p>
          </div>
         <div type="bibliography">
-        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="Pandeya1934_01"/></bibl> from the original plates; published again by Katare <bibl rend="omitname"><ptr target="Katare1955-1956_01"/></bibl> and Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>35-38</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Pandeya).</p>	   	   
+        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="bib:Pandeya1934_01"/></bibl> from the original plates; published again by Katare <bibl rend="omitname"><ptr target="bib:Katare1955-1956_01"/></bibl> and Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>35-38</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Pandeya).</p>	   	   
             <listBibl type="primary">
               <bibl n="SLK">
                   <ptr target="bib:Katare1955-1956_01"/>

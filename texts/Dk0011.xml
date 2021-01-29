@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -93,30 +96,14 @@
                      <l n="cd">śrīmats<supplied reason="lost">udevarājasya sthiraṁ jagati</supplied> <unclear>śā</unclear>sanaṁ</l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇiprabhāpra<lb 
-                                       n="1v2" break="no"/>sekāmbudhautapādayuga<space type="descender"/>lo ripuvilāsinīsīmantoddharaṇahetu<lb 
-                                       n="1v3" break="no"/>r vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛpādānuddhyāta<lb 
-                                       n="1v4" break="no"/>ś ś<choice><sic>ṛ</sic><corr>r</corr></choice>īmahāsudevarājaḥ tosa<choice><orig>dḍa</orig><reg>ḍḍa</reg></choice>bhuktīyaśiv<choice><sic>i</sic><corr>a</corr></choice>liṅgake prati<space type="descender"/>vāsi<lb 
-                                       n="1v5" break="no"/>kuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu vo yathāyaṁ grāma<pb n="2r" break="no"/><lb 
-                                       n="2r1" break="no"/>s <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhā<supplied reason="omitted">ka</supplied>ro yāvad raviśaśitārākiraṇaprati<lb 
-                                       n="2r2" break="no"/>hataghorāndhakā<add place="below" rend="mark">ra</add>ṁ jagad avatiṣṭhate tāvad upabhogyas sanidhis sopa<space type="descender"/>nidhi<lb 
-                                       n="2r3" break="no"/>r acāṭabha<space type="binding-hole"/><add place="below">ṭa</add>prāveśyas sarvvakaravisarjjita<surplus>ḥ</surplus>ḫ pratihārabhogillena mātā<lb
-                                       n="2r4" break="no"/>pitror ātmanaś ca puṇyābhivṛddhaye kātyāyanasagotramādhyandinavāja<lb
-                                       n="2r5" break="no"/>saneyayajñasvāmi<choice><orig>naḥ</orig><reg>ne</reg></choice> Adhyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena bhāradvājakumāravats<choice><orig>a Ā</orig><reg>ā</reg></choice>tre<pb n="2v" break="no"/><lb
-                                       n="2v1" break="no"/>yakāṇvavājasaneyayajñasvāmin<choice><sic>a</sic><corr>au</corr></choice> pratya<choice><orig>ṅg</orig><reg>ṁś</reg></choice>ena kātyāyanaviśākha<lb
-                                       n="2v2" break="no"/>svāmikauśikamādhyandinagolasvāmi-Evaṁ-dāmodarasvāmidāmasvāmi<lb
-                                       n="2v3" break="no"/>bhāradvāja<space type="binding-hole"/>pañcālisvāmidīkṣitāyanīkā<supplied reason="omitted">n</supplied> pratyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsa<lb 
-                                       n="2v4" break="no"/>nenātisṛ<space type="binding-hole"/>ṣṭo bhūtvāsmābhir anumodit<subst><del>i</del><add place="overstrike">a</add></subst>ḥ</p> <p>te yūyam evam upalabhyaiṣā<lb
-                                       n="2v5" break="no"/>mājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ<lb
-                                       n="2v6"/>prativatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
+                    <pb n="1r"/>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇiprabhāpra<lb n="1v2" break="no"/>sekāmbudhautapādayuga<space type="descender"/>lo ripuvilāsinīsīmantoddharaṇahetu<lb n="1v3" break="no"/>r vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v4" break="no"/>ś ś<choice><sic>ṛ</sic><corr>r</corr></choice>īmahāsudevarājaḥ tosa<choice><orig>dḍa</orig><reg>ḍḍa</reg></choice>bhuktīyaśiv<choice><sic>i</sic><corr>a</corr></choice>liṅgake prati<space type="descender"/>vāsi<lb n="1v5" break="no"/>kuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu vo yathāyaṁ grāma<pb n="2r" break="no"/><lb n="2r1" break="no"/>s <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhā<supplied reason="omitted">ka</supplied>ro yāvad raviśaśitārākiraṇaprati<lb n="2r2" break="no"/>hataghorāndhakā<add place="below" rend="mark">ra</add>ṁ jagad avatiṣṭhate tāvad upabhogyas sanidhis sopa<space type="descender"/>nidhi<lb n="2r3" break="no"/>r acāṭabha<space type="binding-hole"/><add place="below">ṭa</add>prāveśyas sarvvakaravisarjjita<surplus>ḥ</surplus>ḫ pratihārabhogillena mātā<lb n="2r4" break="no"/>pitror ātmanaś ca puṇyābhivṛddhaye kātyāyanasagotramādhyandinavāja<lb n="2r5" break="no"/>saneyayajñasvāmi<choice><orig>naḥ</orig><reg>ne</reg></choice> Adhyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena bhāradvājakumāravats<choice><orig>a Ā</orig><reg>ā</reg></choice>tre<pb n="2v" break="no"/><lb n="2v1" break="no"/>yakāṇvavājasaneyayajñasvāmin<choice><sic>a</sic><corr>au</corr></choice> pratya<choice><orig>ṅg</orig><reg>ṁś</reg></choice>ena kātyāyanaviśākha<lb n="2v2" break="no"/>svāmikauśikamādhyandinagolasvāmi-Evaṁ-dāmodarasvāmidāmasvāmi<lb n="2v3" break="no"/>bhāradvāja<space type="binding-hole"/>pañcālisvāmidīkṣitāyanīkā<supplied reason="omitted">n</supplied> pratyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsa<lb n="2v4" break="no"/>nenātisṛ<space type="binding-hole"/>ṣṭo bhūtvāsmābhir anumodit<subst><del>i</del><add place="overstrike">a</add></subst>ḥ</p> <p>te yūyam evam upalabhyaiṣā<lb n="2v5" break="no"/>mājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ<lb n="2v6"/>prativatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭa<surplus><g type="dashDouble"/></surplus><pb n="3r" break="no"/><lb n="3r1" break="no"/>m anupālanajaṁ purāṇā</l>
                                         <l n="b">dharmmeṣu niścitadhiyaḫ pravadanti dharmmaṁ<g type="dashDouble"/></l>
                                         <l n="c">tasmā<supplied reason="omitted">d</supplied> dvi<lb n="3r2" break="no"/>jāya suviśuddhakulaśrutāya</l>
                                         <l n="d">dattāṁ bhuvaṁ bhavatu vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g type="dashDouble"/></l></lg>
-                                 <p><lb n="3r3"/>tad bhavadbhi<space type="binding-hole"/>r apy eṣā da<supplied reason="omitted">t</supplied>tir anupālayitavyā vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān u<lb
-                                        n="3r4"/>dāhara<space type="binding-hole"/>nti</p>
+                                 <p><lb n="3r3"/>tad bhavadbhi<space type="binding-hole"/>r apy eṣā da<supplied reason="omitted">t</supplied>tir anupālayitavyā vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān u<lb n="3r4"/>dāhara<space type="binding-hole"/>nti</p>
                                    <lg n="2" met="indravajrā">
                                         <l n="a">Agner apatyaṁ prathamaṁ suvarṇṇaṁ<g type="dashDouble"/></l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasu<lb n="3r5" break="no"/>tāś ca gāva<supplied reason="omitted">ḥ</supplied></l>
@@ -183,7 +170,7 @@
             <p>The seal that belongs to this charter is heavily eroded and the legend is completely worn off. However, based on the traces of some characters, the legend appears to be the same as the one on the seal of <ref target="Dk0008.xml">Dk0008</ref>.</p> 
          </div>
         <div type="bibliography">
-        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="Pandeya1935-1936_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>39-42</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Pandeya).</p>	   	   
+        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="bib:Pandeya1935-1936_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>39-42</citedRange></bibl>; re-edited here by Natasja Bosma from the original plates (edition of the seal based on Pandeya).</p>	   	   
             <listBibl type="primary">
                <bibl n="LPP">
                   <ptr target="bib:Pandeya1935-1936_01"/>

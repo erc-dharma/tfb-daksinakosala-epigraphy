@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -93,29 +96,14 @@
                      <l n="cd"><unclear>śrīmatsudevarājasya śāsanaṁ ripuśāsanaṁ</unclear></l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <pb n="1r"/><space quantity="1" unit="page"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralL"/> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇi<lb 
-                                       n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsinīsīmantoddha<lb 
-                                       n="1v3" break="no"/>raṇahe<space type="binding-hole"/>tur vvasuvasudhāgoprada<unclear>ḫ</unclear> paramabhāgavato mātāpitṛ<lb 
-                                       n="1v4" break="no"/>pādānu<space type="binding-hole"/>ddhyātaś śrīmahāsudevarājaḥ pūrvvarāṣṭrīyaśrīsāhi<lb 
-                                       n="1v5" break="no"/>kāyāṁ prativāsikuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu vo<lb 
-                                       n="1v6" break="no"/>yathāsmābhir ayaṁ grāmas <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhāka<pb n="2r" break="no"/><lb 
-                                       n="2r1" break="no"/>ro yāvad raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad ava<lb 
-                                       n="2r2" break="no"/>tiṣṭhate tāvad upabhogyas sanidhis sopanidhir acāṭabhaṭaprāveśya<supplied reason="omitted">ḥ</supplied><lb
-                                       n="2r3"/>sarvvaka<space type="binding-hole"/>ravisarjjitaẖ k<choice><sic>o</sic><corr>au</corr></choice>ṇḍinyasagotravājasaneyasavit<supplied reason="omitted">ṛ</supplied><lb
-                                       n="2r4" break="no"/>svāmina<space type="binding-hole"/><supplied reason="omitted">ā</supplied>tmīyaka<unclear>n</unclear>yāpradāne<supplied reason="omitted">na</supplied> AUpamanyava<supplied reason="omitted">va</supplied>tsasagotra<add place="above"><g type="crossPlus"/></add>yāmā<lb
-                                       n="2r5" break="no"/><add place="overstrike" rend="mark">tro<supplied reason="omitted">ḥ</supplied></add> nāgavatsasvāmibandhuvatsasvāminos tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenāti<lb 
-                                       n="2r6" break="no"/><choice><orig>stṛ</orig><reg>sṛ</reg></choice>ṣṭako bhūtvāsmābhir apy uttarāyaṇe mātāpitror ātmanaś ca<pb n="2v"/><lb
-                                       n="2v1"/>puṇy<choice><sic>e</sic><corr>ā</corr></choice>bhivṛddhayenumoditaḥ<add place="above"><g type="crossPlus"/></add></p> <p>te yūyam evam upalabhyā<choice><orig>sy</orig><reg>nayor</reg></choice> ājñāśra<lb
-                                       n="2v2" break="no"/>vaṇavidheyā bhūtvā yathocita<supplied reason="omitted">ṁ</supplied> bhogabhāgam upa<surplus>mupa</surplus>nayantas su<lb
-                                       n="2v3" break="no"/>kha<supplied reason="omitted">ṁ</supplied> prativa<space type="binding-hole"/>tsyatha bhaviṣyataś ca bhūmipā<supplied reason="omitted">n a</supplied>nudarśayati<g type="dashPlain"/></p>
+                    <pb n="1r"/>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralL"/> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇi<lb n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsinīsīmantoddha<lb n="1v3" break="no"/>raṇahe<space type="binding-hole"/>tur vvasuvasudhāgoprada<unclear>ḫ</unclear> paramabhāgavato mātāpitṛ<lb n="1v4" break="no"/>pādānu<space type="binding-hole"/>ddhyātaś śrīmahāsudevarājaḥ pūrvvarāṣṭrīyaśrīsāhi<lb n="1v5" break="no"/>kāyāṁ prativāsikuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu vo<lb n="1v6" break="no"/>yathāsmābhir ayaṁ grāmas <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhāka<pb n="2r" break="no"/><lb n="2r1" break="no"/>ro yāvad raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad ava<lb n="2r2" break="no"/>tiṣṭhate tāvad upabhogyas sanidhis sopanidhir acāṭabhaṭaprāveśya<supplied reason="omitted">ḥ</supplied><lb n="2r3"/>sarvvaka<space type="binding-hole"/>ravisarjjitaẖ k<choice><sic>o</sic><corr>au</corr></choice>ṇḍinyasagotravājasaneyasavit<supplied reason="omitted">ṛ</supplied><lb n="2r4" break="no"/>svāmina<space type="binding-hole"/><supplied reason="omitted">ā</supplied>tmīyaka<unclear>n</unclear>yāpradāne<supplied reason="omitted">na</supplied> AUpamanyava<supplied reason="omitted">va</supplied>tsasagotra<add place="above"><g type="crossPlus"/></add>yāmā<lb n="2r5" break="no"/><add place="overstrike" rend="mark">tro<supplied reason="omitted">ḥ</supplied></add> nāgavatsasvāmibandhuvatsasvāminos tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenāti<lb n="2r6" break="no"/><choice><orig>stṛ</orig><reg>sṛ</reg></choice>ṣṭako bhūtvāsmābhir apy uttarāyaṇe mātāpitror ātmanaś ca<pb n="2v"/><lb n="2v1"/>puṇy<choice><sic>e</sic><corr>ā</corr></choice>bhivṛddhayenumoditaḥ<add place="above"><g type="crossPlus"/></add></p> <p>te yūyam evam upalabhyā<choice><orig>sy</orig><reg>nayor</reg></choice> ājñāśra<lb n="2v2" break="no"/>vaṇavidheyā bhūtvā yathocita<supplied reason="omitted">ṁ</supplied> bhogabhāgam upa<surplus>mupa</surplus>nayantas su<lb n="2v3" break="no"/>kha<supplied reason="omitted">ṁ</supplied> prativa<space type="binding-hole"/>tsyatha bhaviṣyataś ca bhūmipā<supplied reason="omitted">n a</supplied>nudarśayati<g type="dashPlain"/></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭa<lb n="2v4" break="no"/>m anupā<space type="binding-hole"/>lanajaṁ purāṇ<choice><sic>e</sic><corr>ā</corr></choice></l>
                                         <l n="b"><surplus>d</surplus>dharmmeṣu niścitadhiya<unclear>ḫ</unclear> pravada<surplus>ṁ</surplus>nti dharmmaṁ</l>
                                         <l n="c">tasmā<lb n="2v5" break="no"/><supplied reason="omitted">d</supplied> dvijāya su<surplus>i</surplus>viśuddhakulaśrutāya</l>
                                         <l n="d">dattā<supplied reason="omitted">ṁ</supplied> bhuva<supplied reason="omitted">ṁ</supplied> bhavatu vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g type="crossPlus"/></l></lg>
-                                 <p>ta<lb
-                                       n="2v6" break="no"/>d bhavadbhir apy eṣā dattir anupālayitavyā vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān udāharanti</p>
+                                 <p>ta<lb n="2v6" break="no"/>d bhavadbhir apy eṣā dattir anupālayitavyā vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān udāharanti</p>
                                    <lg n="2" met="indravajrā">
                                         <l n="a"><pb n="3r"/><lb n="3r1"/>Agner apatyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasutāś ca gāva<supplied reason="omitted">ḥ</supplied></l>
@@ -130,10 +118,7 @@
                                     <lg n="5" met="anuṣṭubh"> 
                                         <l n="ab">svadattā<supplied reason="omitted">ṁ</supplied> paradattā<supplied reason="omitted">ṁ vā</supplied> ya<lb n="3r6" break="no"/>tnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd">mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied> śreṣṭha dānāc chreyo 'nupā</l></lg>
-                                <p><pb n="3v"/><lb n="3v1"/>Asmin<supplied reason="omitted">n</supplied> eva grāme pūrvvataṭākasya paryya<choice><orig>tta</orig><reg>nta</reg></choice>bhūmivaprabaddhā śrī<lb
-                                       n="3v2" break="no"/><add place="above"><g type="crossPlus"/></add> vāpikā pa<choice><orig>tthā</orig><reg>nthā</reg></choice>naṁ yāvaj <choice><orig>jā</orig><reg>jye</reg></choice>ṣṭha iti kṛtvā nāga<supplied reason="omitted">va</supplied>tsasvāmine grāmārddhasyādhi<add place="below">kā dattā</add><add place="above"><g type="crossPlus"/></add><lb
-                                       n="3v3"/>lanam iti <space type="binding-hole"/>svamukhājñayā pravarddhamānavijaya<choice><orig>saṁvva</orig><reg>saṁva</reg></choice>tsara <num value="10">10</num> māgha <num value="9">9</num><lb
-                                       n="3v4"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇa<supplied reason="omitted">ṁ</supplied> droṇasiṅghena</p>
+                                <p><pb n="3v"/><lb n="3v1"/>Asmin<supplied reason="omitted">n</supplied> eva grāme pūrvvataṭākasya paryya<choice><orig>tta</orig><reg>nta</reg></choice>bhūmivaprabaddhā śrī<lb n="3v2" break="no"/><add place="above"><g type="crossPlus"/></add> vāpikā pa<choice><orig>tthā</orig><reg>nthā</reg></choice>naṁ yāvaj <choice><orig>jā</orig><reg>jye</reg></choice>ṣṭha iti kṛtvā nāga<supplied reason="omitted">va</supplied>tsasvāmine grāmārddhasyādhi<add place="below">kā dattā</add><add place="above"><g type="crossPlus"/></add><lb n="3v3"/>lanam iti <space type="binding-hole"/>svamukhājñayā pravarddhamānavijaya<choice><orig>saṁvva</orig><reg>saṁva</reg></choice>tsara <num value="10">10</num> māgha <num value="9">9</num><lb n="3v4"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇa<supplied reason="omitted">ṁ</supplied> droṇasiṅghena</p>
              </div></div>     
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
@@ -230,13 +215,18 @@
                     <p n="3r5-3r6" rend="stanza">O Yudhiṣṭhira, zealously protect what was previously given to Brahmins! O best of kings, protection is superior to giving!</p>
                     <p n="3v3-3v4">By the order from the king’s own mouth, <supplied reason="subaudible">the copperplate charter</supplied> has been engraved by Droṇasiṅgha <supplied reason="subaudible">on the day</supplied> 9 <supplied reason="subaudible">of</supplied> the month of Māgha <supplied reason="subaudible">in</supplied> the increasingly victorious year 10 <supplied reason="subaudible">of Sudevarāja's reign</supplied>.</p></div></div>
          <div type="commentary">
-            <p>There are several premodern editorial marks in the text, suggesting that the order of the text should have been engraved differently. First, the word <foreign>yāmātroḥ</foreign> at the end of line 2r4 and the beginning of line 2r5 is preceded by a <foreign>kākapada</foreign>, indicating that it should have been placed elsewhere. As suggested by Fleet <bibl rend="omitname"><ptr target="Fleet1970_02"/></bibl>, the likely intended order of the description of the donees was: <foreign>kauṇḍinyasagotravājasaneyasavitṛsvāminas ātmīyakanyāpradānena yāmātroḥ aupamanyavavatsasagotranāgavatsasvāmibandhuvatsasvāminos</foreign>. Second, the lines 3v1 and 3v2 at the end of the inscription are part of the description of the grant and should have been engraved in that context, as indicated by the <foreign>kākapada</foreign> inline 2v1. The two lines also contain another two editorial marks, indicating that the order should have been different here as well. As suggested by Fleet <bibl rend="omitname"><ptr target="Fleet1970_02"/></bibl>, the intended order was likely: <foreign>Asminn eva grāme pūrvvataṭākasya paryyattantabhūmivaprabaddhā grāmārddhasyādhikā śrīvāpikā panthānaṁ yāvaj jyeṣṭha iti kṛtvā nāgavatsasvāmine dattā</foreign>.</p>
+            <p>There are several premodern editorial marks in the text, suggesting that the order of the text should have been engraved differently. First, the word <foreign>yāmātroḥ</foreign> at the end of line 2r4 and the beginning of line 2r5 is preceded by a <foreign>kākapada</foreign>, indicating that it should have been placed elsewhere. As suggested by Fleet <bibl rend="omitname"><ptr target="bib:Fleet1970_02"/></bibl>, the likely intended order of the description of the donees was: <foreign>kauṇḍinyasagotravājasaneyasavitṛsvāminas ātmīyakanyāpradānena yāmātroḥ aupamanyavavatsasagotranāgavatsasvāmibandhuvatsasvāminos</foreign>. Second, the lines 3v1 and 3v2 at the end of the inscription are part of the description of the grant and should have been engraved in that context, as indicated by the <foreign>kākapada</foreign> inline 2v1. The two lines also contain another two editorial marks, indicating that the order should have been different here as well. As suggested by Fleet <bibl rend="omitname"><ptr target="bib:Fleet1970_02"/></bibl>, the intended order was likely: <foreign>Asminn eva grāme pūrvvataṭākasya paryyattantabhūmivaprabaddhā grāmārddhasyādhikā śrīvāpikā panthānaṁ yāvaj jyeṣṭha iti kṛtvā nāgavatsasvāmine dattā</foreign>.</p>
          </div>
         <div type="bibliography">
-        	    <p>First edited by Fleet <bibl rend="omitname"><ptr target="Fleet1970_02"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>46-49</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Fleet).</p>	   	   
+        	    <p>First edited by Fleet <bibl rend="omitname"><ptr target="bib:Fleet1970_02"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>46-49</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Fleet).</p>	   	   
             <listBibl type="primary">
+<<<<<<< HEAD
                <bibl n="JFF">
                   <ptr target="Fleet1970_02"/>
+=======
+               <bibl n="F">
+                  <ptr target="bib:Fleet1970_02"/>
+>>>>>>> 0dbe3e2d29c851b775fd126f3a71442b66123e5c
               </bibl>
                <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
