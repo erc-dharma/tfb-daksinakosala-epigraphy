@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">Dk0012</idno>
+             <idno type="filename">DHARMA_INSDk00012</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -91,7 +91,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                  <lg n="seal.1" met="anuṣṭubh">
+                  <lg n="1" met="anuṣṭubh">
                      <l n="ab">kramādhigatarājyasya vikramotkhātavidviṣa<supplied reason="omitted">ḥ</supplied></l>
                      <l n="cd">śrīmatsudevarājasya sthiraṁ jagati śāsanaṁ</l>
                  </lg></div>
@@ -169,17 +169,12 @@
         <div type="bibliography">
         	    <p>First published by Pandeya <bibl rend="omitname"><ptr target="bib:Pandeya1945_01"/></bibl> and first edited by Lahiri <bibl rend="omitname"><ptr target="bib:Lahiri1955-1956_01"/></bibl> from impressions of the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>43-45</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Lahiri).</p>	   	   
             <listBibl type="primary">
-<<<<<<< HEAD
                <bibl n="ANL">
-                  <ptr target="Lahiri1955-1956_01"/>
-=======
-               <bibl n="L">
                   <ptr target="bib:Lahiri1955-1956_01"/>
->>>>>>> 0dbe3e2d29c851b775fd126f3a71442b66123e5c
-              </bibl>
-              <bibl>
+               </bibl>
+               <bibl n="LPP">
                   <ptr target="bib:Pandeya1945_01"/>
-              </bibl>
+               </bibl>
                <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
                   <citedRange>43-45</citedRange>

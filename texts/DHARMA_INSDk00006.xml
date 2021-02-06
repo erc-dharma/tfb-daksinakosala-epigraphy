@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">Dk0006</idno>
+             <idno type="filename">DHARMA_INSDk00006</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -91,12 +91,12 @@
       <body>
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                  <lg n="seal.1" met="anuṣṭubh">
+                  <lg n="1" met="anuṣṭubh">
                      <l n="ab">prasa<surplus>ṁ</surplus>nnah<unclear>ṛda</unclear>yasyaiva vikkramākrā<choice><orig><unclear>ṁ</unclear>tta</orig><reg>nta</reg></choice>vidviṣa<supplied reason="omitted">ḥ</supplied></l>
                      <l n="cd">śrīmato jayarājasya śāsa<unclear>naṁ</unclear> ripuśāsanaṁ</l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <pb n="1r"/><space quantity="1" unit="page"/>
+                    <pb n="1r"/>
                     <p><pb n="1v"/><lb n="1v1"/>svasti śarabhapurā<surplus>T</surplus>d vikkramopanatasāma<choice><orig>ṁtta</orig><reg>nta</reg></choice>cūḍāmaṇiprabhāprasekā<surplus>ṁ</surplus><lb n="1v2" break="no"/>mbubhir dh<choice><sic>o</sic><corr>au</corr></choice>tapādayugalo ripuvilāsinīsīma<choice><orig>ṁtto</orig><reg>nto</reg></choice>ddharaṇahetu<lb n="1v3" break="no"/>r vvasuva<space type="binding-hole"/>sudhāgoprada<surplus>ḥ</surplus>ḫ paramabhāgavato mātāpitṛpā<lb n="1v4" break="no"/>dānuddhyātaḥ <surplus>ś</surplus>śrīmahājayarājaḥ pūrvvarāṣṭrīyapamvā<supplied reason="omitted">yā</supplied>ṁ prati<lb n="1v5" break="no"/>vāsikuṭu<surplus>ṁ</surplus>mbina<surplus>ḥ</surplus>s samājñāpayati<g type="dashPlain"/></p> <p>viditam astu vo yathā<pb n="2r" break="no"/><lb n="2r1" break="no"/>smābhir ayaṁ grāma<surplus><g type="dashPlain"/></surplus>s tridaśapatisadanasukhapratiṣṭhākaro yāva<lb n="2r2" break="no"/>d raviśaśitārākiraṇapratihataghorā<choice><orig>ddha</orig><reg>ndha</reg></choice>kāraṁ jaga<supplied reason="omitted">d a</supplied>vatiṣṭhate <lb n="2r3"/>tāvad upa<space type="binding-hole"/>bhogyas sa<choice><orig>na</orig><reg>ni</reg></choice>dhis sopanidhir acāṭabhaṭaprāveśyas sa<lb n="2r4" break="no"/>rvvakaravisarjjitaẖ vā<choice><orig>ji</orig><reg>ja</reg></choice>saneyakauṇḍinyasagotra<surplus>ḥ</surplus>brahmadeva<lb n="2r5" break="no"/>svāmine<g type="dashDouble"/> mātāpitror ātmanaś ca puṇyābhiv<choice><orig>ri</orig><reg>ṛ</reg></choice><supplied reason="omitted">d</supplied>dhaye<g type="dashDouble"/> Udakapūrvva<supplied reason="omitted">ṁ</supplied> <pb n="2v"/><lb n="2v1"/>tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenāti<choice><sic>sra</sic><corr>sṛ</corr></choice>ṣṭaḥ</p> <p>te yūyam evam upalabhyāsyāj<choice><orig>ṇ</orig><reg>ñ</reg></choice>āśravaṇa<lb n="2v2" break="no"/>v<choice><sic>ī</sic><corr>i</corr></choice>dheyā bhūtvā yathocitaṁ bhogabhāgam upanaya<choice><orig>ṁtta</orig><reg>nta</reg></choice><supplied reason="omitted">ḥ</supplied> sukhaṁ prativa<supplied reason="omitted">t</supplied>sya<lb n="2v3" break="no"/>tha<g type="dashDouble"/> bhaviṣya<space type="binding-hole"/>taś ca bhūmipān anudarśayati<g type="dashDouble"/></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭam a<lb n="2v4" break="no"/>nupālanajaṁ purāṇā<g type="dashDouble"/></l>
@@ -119,7 +119,7 @@
                                         <l n="ab"><lb n="3v2"/>bahubhir vvasudhā dattā rājabhis sagarādibhi<supplied reason="omitted">ḥ</supplied><g type="dashPlain"/></l>
                                         <l n="cd">yasya <supplied reason="omitted">yasya</supplied> yadā bhūmis ta<lb n="3v3" break="no"/>sya tasya <space type="binding-hole"/>tadā phala<surplus>ṁ</surplus><choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                 <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
-                                <p>svamukhā<unclear reason="illegible" cert="high">jña</unclear>yā U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ Aca<surplus><g type="dashPlain"/></surplus><lb n="3v4" break="no"/>lasiṅghena pravarddhamānavijaya<choice><orig>saṁvva</orig><reg>saṁva</reg></choice>tsara <num value="5">5</num> mārgaśira <num value="25"><g type="numeral">20</g> 5</num></p>
+                                <p>svamukhā<supplied reason="lost">jña</supplied>yā U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ Aca<surplus><g type="dashPlain"/></surplus><lb n="3v4" break="no"/>lasiṅghena pravarddhamānavijaya<choice><orig>saṁvva</orig><reg>saṁva</reg></choice>tsara <num value="5">5</num> mārgaśira <num value="25"><g type="numeral">20</g> 5</num></p>
              </div></div>    
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
