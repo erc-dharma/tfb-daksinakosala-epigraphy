@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:nabo" when="2021-02-09" status="draft">Minor alterations</change>
          <change who="part:nabo" when="2021-01-18" status="draft">Adding edition and translation</change>
          <change who="part:nabo" when="2021-01-04" status="draft">Adding edition and translation</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -98,7 +99,7 @@
                  </lg></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/>svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇi<lb n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsinīsīmantoddharaṇa<lb n="1v3" break="no"/>hetur vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛ<surplus>i</surplus>pādānuddhyā<lb n="1v4" break="no"/>taś śrīmahāsudevarājaḥ kṣitimaṇḍāhārīyanavannaka Etatprāveśya<lb n="1v5" break="no"/>śāmbilakayoḫ prativāsikuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu <pb n="2r"/><lb n="2r1"/>vo yathāsmābir etad grāmadvayaṁ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāva<lb n="2r2" break="no"/>d raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upa<lb n="2r3" break="no"/>bhogyas sani<space type="binding-hole"/>dhis sopanidhir acāṭabhaṭaprāveśya<supplied reason="omitted">s</supplied> sarvvakaravisarjji<lb n="2r4" break="no"/>to mātāpitror ātmanaś ca puṇyābhivṛddhaye vāj<choice><orig>i</orig><reg>a</reg></choice>saneyakauśikasagotra<lb n="2r5" break="no"/>viṣṇusvāminas tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭaḥ</p> <p>te yūyam evam upalabhyāsyā<pb n="2v" break="no"/><lb n="2v1" break="no"/>jñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prati<lb n="2v2" break="no"/>vatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
+                    <p><pb n="1v"/><lb n="1v1"/>svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇi<lb n="1v2" break="no"/>prabhāprasekāmbudhautapādayugalo ripuvilāsinīsīmantoddharaṇa<lb n="1v3" break="no"/>hetur vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛ<surplus>i</surplus>pādānuddhyā<lb n="1v4" break="no"/>taś śrīmahāsudevarājaḥ kṣitimaṇḍāhārīyanavannaka-Etatprāveśya<lb n="1v5" break="no"/>śāmbilakayoḫ prativāsikuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu <pb n="2r"/><lb n="2r1"/>vo yathāsmābir etad grāmadvayaṁ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāva<lb n="2r2" break="no"/>d raviśaśitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upa<lb n="2r3" break="no"/>bhogyas sani<space type="binding-hole"/>dhis sopanidhir acāṭabhaṭaprāveśya<supplied reason="omitted">s</supplied> sarvvakaravisarjji<lb n="2r4" break="no"/>to mātāpitror ātmanaś ca puṇyābhivṛddhaye vāj<choice><orig>i</orig><reg>a</reg></choice>saneyakauśikasagotra<lb n="2r5" break="no"/>viṣṇusvāminas tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātisṛṣṭaḥ</p> <p>te yūyam evam upalabhyāsyā<pb n="2v" break="no"/><lb n="2v1" break="no"/>jñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prati<lb n="2v2" break="no"/>vatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭam anupā<lb n="2v3" break="no"/>la<add place="below">na</add>jaṁ purā<space type="binding-hole"/>ṇā</l>
                                         <l n="b">dharmmeṣu niścitadhiyaḫ pravadanti dharmma<supplied reason="omitted">ṁ</supplied><g type="dashDouble"/></l>
@@ -117,8 +118,8 @@
                                         <l n="ab">bahubhir vvasudhā dattā rājabhi<lb n="3r5" break="no"/>s sagarādibhiḥ</l>
                                         <l n="cd">yasya yasya yadā bhūmiḥ tasya tasya tadā phalaṁ<g type="dashDouble"/></l></lg>
                                     <lg n="5" met="anuṣṭubh"> 
-                                        <l n="ab"><pb n="3v" break="no"/><lb n="3v1"/>svadattāṁ paradattāṁ vā yatnād rakṣa yudhiṣṭhira</l>
-                                        <l n="cd">mahī<choice><orig>m</orig><reg>ṁ</reg></choice> mah<choice><sic>i</sic><corr>ī</corr></choice>matāñ <choice><sic>cch</sic><corr>ch</corr></choice>reṣṭha <lb n="3v2"/>dānāc chreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
+                                        <l n="ab"><pb n="3v"/><lb n="3v1"/>svadattāṁ paradattāṁ vā yatnād rakṣa yudhiṣṭhira</l>
+                                        <l n="cd">mahī<choice><orig>m</orig><reg>ṁ</reg></choice> mahīmatāñ <choice><sic>cch</sic><corr>ch</corr></choice>reṣṭha <lb n="3v2"/>dānāc chreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
                                 <p>svamukhājñayā <choice><orig>savva</orig><reg>saṁva</reg></choice>tsara <num value="2">2</num> śrāvaṇa di <num value="20">20</num> <add place="below"><num value="9">9</num></add> <lb n="3v3"/>Utkīrṇṇaṁ tā<space type="binding-hole"/><choice><orig>mbra</orig><reg>mra</reg></choice>śāsanaṁ droṇasiṅghena</p>
              </div></div>   
