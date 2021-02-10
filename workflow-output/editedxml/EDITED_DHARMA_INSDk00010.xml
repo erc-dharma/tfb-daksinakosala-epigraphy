@@ -120,7 +120,7 @@
                                         <l n="ab">svadattāṁ paradattāṁ vā <lb n="3r5"/>yatnād rakṣa yudhiṣṭhira</l>
                                         <l n="cd">mahī<choice><orig>t</orig><reg>ṁ</reg></choice> mah<choice><sic>i</sic><corr>ī</corr></choice>matāñ <choice><orig>cch</orig><reg>ch</reg></choice>reṣṭha dānāc chreyo ’nupāla<lb n="3r6" break="no"/>na<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
-                                <p>svamukhājñayā pravarddhamānav<choice><sic>ī</sic><corr>i</corr></choice>jaya<choice><orig>savva</orig><reg>saṁva</reg></choice><supplied reason="omitted">t</supplied> <num value="7">7</num> dvibhādra di <num value="10">10</num> <pb n="3v"/><lb n="3v1"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇasiṅghena<g type="dashDouble"/></p>
+                                <p>svamukhājñayā pravarddhamānav<choice><sic>ī</sic><corr>i</corr></choice>jaya<choice><orig>savva</orig><reg>saṁva</reg></choice><supplied reason="omitted">t</supplied> <num value="7">7</num> dvibhādra di <num value="10">10</num> <pb n="3v"/><lb n="3v1"/>U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇasiṅghe<choice><orig>ṇ</orig><reg>n</reg></choice>a<g type="dashDouble"/></p>
              </div></div>    
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
@@ -150,6 +150,12 @@
                      <rdg source="bib:Katare1955-1956_01">°v<choice><sic>ī</sic><corr>i</corr></choice>jaya°</rdg>
                      <rdg source="bib:Shastri1995_02">°v<choice><sic>ī</sic><corr>i</corr></choice>jaya°</rdg>
                   </app>
+                  <app loc="3v1">
+                      <lem>droṇasiṅghe<choice><orig>ṇ</orig><reg>n</reg></choice>a</lem>
+                     <rdg source="bib:Pandeya1934_01">droṇasiṅgheṇa</rdg>
+                     <rdg source="bib:Katare1955-1956_01">droṇasiṅghe<choice><orig>ṇ</orig><reg>n</reg></choice>a</rdg>
+                     <rdg source="bib:Shastri1995_02">droṇasiṅghena</rdg>
+                  </app>
          </div></div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
@@ -161,9 +167,9 @@
                     <p n="2v2-2v4" rend="stanza">The ancients, reflecting on virtue, proclaim that the religious merit arising from the protection <supplied reason="subaudible">of a grant</supplied> is more excellent than <supplied reason="subaudible">that which arises</supplied> from the giving <supplied reason="subaudible">itself</supplied>; therefore, your intent should indeed be to protect the earth that has been granted to a Brahmin of perfectly pure family and religious learning.</p>
                     <p n="2v4-2v5">This gift is to be protected by you as well! And in this respect they quote the <supplied reason="subaudible">following</supplied> stanzas sung by Vyāsa:</p>
                     <p n="2v5-3r1" rend="stanza">Gold is the first child of Agni, land is born of Viṣṇu, and cows are the offspring of Sūrya: <supplied reason="subaudible">Therefore</supplied>, whoever would give gold, a cow, and land would give the three worlds.</p>
-                    <p n="3r1-3r3" rend="stanza">A giver of land rejoices in heaven for sixty thousand years: He who confiscates it or allows <supplied reason="subaudible">another to confiscate it</supplied> will dwell for the same period in hell!</p>
-                    <p n="3r3-3r4" rend="stanza">The earth has been granted by many kings, beginning with Sagara: Whoever possesses the land at any time, to him belong the fruits at that time!</p><p n="3r5-3v1" rend="stanza">O Yudhiṣṭhira, zealously protect what was previously given to Brahmins! O best of kings, protection is superior to giving!</p>
-                    <p n="3r4-3r6" rend="stanza">O Yudhiṣṭhira, zealously protect what was previously given to Brahmins! O best of kings, protection is superior to giving!</p>
+                    <p n="3r1-3r3" rend="stanza">A giver of land rejoices in heaven for sixty thousand years; he who confiscates it or allows <supplied reason="subaudible">another to confiscate it</supplied> will dwell for the same period in hell!</p>
+                    <p n="3r3-3r4" rend="stanza">The earth has been granted by many kings, beginning with Sagara; whoever possesses the land at any time, to him belong the fruits at that time!</p>
+                    <p n="3r4-3r6" rend="stanza">O Yudhiṣṭhira, zealously protect the land which was given by yourself or by others! O best of kings, protection is superior to giving!</p>
                     <p n="3r6-3v1">By the order from the king’s own mouth, <supplied reason="subaudible">the copperplate charter</supplied> has been engraved by Droṇasiṅgha <supplied reason="subaudible">on</supplied> the day 10 <supplied reason="subaudible">of</supplied> the month of the second Bhādra <supplied reason="subaudible">in</supplied> the increasingly victorious year 7 <supplied reason="subaudible">of Sudevarāja’s reign</supplied>.</p></div></div>
          <div type="commentary">
              <p>The copperplates of this charter of Sudevarāja were attached to the seal of his predecessor Jayarāja, either by accident or for some unknown reason.</p> 
