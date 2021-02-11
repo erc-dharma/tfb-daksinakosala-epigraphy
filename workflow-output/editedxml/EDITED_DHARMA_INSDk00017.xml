@@ -90,7 +90,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-         <p><pb n="2v" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavṛddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivṛddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūttvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g type="dashDoubledot"/></p>
+         <p part="M"><pb n="2v" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavṛddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivṛddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūtvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g type="dashDoubledot"/></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">d<subst><del>o</del><add place="overstrike">ā</add></subst>nād viśiṣṭam anupāla<lb n="2v2" break="no"/>najaṁ purāṇā</l>
                                         <l n="b">dharmmeṣu niścitadh<choice><sic>ī</sic><corr>i</corr></choice>yaḫ pravadanti dharmmaṁ<g type="dashDouble"/></l>
@@ -137,6 +137,11 @@
                       <lem>Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice></lem>
                       <rdg source="bib:Dikshit1957_01">Atisṛṣṭako</rdg>
                       <rdg source="bib:Shastri1995_02">Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice></rdg>
+                  </app>
+                  <app loc="2r4">
+                      <lem>bhūtvā</lem>
+                      <rdg source="bib:Dikshit1957_01">bhūttvā</rdg>
+                      <rdg source="bib:Shastri1995_02">bhūtvā</rdg>
                   </app>
                   <app loc="2r4">
                       <lem>tā<choice><orig>mbra</orig><reg>mra</reg></choice>°</lem>
@@ -215,7 +220,7 @@
                     <p n="2v4-2v5">This gift is to be protected by you as well! And in this respect they quote the <supplied reason="subaudible">following</supplied> stanzas sung by Vyāsa:</p>
                     <p n="2v5-2v6" rend="stanza">Gold is the first child of Agni, land is born of Viṣṇu, and cows are the offspring of Sūrya: <supplied reason="subaudible">Therefore</supplied>, whoever <supplied reason="undefined" evidence="parallel">would give</supplied> gold, a cow, and land would give the three worlds.</p></div>
          <div type="commentary">
-         <p>This is the second copper plate of a charter and, therefore, does not contain any information about the issuing king or the date. The stray plate was found in the possession of an inhabitant of Rājim, but originally the plate was unearthed in Pokhra as part of a complete set of copper plates. The other two plates and the ring were melted (<bibl><ptr target="bib:Dikshit1957_01"/></bibl>).</p>
+         <p>This is the second copperplate of a charter and, therefore, does not contain any information about the issuing king or the date. The stray plate was found in the possession of an inhabitant of Rājim, but originally the plate was unearthed in Pokhra as part of a complete set of copperplates. The other two plates and the ring were melted (<bibl><ptr target="bib:Dikshit1957_01"/></bibl>).</p>
          </div>
         <div type="bibliography">
         	    <p>First edited by Dikshit <bibl rend="omitname"><ptr target="bib:Dikshit1957_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>59-61</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   	   
