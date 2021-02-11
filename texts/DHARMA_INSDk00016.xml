@@ -99,16 +99,16 @@
                     <pb n="1r"/>
                     <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śrīpurād v<choice><sic>ī</sic><corr>i</corr></choice>kramopanatasāma<surplus>ṁ</surplus>ntamakuṭacūḍāmaṇiprabhā<lb 
                            n="1v2" break="no"/>prasekāmbudhautapādayugalo ripuvilāsinīsīma<surplus>ṁ</surplus>ntoddharaṇahe<lb 
-                           n="1v3" break="no"/>tu<supplied reason="omitted">r v</supplied>vasuv<surplus>v</surplus>asudhāgopradaḥ paramabhāgavato mātāpitṛpādānu<lb 
+                           n="1v3" break="no"/>tu<supplied reason="omitted">r</supplied> <choice><orig>va</orig><reg>vva</reg></choice>suv<surplus>v</surplus>asudhāgopradaḥ paramabhāgavato mātāpitṛpādānu<lb 
                            n="1v4" break="no"/>ddhyātaś śrīma<space type="binding-hole"/>hāpravararājaḥ śaṅkhacakrābhog<choice><sic>i</sic><corr>ī</corr></choice>yamitragrāmake pra<lb
                            n="1v5" break="no"/>tivāsina<supplied reason="omitted">ḥ</supplied> samājñāpayati</p> <p>viditam astu vo yathāsmābhir ayaṁ grā<lb 
-                           n="1v6"/>maḥ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāvad raviśaśitārā<pb n="2r" break="no"/><lb 
-                           n="2r1" break="no"/>kiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upabhogyaḥ<lb 
-                           n="2r2" break="no"/>sanidhis sopanidhir acāṭabhaṭaprāveśy<choice><sic>ā</sic><corr>a</corr></choice>ḥ sarvvakaravisarjjitaḥ mā<lb 
+                           n="1v6" break="no"/>maḥ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāvad raviśaśitārā<pb n="2r" break="no"/><lb 
+                           n="2r1" break="no"/>kiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upabhogyaḥ <lb 
+                           n="2r2"/>sanidhis sopanidhir acāṭabhaṭaprāveśy<choice><sic>ā</sic><corr>a</corr></choice>ḥ sarvvakaravisarjjitaḥ mā<lb 
                            n="2r3" break="no"/>tāpitror āt<unclear>m</unclear>anaś ca puṇyābhivṛddhaye bhāradvājasagotra<choice><orig>v</orig><reg>b</reg></choice>ahv<choice><orig>ri</orig><reg>ṛ</reg></choice>cadāmoda<lb 
                            n="2r4" break="no"/>ragaṇa<space type="binding-hole"/>putraśubhacasvāmine tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātis<choice><orig>rī</orig><reg>ṛ</reg></choice>ṣṭaḥ</p> <p><lb
-                           n="2r5" break="no"/>te yūyam evam upalabhyājñāśravaṇavidhey<unclear>ā</unclear> bhūtvā yathocitaṁ bhoga<lb 
-                           n="2r6" break="no"/>bhāgam upanayantas s<choice><sic>a</sic><corr>u</corr></choice>kha<supplied reason="omitted">ṁ</supplied> prativatsyatha bhaviṣyataś ca bhū<pb n="2v" break="no"/><lb 
+                           n="2r5"/>te yūyam evam upalabhyājñāśravaṇavidhey<unclear>ā</unclear> bhūtvā yathocitaṁ bhoga<lb 
+                           n="2r6" break="no"/>bhāgam upanayantas s<choice><sic>a</sic><corr>u</corr></choice><space type="descender"/>kha<supplied reason="omitted">ṁ</supplied> prativatsyatha bhaviṣyataś ca bhū<pb n="2v" break="no"/><lb 
                            n="2v1" break="no"/>mipālān anudar<surplus>ś</surplus>śayati</p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭam anupālanajaṁ <choice><orig>ṣ</orig><reg>p</reg></choice>urāṇā</l>
@@ -118,7 +118,7 @@
                        <p>tad bhavadbhir apy e<unclear>ṣā</unclear> <lb 
                             n="2v4"/>dattir anu<space type="binding-hole"/>pālayitavyā vyāsagītāṁś ca ślokān udāharanti</p>
                                    <lg n="2" met="indravajrā">
-                                        <l n="a">A<lb n="2v5"/>gner apatyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
+                                        <l n="a">A<lb n="2v5" break="no"/>gner apatyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasutāś ca gāvaḥ</l>
                                         <l n="c">da<unclear>ttā</unclear><pb n="3r" break="no"/><lb n="3r1" break="no"/><unclear>s tra</unclear>yas tena bhava<surplus>ṁ</surplus>nti lokā</l>
                                         <l n="d">yaḥ kāñcanaṁ gāñ ca mahīñ ca dadyāT</l></lg>
@@ -130,7 +130,6 @@
                                         <l n="cd">yasya <space type="binding-hole"/>yasya yadā bhūmi<supplied reason="omitted">s</supplied> tasya tasya tadā phalaṁ</l></lg>
                                     <lg n="5" met="anuṣṭubh"> 
                                         <l n="ab">svadattāṁ pa<lb n="3r5" break="no"/>radattā<supplied reason="omitted">ṁ</supplied> vā yatnād rakṣa yudhiṣṭhira</l>
-                                       
                                         <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha dānāc chreyo <lb n="3r6"/>'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="dashDouble"/></ab>
                                 <p>pravarddhamānavijaya<choice><orig>saṁvva</orig><reg>saṁva</reg></choice>t<surplus>u</surplus> <num value="3">3</num> pauṣa dina <num value="2">2</num> Utkīrṇṇaṁ golasiṅghena</p>
