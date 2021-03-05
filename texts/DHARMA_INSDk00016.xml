@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -97,26 +97,13 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śrīpurād v<choice><sic>ī</sic><corr>i</corr></choice>kramopanatasāma<surplus>ṁ</surplus>ntamakuṭacūḍāmaṇiprabhā<lb 
-                           n="1v2" break="no"/>prasekāmbudhautapādayugalo ripuvilāsinīsīma<surplus>ṁ</surplus>ntoddharaṇahe<lb 
-                           n="1v3" break="no"/>tu<supplied reason="omitted">r</supplied> <choice><orig>va</orig><reg>vva</reg></choice>suv<surplus>v</surplus>asudhāgopradaḥ paramabhāgavato mātāpitṛpādānu<lb 
-                           n="1v4" break="no"/>ddhyātaś śrīma<space type="binding-hole"/>hāpravararājaḥ śaṅkhacakrābhog<choice><sic>i</sic><corr>ī</corr></choice>yamitragrāmake pra<lb
-                           n="1v5" break="no"/>tivāsina<supplied reason="omitted">ḥ</supplied> samājñāpayati</p> <p>viditam astu vo yathāsmābhir ayaṁ grā<lb 
-                           n="1v6" break="no"/>maḥ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāvad raviśaśitārā<pb n="2r" break="no"/><lb 
-                           n="2r1" break="no"/>kiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upabhogyaḥ <lb 
-                           n="2r2"/>sanidhis sopanidhir acāṭabhaṭaprāveśy<choice><sic>ā</sic><corr>a</corr></choice>ḥ sarvvakaravisarjjitaḥ mā<lb 
-                           n="2r3" break="no"/>tāpitror āt<unclear>m</unclear>anaś ca puṇyābhivṛddhaye bhāradvājasagotra<choice><orig>v</orig><reg>b</reg></choice>ahv<choice><orig>ri</orig><reg>ṛ</reg></choice>cadāmoda<lb 
-                           n="2r4" break="no"/>ragaṇa<space type="binding-hole"/>putraśubhacasvāmine tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātis<choice><orig>rī</orig><reg>ṛ</reg></choice>ṣṭaḥ</p> <p><lb
-                           n="2r5"/>te yūyam evam upalabhyājñāśravaṇavidhey<unclear>ā</unclear> bhūtvā yathocitaṁ bhoga<lb 
-                           n="2r6" break="no"/>bhāgam upanayantas s<choice><sic>a</sic><corr>u</corr></choice><space type="descender"/>kha<supplied reason="omitted">ṁ</supplied> prativatsyatha bhaviṣyataś ca bhū<pb n="2v" break="no"/><lb 
-                           n="2v1" break="no"/>mipālān anudar<surplus>ś</surplus>śayati</p>
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti śrīpurād v<choice><sic>ī</sic><corr>i</corr></choice>kramopanatasāma<surplus>ṁ</surplus>ntamakuṭacūḍāmaṇiprabhā<lb n="1v2" break="no"/>prasekāmbudhautapādayugalo ripuvilāsinīsīma<surplus>ṁ</surplus>ntoddharaṇahe<lb n="1v3" break="no"/>tu<supplied reason="omitted">r</supplied> <choice><orig>va</orig><reg>vva</reg></choice>suv<surplus>v</surplus>asudhāgopradaḥ paramabhāgavato mātāpitṛpādānu<lb n="1v4" break="no"/>ddhyātaś śrīma<space type="binding-hole"/>hāpravararājaḥ śaṅkhacakrābhog<choice><sic>i</sic><corr>ī</corr></choice>yamitragrāmake pra<lb n="1v5" break="no"/>tivāsina<supplied reason="omitted">ḥ</supplied> samājñāpayati</p> <p>viditam astu vo yathāsmābhir ayaṁ grā<lb n="1v6" break="no"/>maḥ <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhākaro yāvad raviśaśitārā<pb n="2r" break="no"/><lb n="2r1" break="no"/>kiraṇapratihataghorāndhakāraṁ jagad avatiṣṭhate tāvad upabhogyaḥ <lb n="2r2"/>sanidhis sopanidhir acāṭabhaṭaprāveśy<choice><sic>ā</sic><corr>a</corr></choice>ḥ sarvvakaravisarjjitaḥ mā<lb n="2r3" break="no"/>tāpitror āt<unclear>m</unclear>anaś ca puṇyābhivṛddhaye bhāradvājasagotra<choice><orig>v</orig><reg>b</reg></choice>ahv<choice><orig>ri</orig><reg>ṛ</reg></choice>cadāmoda<lb n="2r4" break="no"/>ragaṇa<space type="binding-hole"/>putraśubhacasvāmine tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsanenātis<choice><orig>rī</orig><reg>ṛ</reg></choice>ṣṭaḥ</p> <p><lb n="2r5"/>te yūyam evam upalabhyājñāśravaṇavidhey<unclear>ā</unclear> bhūtvā yathocitaṁ bhoga<lb n="2r6" break="no"/>bhāgam upanayantas s<choice><sic>a</sic><corr>u</corr></choice><space type="descender"/>kha<supplied reason="omitted">ṁ</supplied> prativatsyatha bhaviṣyataś ca bhū<pb n="2v" break="no"/><lb n="2v1" break="no"/>mipālān anudar<surplus>ś</surplus>śayati</p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">dānād viśiṣṭam anupālanajaṁ <choice><orig>ṣ</orig><reg>p</reg></choice>urāṇā</l>
                                         <l n="b"><lb n="2v2"/>dharmmeṣu niścitadhiyaḫ pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice> dharmmaṁ</l>
                                         <l n="c">tasmā<supplied reason="omitted">d</supplied> dvijāya <choice><orig>ś</orig><reg>s</reg></choice>uvi<choice><orig>ṣ</orig><reg>ś</reg></choice>uddhakula<lb n="2v3" break="no"/>śrutāya</l>
                                         <l n="d"><space type="binding-hole"/> dattāṁ bhuvaṁ bhavatu vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g type="ddandaOrnate"/></l></lg>
-                       <p>tad bhavadbhir apy e<unclear>ṣā</unclear> <lb 
-                            n="2v4"/>dattir anu<space type="binding-hole"/>pālayitavyā vyāsagītāṁś ca ślokān udāharanti</p>
+                       <p>tad bhavadbhir apy e<unclear>ṣā</unclear> <lb n="2v4"/>dattir anu<space type="binding-hole"/>pālayitavyā vyāsagītāṁś ca ślokān udāharanti</p>
                                    <lg n="2" met="indravajrā">
                                         <l n="a">A<lb n="2v5" break="no"/>gner apatyaṁ prathamaṁ suvarṇṇa<supplied reason="omitted">ṁ</supplied></l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasutāś ca gāvaḥ</l>
