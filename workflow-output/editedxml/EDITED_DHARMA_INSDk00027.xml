@@ -210,6 +210,7 @@
             <listBibl type="primary">
                <bibl n="PKS">
                   <ptr target="bib:Singh2009_01"/>
+                  <citedRange>12-15</citedRange>
                </bibl>
            </listBibl>
            <listBibl type="secondary">
