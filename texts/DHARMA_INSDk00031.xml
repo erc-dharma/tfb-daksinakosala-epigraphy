@@ -82,6 +82,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:nabo" when="2020-07-20" status="draft">Adding text and translation</change>
             <change who="part:nabo" when="2020-07-13" status="draft">Initial encoding of the file</change>
         </revisionDesc>
     </teiHeader>
