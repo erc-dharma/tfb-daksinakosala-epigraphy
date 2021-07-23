@@ -112,7 +112,7 @@
                             n="1v10" break="no"/>bhaṅgaḥ śiṣṭācāravyavasthāparipālanaikadattacittaḥ Api ca prāktane tapa<pb n="2r" break="no"/><lb
                             n="2r1" break="no"/>si yaśasi rahasi cetasi cakṣuṣi <choice><orig>b</orig><reg>v</reg></choice>apuṣi ca pūjito janenākliṣṭatayā n<choice><sic>i</sic><corr>ī</corr></choice><lb
                             n="2r2" break="no"/>tāntam avitṛpto gūḍho gāḍhaṁ svacchaḥ prasanno yauvanena cāla<surplus>ṁ</surplus>ṅkṛtaḥ svāmībha<lb
-                            n="2r3" break="no"/>van<supplied reason="omitted">n</supplied> apy abahulapano 'nujjhitakutṛṣṇo 'pi nitāntatyāgī ripujanapraca<lb
+                            n="2r3" break="no"/>van<supplied reason="omitted">n</supplied> apy abahulapano 'nuj<supplied reason="omitted">j</supplied>hitakutṛṣṇo 'pi nitāntatyāgī ripujanapraca<lb
                             n="2r4" break="no"/>ṇḍo 'pi s<choice><sic>o</sic><corr>au</corr></choice>myadarśano bhūtivibhūṣaṇo 'py aparuṣasvabhāvaḥ kiñ cāsantuṣṭo<lb
                             n="2r5"/>dharmmā<supplied reason="omitted">r</supplied>jane<space type="binding-hole"/>na sampallābhe svalpaḥ krodh<choice><sic>a</sic><corr>e</corr></choice> na prabhāve lubdho yaśasi na pa<lb
                             n="2r6" break="no"/>ravittāpa<space type="binding-hole"/>hāre sakta<supplied reason="omitted">ḥ</supplied> subhāṣit<choice><sic>a</sic><corr>e</corr></choice>ṣu na kāminīkrīḍāsu pratāpānala<lb
@@ -127,7 +127,7 @@
                             n="2v5"/>sarvvakara<space type="binding-hole"/>sametaḥ samadhigatapañcamahāśabdapriyajāmātṛśr<choice><sic>i</sic><corr>ī</corr></choice><lb
                             n="2v6" break="no"/>nannarāja<space type="binding-hole"/>vijñāptyā bilvapadrake parikalpitasa<unclear>ttra</unclear>]bhoktṛṅāṁ yath<choice><sic>a</sic><corr>ā</corr></choice>prā<lb
                             n="2v7" break="no"/>ptabrāhma<supplied reason="omitted">ṅā</supplied>dijanānā<supplied reason="omitted">ṁ</supplied> triṅśataḥ pratyahasupabhogāya Adhiṣṭhānena ca<lb
-                            n="2v8"/>pratipālanā kāryy<choice><sic>ai</sic><corr>e</corr></choice>tyanayā vyavasthayāsmābhir m<choice><sic>a</sic><corr>ā</corr></choice>tāpitror ātmanaś ca puṇyābhi<lb
+                            n="2v8"/>pratipālanā kāryy<choice><sic>ai</sic><corr>e</corr></choice>tyanayā vyavasthayāsmābhir m<choice><sic>a</sic><corr>ā</corr></choice>tāpittror ātmanaś ca puṇyābhi<lb
                             n="2v9" break="no"/><choice><orig>b</orig><reg>v</reg></choice>ṛddhaye pratipādita Ity</p> <p>upa<supplied reason="omitted">la</supplied>bhya yathocita<supplied reason="omitted">ṁ</supplied> bhogabhāgam upanayanta<supplied reason="omitted">ṁ</supplied> su<lb 
                             n="2v10" break="no"/>khaṁ prativatsyatheti<g type="ddandaHooked"/> bhāvinaś ca bhūmipālān ud<supplied reason="omitted">d</supplied>iśyedam abhidh<choice><sic>i</sic><corr>ī</corr></choice>yate</p>
                                 <lg n="1" met="vasantatilakā">
@@ -204,10 +204,15 @@
                       <rdg source="bib:Hultzsch1902-1903_02">°śrī°</rdg>
                       <rdg source="bib:Shastri1995_02">°śr<choice><sic>i</sic><corr>ī</corr></choice>°</rdg>
                   </app>
+                  <app loc="2v8">
+                      <lem>°śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Hultzsch1902-1903_02">°śrī°</rdg>
+                      <rdg source="bib:Shastri1995_02">°śr<choice><sic>i</sic><corr>ī</corr></choice>°</rdg>
+                  </app>
                   <app loc="2v10">
-                      <lem>abhidh<choice><sic>i</sic><corr>ī</corr></choice>yate</lem>
-                      <rdg source="bib:Hultzsch1902-1903_02">abhidhīyate</rdg>
-                      <rdg source="bib:Shastri1995_02">abhidh<choice><sic>i</sic><corr>ī</corr></choice>yate</rdg>
+                      <lem>°pittror</lem>
+                      <rdg source="bib:Hultzsch1902-1903_02">°pittror</rdg>
+                      <rdg source="bib:Shastri1995_02">°pitror</rdg>
                   </app>
                   <app loc="3r1">
                       <lem>mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied></lem>

@@ -103,9 +103,9 @@
                         n="2r4"/>vo yathā<space type="binding-hole"/>smābhir ayaṁ gram<choice><sic>a</sic><corr>o</corr></choice> yāvad raviśaśitārākiraṇapra<lb
                         n="2r5" break="no"/>tihata<space type="binding-hole"/>ghorāndhakāraṁ jagad avatiṣṭhate tāvad u<unclear>pa</unclear>bhogyaḥ sa<lb
                         n="2r6" break="no"/>nidhi<supplied reason="omitted">ḥ</supplied> sopanidhir a<surplus>ḥ</surplus>cāṭabhaṭa<surplus>ḥ</surplus>prāveśya<supplied reason="omitted">ḥ</supplied> sarvvakarādānasameta<supplied reason="omitted">ḥ</supplied> <lb
-                        n="2r7"/>sarvvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjito mātāpit<surplus>t</surplus>ror ātmanaś ca pu<choice><orig>n</orig><reg>ṇ</reg></choice>yābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye<surplus>ḥ</surplus> kau<lb
+                        n="2r7"/>sarvvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjito mātāpittror ātmanaś ca pu<choice><orig>n</orig><reg>ṇ</reg></choice>yābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye<surplus>ḥ</surplus> kau<lb
                         n="2r8" break="no"/>ṇḍinyasagotrāya vājasaneyamādhya<supplied reason="omitted">n</supplied>dinabhāgavatabrāhmaṇa<pb n="2v" break="no"/><lb
-                        n="2v1" break="no"/>nārāyaṇopādhyāyāya mātāpit<surplus>t</surplus>ror ātmanaś ca puṇyābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye<lb 
+                        n="2v1" break="no"/>nārāyaṇopādhyāyāya mātāpittror ātmanaś ca puṇyābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye<lb 
                         n="2v2" break="no"/>bhādrapadakṛṣṇadvādaśyā<supplied reason="omitted">ṁ</supplied> saṁkrāntau Udakapūrvva<supplied reason="omitted">ṁ</supplied> śāsanena pra<lb 
                         n="2v3" break="no"/>tipādita Ity</p> <p>avagamya vidheyair bhūtvā samucitaṁ bhogabhāga<lb
                         n="2v4" break="no"/>m upana<space type="binding-hole"/>yadbhi<supplied reason="omitted">ḥ</supplied> sukhaṁ prativasta<choice><orig>b</orig><reg>v</reg></choice>yam iti<g type="ddandaHooked"/> bhāvinaś ca bhūmi<lb
@@ -129,8 +129,18 @@
                       <rdg source="bib:Jain1955-1956_01">pradyumna</rdg>
                       <rdg source="bib:Shastri1995_02">pradyumn<choice><sic>ā</sic><corr>a</corr></choice></rdg>
                   </app>
-                  <app loc="3r1">
-                      <lem>mātāpit<surplus>t</surplus>ror ātmanaś ca puṇyābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye</lem>
+                  <app loc="2r7">
+                      <lem>°pittror</lem>
+                      <rdg source="bib:Jain1955-1956_01">°pittror</rdg>
+                      <rdg source="bib:Shastri1995_02">°pitror</rdg>
+                  </app>
+                  <app loc="2v1">
+                      <lem>°pittror</lem>
+                      <rdg source="bib:Jain1955-1956_01">°pittror</rdg>
+                      <rdg source="bib:Shastri1995_02">°pitror</rdg>
+                  </app>
+                  <app loc="2v1">
+                      <lem>mātāpittror ātmanaś ca puṇyābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye</lem>
                       <note>This passage is a reptition of the same passage in line 2r7, which makes it redundant.</note> 
                   </app></div>
          <div type="translation" resp="part:nabo">
