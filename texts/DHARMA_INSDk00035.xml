@@ -105,7 +105,7 @@
                            n="1v7" break="no"/>p<choice><sic>u</sic><corr>ū</corr></choice>jya sapradhānā<choice><orig>t</orig><reg>n</reg></choice> prativāsino yathākālādhyāsinas samāharttṛsannidhā<pb n="2r" break="no"/><lb
                            n="2r1" break="no"/>tṛpramukhān anyā<choice><orig>ṅ</orig><reg>ṁ</reg></choice>ś cāsmatpādopaj<choice><sic>i</sic><corr>ī</corr></choice>vinas sarvvarājapuruṣā<supplied reason="omitted">n</supplied> samājñāpa<lb
                            n="2r2" break="no"/>yati<g type="dandaHooked"/> viditam astu bhavatāṁ yathāsm<choice><sic>a</sic><corr>ā</corr></choice>bhir ayaṁ grāma<supplied reason="omitted">ḥ</supplied> sanidhiḥ sopanidhis sada<lb
-                           n="2r3" break="no"/>śāparādhas sarvvakarādānasametaḥ sarvvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjjitaḥ pratiṣiddhaccāṭabhaṭa<lb
+                           n="2r3" break="no"/>śāparādhas sarvvakarādānasametaḥ sarvvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjjitaḥ pratiṣiddhac<surplus>c</surplus>āṭabhaṭa<lb
                            n="2r4" break="no"/>praveśaḥ <space type="binding-hole"/>śrībhavaguptarājadevavijñaptyā śrīpuratalavāsta<choice><orig>b</orig><reg>v</reg></choice>yataittiri<lb
                            n="2r5" break="no"/>yabhāradvājasagottrāsyāṁ bhaṭṭabhavadevajanārdanāsyāṁ sahodarabhrātṛsyāṁ<lb
                            n="2r6"/>cait<surplus>t</surplus>rapaurṇṇamāsyāṁ somagrahoparāge<g type="dandaPlain"/> Udakapūrvvaṁ mātāpittror ātmanaś ca pu<lb
@@ -139,7 +139,7 @@
                                         <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha dānā<supplied reason="omitted">t</supplied> śreyo 'nupā<lb n="3r6" break="no"/>lana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="dandaHooked"/></ab>
                            <p>śrīmahāśivaguptarājadevasya pravarddhamānavijayarājye sa<lb
-                            n="3r7" break="no"/>m<choice><orig>b</orig><reg>v</reg></choice>atsare Ekonaviṅśatime caitradina triṅśatime Aṅkenāpi sam<choice><orig>b</orig><reg>v</reg></choice>a<supplied reason="omitted">t</supplied> <num value="19">19</num> caitra dina rla</p>
+                            n="3r7" break="no"/>m<choice><orig>b</orig><reg>v</reg></choice>atsare Ekonaviṅśatime caitradina triṅśatime Aṅkenāpi sam<choice><orig>b</orig><reg>v</reg></choice>a<supplied reason="omitted">t</supplied> <num value="19">19</num> caitra dina rla</p></div></div>
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
@@ -226,7 +226,7 @@
                    <app loc="3r7">
                       <lem>triṅśatime Aṅkenāpi</lem>
                       <rdg source="bib:Singh2009_01">triṅśati Āḍakenāpi</rdg>
-                  </app></div>
+                  </app></div></div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>
