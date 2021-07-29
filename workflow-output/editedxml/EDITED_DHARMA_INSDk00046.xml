@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:nabo" when="2020-07-28" status="draft">Adding text and translation</change>
          <change who="part:nabo" when="2020-07-13" status="draft">Initial encoding of the file</change>
       </revisionDesc>
    </teiHeader>
@@ -90,24 +91,173 @@
          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                   <lg n="1" met="anuṣṭubh">
-                     <l n="ab"/>
-                     <l n="cd"/>
+                     <l n="ab">rājñaḥ śrīharṣaguptasya sūnoḥ sadguṇaśālinaḥ</l>
+                     <l n="cd">śāsanaṁ śivaguptasya sthitam ā bhuvanasthiteḥ</l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti 
-                        </p></div></div>    
+                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣitīśavidyābhyāsaviśeṣāsādita<surplus>ḥ</surplus>mahanīya<surplus>ḥ</surplus>nayavi<lb n="1v2" break="no"/>nayasampa<supplied reason="omitted">t</supplied>sampāditasakalav<choice><sic>ī</sic><corr>i</corr></choice>j<choice><sic>ī</sic><corr>i</corr></choice>gīṣuguṇo guṇavatsamāśrayaḥ prakṛṣṭa<lb n="1v3" break="no"/>taraś<choice><sic>o</sic><corr>au</corr></choice>rya<surplus>ḥ</surplus>prajñāprabhāvasambhāvitamahābhyudayaḥ kārttikeya Iva kṛtti<lb n="1v4" break="no"/>vāsaso rā<space type="binding-hole"/>jñaḥ <choice><orig>śṛī</orig><reg>śrī</reg></choice>harṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice>nuḥ somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasambhava<supplied reason="omitted">ḥ</supplied> parama<lb n="1v5" break="no"/>māheśvaro <space type="binding-hole"/>m<choice><sic>a</sic><corr>ā</corr></choice>tāpitṛpādānudhyātaḥ <choice><orig>śṛī</orig><reg>śrī</reg></choice>m<choice><sic>ā</sic><corr>a</corr></choice>hāśivaguptarājadeva<supplied reason="omitted">ḥ</supplied> kuśalī<lb n="1v6" break="no"/>Oṇibhog<choice><sic>i</sic><corr>ī</corr></choice>yagrāmavaidyapadrake<g type="dandaPlain"/> brāhmaṇā<supplied reason="omitted">ṁ</supplied> samp<choice><sic>u</sic><corr>ū</corr></choice>jya tatpratinivāsikuṭumbi<lb n="1v7" break="no"/>no yathākālādhyāsinaḥ samāharttṛsannidhāttṛprabhṛtīn asmatpādopajīvina<supplied reason="omitted">ḥ</supplied><lb n="1v8"/>sar<choice><orig>bv</orig><reg>vv</reg></choice>arājapuruṣā<supplied reason="omitted">n</supplied> samājñāpayati<g type="dandaPlain"/></p> <p>viditam astu bhavatāṁ yathā grāmo ‘yam asmā<pb n="2r" break="no"/><lb n="2r1" break="no"/>bhiḥ sampratisanidhānaḥ sopanidhānaḥ sar<choice><orig>bv</orig><reg>vv</reg></choice>akar<choice><sic>a</sic><corr>ā</corr></choice>dānasametaḥ sar<choice><orig>bv</orig><reg>vv</reg></choice>ap<unclear>ī</unclear>ḍāviva<lb n="2r2" break="no"/><supplied reason="omitted">r</supplied>jitaḥ sadaśāparādhaḥ pratiṣiddhacāṭabhaṭapraveśaḥ Asyāṁ kārttikap<choice><sic>o</sic><corr>au</corr></choice>rṇṇamā<lb n="2r3" break="no"/>syāṁ pattanakhadirapadratalapratiṣṭhita<choice><orig>śṛī</orig><reg>śrī</reg></choice>madīśāneśvarabhaṭṭārakāya<g type="dandaPlain"/> ba<lb n="2r4" break="no"/>l<choice><sic>ī</sic><corr>i</corr></choice>caru<space type="binding-hole"/>nivedyasat<supplied reason="omitted">t</supplied>ranṛttavāditrakhaṇḍasphuṭitasa<supplied reason="omitted">ṁ</supplied>skārārthaṁ dvaitavanī<lb n="2r5" break="no"/>ya<choice><orig>śṛi</orig><reg>śrī</reg></choice>matpa<space type="binding-hole"/>ñcayajñatapovanavinirggata<surplus>ṅ</surplus>capalagocariṇaḥ bhagavacchr<choice><sic>i</sic><corr>ī</corr></choice><lb n="2r6" break="no"/>pramathācāryaśiṣya<choice><orig>śṛī</orig><reg>śrī</reg></choice>śūlapāṇibhagavatpādaprārthana<surplus>ṁ</surplus>yā mātāpitro<lb n="2r7" break="no"/>r <choice><sic>a</sic><corr>ā</corr></choice>tmanaś ca puṇyābhi<choice><orig>b</orig><reg>v</reg></choice>ṛddhaye samak<choice><sic>a</sic><corr>ā</corr></choice>lopabhogārtham ācandratārakārkka<supplied reason="omitted">ṁ</supplied> paya<supplied reason="omitted">ḥ</supplied><lb n="2r8" break="no"/>p<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>bv</orig><reg>vv</reg></choice>akaṁ tām<surplus>b</surplus>raśāsanena pratipādito</p> <p>yatovagatya samu<sic>c</sic>itabhogabhāgādika<pb n="2v" break="no"/><lb n="2v1" break="no"/>m upanayanto bhavantaḥ sukhaṁ prativasantu<g type="ddandaHooked"/> bhāvinaś ca bhūmipālān ud<supplied reason="omitted">d</supplied>i<lb n="2v2" break="no"/>śyedam abhidhīyate</p>
+                                    <lg n="1" met="vasantatilakā">
+                                        <l n="a">bhūmipradā divi lalanti patanti hanta</l>
+                                        <l n="b">hṛtvā mah<choice><sic>i</sic><corr>ī</corr></choice>ṁ <lb n="2v3"/>nṛpatayo narake nṛ<choice><orig>t</orig><reg>śaṁ</reg></choice>sāḥ</l>
+                                        <l n="c">Etad <supplied reason="omitted">d</supplied>vayaṁ parikalayya calāñ ca l<surplus>l</surplus>akṣm<choice><sic>i</sic><corr>ī</corr></choice>m</l>
+                                        <l n="d">āyus ta<lb n="2v4" break="no"/>thā kuruta <space type="binding-hole"/>yad bhavatām abh<choice><sic>i</sic><corr>ī</corr></choice>ṣṭa<supplied reason="omitted">ṁ</supplied><g type="dandaPlain"/></l></lg>
+                            <ab>Api ca</ab> 
+                                    <lg n="2" met="anuṣṭubh">
+                                        <l n="ab">rakṣāpāla<choice><orig>natyavat</orig><reg>nayos tāvat</reg></choice> phalaṁ suga<lb n="2v5" break="no"/>tidurggatī</l>
+                                        <l n="cd"><space type="binding-hole"/>ko n<choice><sic>a</sic><corr>ā</corr></choice>ma svarggam utsṛjya narakaṁ pratipadyate<g type="ddandaHooked"/></l></lg>
+                           <p><choice><orig>b</orig><reg>v</reg></choice>yāsag<choice><sic>i</sic><corr>ī</corr></choice><lb n="2v6" break="no"/>tā<choice><orig>ṅ</orig><reg>ṁ</reg></choice><supplied reason="omitted">ś</supplied> cātra ślokān udāharanti<g type="dandaPlain"/></p>
+                                    <lg n="3" met="indravajrā">
+                                        <l n="a">Agner apatya<supplied reason="omitted">ṁ</supplied> prathama<supplied reason="omitted">ṁ</supplied> suvarṇṇaṁ</l>
+                                        <l n="b">bhūr <choice><orig>bv</orig><reg>vv</reg></choice>ai<lb n="2v7" break="no"/>ṣṇav<choice><sic>i</sic><corr>ī</corr></choice> s<choice><sic>u</sic><corr>ū</corr></choice><supplied reason="omitted">r</supplied>yasutāś ca gāva<supplied reason="omitted">ḥ</supplied></l>
+                                        <l n="c">dattās trayas tena bhavanti lok<choice><sic>a</sic><corr>ā</corr></choice></l>
+                                        <l n="d">yaḥ kāñcanaṁ gāñ ca ma<lb n="2v8" break="no"/>hīñ ca dadyāT<g type="dandaPlain"/></l></lg>
+                                    <lg n="4" met="anuṣṭubh">
+                                        <l n="ab">ṣaṣṭi<surplus>r</surplus><choice><orig>bv</orig><reg>v</reg></choice>arṣasahasrāṇi svargge modati bh<choice><sic>u</sic><corr>ū</corr></choice>midaḥ</l>
+                                        <l n="cd"><choice><sic>A</sic><corr>Ā</corr></choice>cchettā cā<pb n="3r" break="no"/><lb n="3r1" break="no"/>numantā ca tāny eva narake vaseT<g type="dandaPlain"/></l></lg>
+                                    <lg n="5" met="anuṣṭubh">
+                                        <l n="ab">bahubhir <choice><orig>bv</orig><reg>vv</reg></choice>asudhā dattā rājabhi<supplied reason="omitted">ḥ</supplied> sagarādi<lb n="3r2" break="no"/>bhi<supplied reason="omitted">ḥ</supplied></l>
+                                        <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalaṁ<g type="dandaPlain"/></l></lg>
+                                    <lg n="6" met="anuṣṭubh"> 
+                                        <l n="ab">svadattā<supplied reason="omitted">ṁ</supplied> paradattām <choice><orig>b</orig><reg>v</reg></choice>ā ya<lb n="3r3" break="no"/>tnād rakṣa yudhiṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>ira</l>
+                                        <l n="cd">mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>bhṛtāṁ śreṣṭha<surplus>ḥ</surplus> dānā<supplied reason="omitted">t</supplied> śreyo ’nupālanaṁ<g type="ddandaHooked"/></l></lg>
+                                    <lg n="7" met="anuṣṭubh"> 
+                                        <l n="ab" enjamb="yes">Asmā<lb n="3r4" break="no"/>kam uparo<space type="binding-hole"/>dhena nityaṁ dharmmasya g<choice><sic>o</sic><corr>au</corr></choice>ravā</l>
+                                        <l n="cd">d asmad<supplied reason="omitted">d</supplied>atti<supplied reason="omitted">ḥ</supplied> svak<choice><sic>i</sic><corr>ī</corr></choice>yeva pālyā bhā<lb n="3r5" break="no"/>vikṣit<choice><sic>i</sic><corr>ī</corr></choice>śva<space type="binding-hole"/>rai<supplied reason="omitted">ḥ</supplied><g type="ddandaHooked"/></l></lg>
+                                    <lg n="8" met="puṣpitāgrā"> 
+                                        <l n="a">Iti kamaladalāmbubindulolā<supplied reason="omitted">ṁ</supplied></l>
+                                        <l n="b"><choice><orig>śṛi</orig><reg>śri</reg></choice>yam anuc<choice><sic>ī</sic><corr>i</corr></choice><lb n="3r6" break="no"/>ntya manuṣyaj<choice><sic>i</sic><corr>ī</corr></choice>vita<surplus>ṁ</surplus><choice><orig>ṅ</orig><reg>ñ</reg></choice> ca</l>
+                                        <l n="c">sakalam idam udāhṛta<choice><orig>ṅ</orig><reg>ñ</reg></choice> ca bu<supplied reason="omitted">d</supplied>dhvā</l>
+                                        <l n="d">na hi pur<choice><sic>a</sic><corr>u</corr></choice><lb n="3r7" break="no"/>ṣaiḥ par<choice><sic>i</sic><corr>a</corr></choice>k<choice><sic>i</sic><corr>ī</corr></choice>rttayo vilopyā<supplied reason="omitted">ḥ</supplied><g type="ddandaHooked"/></l></lg>
+                            <p>pravarddhamānavijayarājye sam<choice><orig>b</orig><reg>v</reg></choice>atsare sapta<lb n="3r8"/>pañcāśattame kārttikap<choice><sic>o</sic><corr>au</corr></choice>rṇṇam<choice><sic>a</sic><corr>ā</corr></choice>syāṁ Aṅkena sam<choice><orig>b</orig><reg>v</reg></choice>aT<g type="dandaPlain"/> <num value="57"><g type="numeral">50</g> 7</num> kārttika dina <num value="30">30</num></p></div></div>
          <div type="apparatus">
-                  </div>
+               <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+                  <app loc="ab">
+                      <lem>śrī°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">śrī°</rdg>
+                      <rdg source="bib:Shastri1995_02"><choice><orig>śṛī</orig><reg>śrī</reg></choice>°</rdg>
+                  </app></div>
+               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+                  <app loc="1v7">
+                      <lem>samāharttṛsannidhāttṛ°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">samāharttṛsannidhātṛ°</rdg>
+                      <rdg source="bib:Shastri1995_02">samāhartṛsannidhāttṛ°</rdg>
+                  </app>
+                  <app loc="1v8">
+                      <lem>sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">sar<choice><orig>bb</orig><reg>vv</reg></choice>a°</rdg>
+                      <rdg source="bib:Shastri1995_02">sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</rdg>
+                  </app>
+                  <app loc="1v8">
+                      <lem>asmā<pb n="2r" break="no"/><lb n="2r1" break="no"/>bhiḥ</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">asmā<pb n="2r" break="no"/><lb n="2r1" break="no"/>bhi</rdg>
+                      <rdg source="bib:Shastri1995_02">asmā<pb n="2r" break="no"/><lb n="2r1" break="no"/>bhiḥ</rdg>
+                  </app>
+                   <app loc="2r1">
+                      <lem>sampratisanidhānaḥ</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">sampratisanidhānaḥ</rdg>
+                      <rdg source="bib:Shastri1995_02">sampratisanidh<choice><sic>a</sic><corr>ā</corr></choice>naḥ</rdg>
+                  </app>
+                   <app loc="2r1">
+                      <lem>sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">sar<choice><orig>bb</orig><reg>vv</reg></choice>a°</rdg>
+                      <rdg source="bib:Shastri1995_02">sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</rdg>
+                  </app>
+                   <app loc="2r1">
+                      <lem>sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">sar<choice><orig>bb</orig><reg>vv</reg></choice>a°</rdg>
+                      <rdg source="bib:Shastri1995_02">sar<choice><orig>bv</orig><reg>vv</reg></choice>a°</rdg>
+                  </app>
+                   <app loc="2r2">
+                      <lem>°p<choice><sic>o</sic><corr>au</corr></choice>rṇṇa°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°p<choice><sic>o</sic><corr>au</corr></choice>rṇṇa°</rdg>
+                      <rdg source="bib:Shastri1995_02">°<choice><orig>y</orig><reg>p</reg></choice><choice><sic>o</sic><corr>au</corr></choice>rṇṇa°</rdg>
+                  </app>
+                   <app loc="2r3">
+                      <lem>°bhaṭṭārakāya</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°bhaṭṭārakāya</rdg>
+                      <rdg source="bib:Shastri1995_02">°bhaṭṭārakāra</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>°<choice><orig>śṛi</orig><reg>śrī</reg></choice>mat°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°<choice><orig>śṛī</orig><reg>śrī</reg></choice>mat°</rdg>
+                      <rdg source="bib:Shastri1995_02">°<choice><orig>śṛi</orig><reg>śrī</reg></choice>mat°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>°chr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°ch<supplied reason="omitted">r</supplied><choice><sic>i</sic><corr>ī</corr></choice>°</rdg>
+                      <rdg source="bib:Shastri1995_02">°chr<choice><sic>i</sic><corr>ī</corr></choice>°</rdg>
+                  </app>
+                   <app loc="2r6">
+                      <lem>°prārthana<surplus>ṁ</surplus>yā</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°prārthanayā</rdg>
+                      <rdg source="bib:Shastri1995_02">°prārthana<surplus>ṁ</surplus>yā</rdg>
+                  </app>
+                   <app loc="2r8">
+                      <lem>°p<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>bv</orig><reg>vv</reg></choice>akaṁ</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°p<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>bb</orig><reg>vv</reg></choice>akaṁ</rdg>
+                      <rdg source="bib:Shastri1995_02">°p<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>bv</orig><reg>vv</reg></choice>akaṁ</rdg>
+                  </app>
+                   <app loc="2v5">
+                      <lem>°durggatī</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">°durggat<choice><sic>i</sic><corr>ī</corr></choice></rdg>
+                      <rdg source="bib:Shastri1995_02">°durggatī</rdg>
+                  </app>
+                   <app loc="2v6">
+                      <lem>cātra</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">c<choice><sic>a</sic><corr>ā</corr></choice>tra</rdg>
+                      <rdg source="bib:Shastri1995_02">cātra</rdg>
+                  </app>
+                   <app loc="2v6">
+                      <lem><choice><orig>bv</orig><reg>vv</reg></choice>ai<lb n="2v7" break="no"/>ṣṇav<choice><sic>i</sic><corr>ī</corr></choice></lem>
+                      <rdg source="bib:Pandeya1947-1948_01"><choice><orig>bv</orig><reg>vv</reg></choice>ai<lb n="2v7" break="no"/>ṣṇav<choice><sic>i</sic><corr>ī</corr></choice></rdg>
+                      <rdg source="bib:Shastri1995_02"><choice><orig>bb</orig><reg>vv</reg></choice>ai<lb n="2v7" break="no"/>ṣṇav<choice><sic>i</sic><corr>ī</corr></choice></rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>lok<choice><sic>a</sic><corr>ā</corr></choice></lem>
+                      <rdg source="bib:Pandeya1947-1948_01">lokā</rdg>
+                      <rdg source="bib:Shastri1995_02">lok<choice><sic>a</sic><corr>ā</corr></choice></rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>ma<lb n="2v8" break="no"/>hīñ</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">ma<lb n="2v8" break="no"/>hiñ</rdg>
+                      <rdg source="bib:Shastri1995_02">ma<lb n="2v8" break="no"/>hīñ</rdg>
+                  </app>
+                   <app loc="2v8">
+                      <lem>ṣaṣṭi<surplus>r</surplus><choice><orig>bv</orig><reg>v</reg></choice>arṣa°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">ṣaṣṭi<surplus>r</surplus><choice><orig>bb</orig><reg>v</reg></choice>arṣa°</rdg>
+                      <rdg source="bib:Shastri1995_02">ṣaṣṭi<surplus>r</surplus><choice><orig>bv</orig><reg>v</reg></choice>arṣa°</rdg>
+                  </app>
+                   <app loc="3r1">
+                      <lem><choice><orig>bv</orig><reg>vv</reg></choice>asudhā</lem>
+                      <rdg source="bib:Pandeya1947-1948_01"><choice><orig>bb</orig><reg>vv</reg></choice>asudhā</rdg>
+                      <rdg source="bib:Shastri1995_02"><choice><orig>bv</orig><reg>vv</reg></choice>asudhā</rdg>
+                  </app>
+                  <app loc="3r4">
+                      <lem>bhā<lb n="3r5" break="no"/>vi°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">bhā<lb n="3r5" break="no"/><unclear>ki</unclear>°</rdg>
+                      <rdg source="bib:Shastri1995_02">bhā<lb n="3r5" break="no"/>vi°</rdg>
+                  </app>
+                   <app loc="3r6">
+                      <lem>manuṣya°</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">manuṣya°</rdg>
+                      <rdg source="bib:Shastri1995_02">manuṣyā°</rdg>
+                  </app>
+                   <app loc="3r6">
+                      <lem>pur<choice><sic>a</sic><corr>u</corr></choice><lb n="3r7" break="no"/>ṣaiḥ</lem>
+                      <rdg source="bib:Pandeya1947-1948_01">puru<lb n="3r7" break="no"/>ṣaiḥ</rdg>
+                      <rdg source="bib:Shastri1995_02">pur<choice><sic>a</sic><corr>u</corr></choice><lb n="3r7" break="no"/>ṣaiḥ</rdg>
+                  </app>
+         </div></div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                    <p/></div>
+                    <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <p n="1v1-">Success! Hail!</p></div></div>
         <div type="commentary">
             </div>
         <div type="bibliography">
-        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="bib:Pandeya1947-1948_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>128-133</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   	   
+        	    <p>First edited by Pandeya <bibl rend="omitname"><ptr target="bib:Pandeya1947-1948_01"/></bibl> from the original plates; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>128-133</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs (edition of the seal based on Pandeya).</p>	   	   
             <listBibl type="primary">
                 <bibl n="LPP">
                    <ptr target="bib:Pandeya1947-1948_01"/>
