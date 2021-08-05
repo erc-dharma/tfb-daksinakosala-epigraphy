@@ -120,21 +120,21 @@
                      <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                   </app> 
                   <app loc="2r4">
-                      <lem source="bib:Sircar1960_02"><del rend="strikeout">matir eva goptum</del></lem>
+                      <lem source="bib:Sircar1961-1962_01"><del rend="strikeout">matir eva goptum</del></lem>
                   </app>
                   <app loc="2r5">
                       <lem>yathocitaṁ</lem>
-                     <rdg source="bib:Sircar1960_02">yathocita°</rdg>
+                     <rdg source="bib:Sircar1961-1962_01">yathocita°</rdg>
                      <rdg source="bib:Shastri1995_02">yathocitaṁ</rdg>
                   </app>
                   <app loc="2v1">
                       <lem>pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice></lem>
-                     <rdg source="bib:Sircar1960_02">pravada<surplus>ṁ</surplus>nti</rdg>
+                     <rdg source="bib:Sircar1961-1962_01">pravada<surplus>ṁ</surplus>nti</rdg>
                      <rdg source="bib:Shastri1995_02">pravada<choice><orig>ṁtti</orig><reg>nti</reg></choice></rdg>
                   </app>
                   <app loc="3r2">
                       <lem>rāja<surplus>ḥbh</surplus>bhis</lem>
-                     <rdg source="bib:Sircar1960_02">rāja<surplus>ḥbh</surplus>bhis</rdg>
+                     <rdg source="bib:Sircar1961-1962_01">rāja<surplus>ḥbh</surplus>bhis</rdg>
                      <rdg source="bib:Shastri1995_02">rāja<surplus>ḥ</surplus>bhis</rdg>
                   </app>
                </listApp>
@@ -153,10 +153,10 @@
             <p>The seal that used to be attached to these plates is lost.</p> 
          </div>
         <div type="bibliography">
-        	    <p>First edited by Sircar <bibl rend="omitname"><ptr target="bib:Sircar1960_02"/></bibl> from the original plates and their impressions; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>17-19</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   
+        	    <p>First edited by Sircar <bibl rend="omitname"><ptr target="bib:Sircar1961-1962_01"/></bibl> from the original plates and their impressions; published again by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>17-19</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   
             <listBibl type="primary">
               <bibl n="DCS">
-                  <ptr target="bib:Sircar1960_02"/>
+                  <ptr target="bib:Sircar1961-1962_01"/>
               </bibl>
                <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
