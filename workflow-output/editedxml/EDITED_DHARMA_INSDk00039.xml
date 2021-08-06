@@ -120,18 +120,81 @@
                                         <l n="cd">yasya yasya yadā bh<choice><sic>u</sic><corr>ū</corr></choice>mi<supplied reason="omitted">s</supplied> tasya <pb n="3v"/><lb n="3v1"/>tasya ta<space type="binding-hole"/>dā phalaṁ</l></lg>
                                      <lg n="6" met="anuṣṭubh"> 
                                         <l n="ab">svadattā<supplied reason="omitted">ṁ</supplied> paradat<supplied reason="omitted">t</supplied><choice><sic>a</sic><corr>ā</corr></choice>m <choice><orig>b</orig><reg>v</reg></choice>ā yatnād rakṣa yudhi<lb n="3v2" break="no"/>ṣṭhira</l>
-                                        <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied> śreṣṭha dān<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">t</supplied> <choice><orig>g</orig><reg>ś</reg></choice>reyo ’nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
+                                        <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>mat<surplus>t</surplus>ā<supplied reason="omitted">ṁ</supplied> śreṣṭha dān<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">t</supplied> <choice><orig>g</orig><reg>ś</reg></choice>reyo ’nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="ddandaHooked"/></ab>
                      <p><lb n="3v3"/>pravarddhamānavijayarājye sam<choice><orig>b</orig><reg>v</reg></choice>atsare ṣadcattvāri<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śe śrāvaṇapau<lb n="3v4"/>rṇṇamā<choice><orig>ś</orig><reg>s</reg></choice>yām aṅkenāpi sam<choice><orig>b</orig><reg>v</reg></choice>aT<g type="dandaPlain"/> pū <num value="46">4 6</num> śrāvaṇa di rla <g type="circle"/></p></div></div>
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
-                      <lem>°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
-                      <rdg source="bib:Mirashi+Pandeya1963-1964_01">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</rdg>
-                      <rdg source="bib:Shastri1995_02">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice>śa°</rdg>
+                      <lem>°mahanīya<surplus>ḥ</surplus>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°mahan<choice><sic>i</sic><corr>ī</corr></choice>ya°</rdg>
                   </app>
-                  </div></div>
+                   <app loc="1v2">
+                      <lem>°vijig<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ś</orig><reg>ṣ</reg></choice>u°</lem>
+                      <rdg source="bib:Jain+al2005_01">°vijig<choice><sic>i</sic><corr>ī</corr></choice>ṣu°</rdg>
+                  </app>
+                   <app loc="1v4">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="1v5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01"/>
+                  </app>
+                   <app loc="2v5">
+                      <lem>ud<supplied reason="omitted">d</supplied>iśyedam</lem>
+                      <rdg source="bib:Jain+al2005_01">udiṣyedam</rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>lakṣm<choice><sic>i</sic><corr>ī</corr></choice>m</lem>
+                      <rdg source="bib:Jain+al2005_01">lakṣmīm</rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>kuru<pb n="3r" break="no"/><lb n="3r1" break="no"/>ta</lem>
+                      <rdg source="bib:Jain+al2005_01">k<choice><sic>ū</sic><corr>u</corr></choice>ru<pb n="3r" break="no"/><lb n="3r1" break="no"/>ta</rdg>
+                  </app>
+                   <app loc="3r2">
+                      <lem>ko nāma</lem>
+                      <rdg source="bib:Jain+al2005_01">ko <choice><orig>māna</orig><reg>nāma</reg></choice></rdg>
+                  </app>
+                   <app loc="3r2">
+                      <lem><choice><orig>b</orig><reg>v</reg></choice>yāsag<choice><sic>i</sic><corr>ī</corr></choice>tā<supplied reason="omitted">ṁ</supplied>ś</lem>
+                      <rdg source="bib:Jain+al2005_01">vyāsagītāś</rdg>
+                  </app>
+                   <app loc="3r3">
+                      <lem>suvarṇṇaṁ</lem>
+                      <rdg source="bib:Jain+al2005_01">suvarṇṇa</rdg>
+                  </app>
+                   <app loc="3r3">
+                      <lem>vvaiṣṇav<choice><sic>i</sic><corr>ī</corr></choice></lem>
+                      <rdg source="bib:Jain+al2005_01">vvaiṣṇavī</rdg>
+                  </app>
+                   <app loc="3r5">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice>ñ</lem>
+                      <rdg source="bib:Jain+al2005_01">mahīñ</rdg>
+                  </app>
+                   <app loc="3r5">
+                      <lem>°saha<choice><orig>ś</orig><reg>s</reg></choice>rāṇi svargge</lem>
+                      <rdg source="bib:Jain+al2005_01">°sahastrāṇi svargga</rdg>
+                  </app>
+                   <app loc="3v2">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice>mat<surplus>t</surplus>ā<supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">mahīmattā</rdg>
+                  </app>
+                   <app loc="3v4">
+                      <lem>sam<choice><orig>b</orig><reg>v</reg></choice>aT</lem>
+                      <rdg source="bib:Jain+al2005_01">samba<supplied reason="omitted">T</supplied></rdg>
+                  </app>
+                   </div></div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>
