@@ -147,9 +147,97 @@
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
-                      <lem>°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
-                      <rdg source="bib:Mirashi+Pandeya1963-1964_01">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</rdg>
-                      <rdg source="bib:Shastri1995_02">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice>śa°</rdg>
+                      <lem>°mahanīya°</lem>
+                      <rdg source="bib:Jain+al2005_01">°mahan<choice><sic>i</sic><corr>ī</corr></choice>ya°</rdg>
+                  </app>
+                   <app loc="1v2">
+                      <lem>°viji<sic>g</sic>īṣu°</lem>
+                      <rdg source="bib:Jain+al2005_01">°viji<choice><orig>ś</orig><reg>g</reg></choice>īṣu°</rdg>
+                       <note>The letter <foreign>ga</foreign> slightly deviates from its regular shape because of an additional horizontal stroke below the box-shaped head of the letter. Contrary to the horizontal stroke of the letter <foreign>śa</foreign>, which is positioned in the middle of the character, this stroke is inscribed immediately below the box. Therefore, it is more likely that the stroke was added by mistake.</note>
+                  </app>
+                   <app loc="1v4">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="1v4">
+                      <lem>somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śa°</lem>
+                      <rdg source="bib:Jain+al2005_01">somavaṅsa°</rdg>
+                  </app>
+                   <app loc="1v5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="1v6">
+                      <lem>cullāṭa°</lem>
+                      <rdg source="bib:Jain+al2005_01">callāṭa°</rdg>
+                  </app>
+                   <app loc="2r4">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r4">
+                      <lem>°śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°śrī°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>°śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°śrī°</rdg>
+                  </app>
+                   <app loc="2r6">
+                      <lem>°śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°śrī°</rdg>
+                  </app>
+                   <app loc="2r7">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r7">
+                      <lem><supplied reason="omitted">a</supplied>stra°</lem>
+                      <rdg source="bib:Jain+al2005_01">ratra°</rdg>
+                  </app>
+                   <app loc="2v2">
+                      <lem>vijñaptyā°</lem>
+                      <rdg source="bib:Jain+al2005_01">vijñaptayā°</rdg>
+                  </app>
+                   <app loc="2v6">
+                      <lem>uddiśyedam</lem>
+                      <rdg source="bib:Jain+al2005_01">uddiṣyedam</rdg>
+                  </app>
+                   <app loc="2v6">
+                      <lem>abh<choice><sic>ī</sic><corr>i</corr></choice>dh<choice><sic>i</sic><corr>ī</corr></choice>yate</lem>
+                      <rdg source="bib:Jain+al2005_01">abhidhiyate</rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">mahī</rdg>
+                  </app>
+                   <app loc="3r1">
+                      <lem>lakṣm<choice><sic>i</sic><corr>ī</corr></choice>m</lem>
+                      <rdg source="bib:Jain+al2005_01">kṣmīm</rdg>
+                  </app>
+                   <app loc="3r3">
+                      <lem>°<choice><orig>b</orig><reg>v</reg></choice>yāsag<choice><sic>i</sic><corr>ī</corr></choice>tā<supplied reason="omitted">ṁ</supplied>ś</lem>
+                      <rdg source="bib:Jain+al2005_01">°byāsagītāś</rdg>
+                  </app>
+                   <app loc="3r4">
+                      <lem><choice><orig>bv</orig><reg>vv</reg></choice>aiṣṇav<choice><sic>i</sic><corr>ī</corr></choice></lem>
+                      <rdg source="bib:Jain+al2005_01">bvaiṣṇavī</rdg>
+                  </app>
+                   <app loc="3r5">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice>ñ</lem>
+                      <rdg source="bib:Jain+al2005_01">mahīñ</rdg>
+                  </app>
+                   <app loc="3r7">
+                      <lem>bh<choice><sic>u</sic><corr>ū</corr></choice>mi<pb n="3v" break="no"/><lb n="3v1" break="no"/>s</lem>
+                      <rdg source="bib:Jain+al2005_01">bhūmi<pb n="3v" break="no"/><lb n="3v1" break="no"/>s</rdg>
+                  </app>
+                   <app loc="3v4">
+                      <lem>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇa<supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">Utkīrṇṇa</rdg>
+                  </app>
+                   <app loc="3v4">
+                      <lem>°<g type="dandaPlain"/></lem>
+                      <rdg source="bib:Jain+al2005_01">°<g type="ddandaPlain"/></rdg>
                   </app>
                   </div></div>
          <div type="translation" resp="part:nabo">

@@ -150,9 +150,8 @@
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
-                      <lem>°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
-                      <rdg source="bib:Mirashi+Pandeya1963-1964_01">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</rdg>
-                      <rdg source="bib:Shastri1995_02">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice>śa°</rdg>
+                      <lem>°°</lem>
+                      <rdg source="bib:Jain+al2005_01"></rdg>
                   </app>
                   </div></div>
          <div type="translation" resp="part:nabo">
