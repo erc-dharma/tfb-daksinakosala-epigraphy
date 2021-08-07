@@ -126,6 +126,10 @@
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
+                      <lem>°kṣit<choice><sic>i</sic><corr>ī</corr></choice>śa°</lem>
+                      <rdg source="bib:Jain+al2005_01">°kṣit<choice><sic>i</sic><corr>ī</corr></choice>ṣa°</rdg>
+                  </app>
+                   <app loc="1v1">
                       <lem>°mahanīya°</lem>
                       <rdg source="bib:Jain+al2005_01">°mahan<choice><sic>i</sic><corr>ī</corr></choice>ya°</rdg>
                   </app>
