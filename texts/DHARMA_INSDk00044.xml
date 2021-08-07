@@ -131,11 +131,6 @@
                                         <l n="b">bhūr vvaiṣṇav<choice><sic>i</sic><corr>ī</corr></choice> sūryya<choice><orig>ś</orig><reg>s</reg></choice>utāś ca gāvaḥ</l>
                                         <l n="c">datt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">s</supplied> traya<lb n="3r5" break="no"/>s tena bhavanti lokā</l>
                                         <l n="d">yaḥ kāñcanaṁ gāñ ca mah<choice><sic>i</sic><corr>ī</corr></choice>ñ ca dadyā<supplied reason="omitted">T</supplied></l></lg>
-                 
-                 
-                 
-                 
-                 
                                     <lg n="4" met="anuṣṭubh">
                                         <l n="ab"><choice><orig>ś</orig><reg>ṣ</reg></choice>aṣṭivarṣasa<lb n="3r6" break="no"/>ha<choice><orig>ś</orig><reg>s</reg></choice>rāṇi svargge modati bh<choice><sic>u</sic><corr>ū</corr></choice>mida<supplied reason="omitted">ḥ</supplied></l>
                                         <l n="cd"><choice><sic>A</sic><corr>Ā</corr></choice>cchet<supplied reason="omitted">t</supplied>ā <supplied reason="omitted">cā</supplied>numantā ca tāny eva narak<choice><sic>a</sic><corr>e</corr></choice> va<choice><orig>T<g type="dandaPlain"/></orig><reg>se</reg></choice>><lb n="3r7" break="no"/><choice><orig>se</orig><reg>T<g type="dandaPlain"/></reg></choice></l></lg>
@@ -150,8 +145,120 @@
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
-                      <lem>°°</lem>
-                      <rdg source="bib:Jain+al2005_01"></rdg>
+                      <lem>°āsādita°</lem>
+                      <rdg source="bib:Jain+al2005_01">°āsād<choice><sic>a</sic><corr>i</corr></choice>ta°</rdg>
+                  </app>
+                   <app loc="1v2">
+                      <lem>°sa<surplus>ṁ</surplus>mpat°</lem>
+                      <rdg source="bib:Jain+al2005_01">°sampat°</rdg>
+                  </app>
+                   <app loc="1v2">
+                      <lem>°vijig<choice><sic>i</sic><corr>ī</corr></choice>ṣu°</lem>
+                      <rdg source="bib:Jain+al2005_01">°vijigīṣu°</rdg>
+                  </app>
+                   <app loc="1v2">
+                      <lem>guṇa<supplied reason="omitted">va</supplied><surplus>T<g type="dandaPlain"/></surplus>t°</lem>
+                      <rdg source="bib:Jain+al2005_01">guṇa<choice><orig><g type="ddandaPlain"/></orig><reg>va</reg></choice>t°</rdg>
+                  </app>
+                   <app loc="1v4">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="1v5">
+                      <lem>°pi<choice><orig>rti</orig><reg>tṛ</reg></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°pitri°</rdg>
+                  </app>
+                   <app loc="1v5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="1v6">
+                      <lem>°mārgg<choice><sic>i</sic><corr>ī</corr></choice>ya°</lem>
+                      <rdg source="bib:Jain+al2005_01">°mārggīya°</rdg>
+                  </app>
+                   <app loc="2r1">
+                      <lem>°opaj<choice><sic>i</sic><corr>ī</corr></choice>vina<supplied reason="omitted">ḥ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">°opajīvina</rdg>
+                  </app>
+                   <app loc="2r3">
+                      <lem>°p<choice><sic>i</sic><corr>ī</corr></choice>ḍā°</lem>
+                      <rdg source="bib:Jain+al2005_01">°pīḍā°</rdg>
+                  </app>
+                   <app loc="2r4">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>°śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">°śrī°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>°sam<choice><sic>i</sic><corr>ī</corr></choice>pasth<choice><sic>a</sic><corr>ā</corr></choice>ya°</lem>
+                      <rdg source="bib:Jain+al2005_01">°samīpasthaya°</rdg>
+                  </app>
+                   <app loc="2r5">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrī°</rdg>
+                  </app>
+                   <app loc="2r6">
+                      <lem>°bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakāya</lem>
+                      <rdg source="bib:Jain+al2005_01">°bhaṭṭārakāya</rdg>
+                  </app>
+                   <app loc="2r7">
+                      <lem>Eva<supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">Evaṁ</rdg>
+                  </app>
+                   <app loc="2r7">
+                      <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>mad°</lem>
+                      <rdg source="bib:Jain+al2005_01">śrīmad°</rdg>
+                  </app>
+                   <app loc="2v2">
+                      <lem>ārthañ ca</lem>
+                      <rdg source="bib:Jain+al2005_01">ārthan ca</rdg>
+                  </app>
+                   <app loc="2v3">
+                      <lem>°opabhogārtham</lem>
+                      <rdg source="bib:Jain+al2005_01">°opabhorgārtham</rdg>
+                  </app>
+                   <app loc="2v5">
+                      <lem>°bhāgādikam</lem>
+                      <rdg source="bib:Jain+al2005_01">°bhogādikam</rdg>
+                  </app>
+                   <app loc="2v6">
+                      <lem>ud<supplied reason="omitted">d</supplied>iśyedam</lem>
+                      <rdg source="bib:Jain+al2005_01">udiṣyedam</rdg>
+                  </app>
+                   <app loc="2v7">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">mahī</rdg>
+                  </app>
+                   <app loc="3r1">
+                      <lem>lakṣm<choice><sic>i</sic><corr>ī</corr></choice>m</lem>
+                      <rdg source="bib:Jain+al2005_01">lakṣmī</rdg>
+                  </app>
+                   <app loc="3r3">
+                      <lem>°g<choice><sic>i</sic><corr>ī</corr></choice>tā<supplied reason="omitted">ṁ</supplied>ś</lem>
+                      <rdg source="bib:Jain+al2005_01">°gītāś</rdg>
+                  </app>
+                   <app loc="3r4">
+                      <lem>vvaiṣṇav<choice><sic>i</sic><corr>ī</corr></choice></lem>
+                      <rdg source="bib:Jain+al2005_01">vaiṣṇavī</rdg>
+                  </app>
+                   <app loc="3r4">
+                      <lem>°<choice><orig>ś</orig><reg>s</reg></choice>utāś</lem>
+                      <rdg source="bib:Jain+al2005_01">°sutāś</rdg>
+                  </app>
+                   <app loc="3r5">
+                      <lem>mah<choice><sic>i</sic><corr>ī</corr></choice>ñ</lem>
+                      <rdg source="bib:Jain+al2005_01">mahīñ</rdg>
+                  </app>
+                   <app loc="3r5">
+                      <lem><choice><orig>ś</orig><reg>ṣ</reg></choice>aṣṭivarṣasa<lb n="3r6" break="no"/>ha<choice><orig>ś</orig><reg>s</reg></choice>rāṇi svargge</lem>
+                      <rdg source="bib:Jain+al2005_01">ṣaṣṭhivarṣasa<lb n="3r6" break="no"/>hastrāṇi svarge</rdg>
+                  </app>
+                   <app loc="3v1">
+                      <lem>ma<lb n="3v2" break="no"/>h<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied></lem>
+                      <rdg source="bib:Jain+al2005_01">ma<lb n="3v2" break="no"/>hī mahīmatā</rdg>
                   </app>
                   </div></div>
          <div type="translation" resp="part:nabo">
