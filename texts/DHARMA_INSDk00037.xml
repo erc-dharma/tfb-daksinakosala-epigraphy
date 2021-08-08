@@ -114,7 +114,7 @@
                            n="2v2" break="no"/>tivastavyam iti<g type="ddandaHooked"/> bhāvinaś ca bhūmipālān ud<supplied reason="omitted">d</supplied>iśyedam abhidh<choice><sic>i</sic><corr>ī</corr></choice>yate</p>
                                     <lg n="1" met="vasantatilakā">
                                         <l n="a">bhūmi<lb n="2v3" break="no"/>pradā divi lala<surplus>ṁ</surplus>nti patanti hanta</l>
-                                        <l n="b">hṛtvā mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> nṛpatayo narake nṛśa<lb n="2v4" break="no"/><choice><orig>ṅsāT</orig><reg>ṁsāḥ</reg></choice><g type="ddandaHooked"/></l>
+                                        <l n="b">hṛtvā mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> nṛpatayo narake nṛśa<lb n="2v4" break="no"/><choice><orig>ṅ</orig><reg>ṁ</reg></choice>sāT<g type="ddandaHooked"/></l>
                                         <l n="c">Eta<space type="binding-hole"/>d <supplied reason="omitted">d</supplied>vayaṁ parikal<choice><sic>ai</sic><corr>a</corr></choice>yya calāñ ca lakṣmīm</l>
                                         <l n="d">āyus tathā kuruta <lb n="2v5"/>yad bhavatām abh<choice><sic>i</sic><corr>ī</corr></choice>ṣṭaṁ</l></lg>
                             <ab><choice><sic>Ā</sic><corr>A</corr></choice>pi ca</ab> 
@@ -139,7 +139,7 @@
                                         <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied> śreṣṭha<surplus>ḥ</surplus> dānā<supplied reason="omitted">t</supplied> śreyo 'nupālana<lb n="3r6" break="no"/><choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="ddandaHooked"/></ab>
                            <p>pravarddhamānavijayarājye samvatsare saptatri<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śe vaiśā<lb
-                           n="3r7" break="no"/>khaprathamapañcamy<choice><orig>ā</orig><reg>āṁ A</reg></choice>ṅkenāpi samva<supplied reason="omitted">t</supplied> <num value="37"><g type="numeral">30</g> 7</num> rla gra vaiśākha dina <num value="5">5</num></p></div></div>
+                           n="3r7" break="no"/>khaprathamapañcamy<choice><orig>ā</orig><reg>āṁ A</reg></choice>ṅkenāpi samvaT <num value="30">rla</num> <num value="7">gra</num> vaiśākha dina <num value="5">5</num></p></div></div>
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
@@ -206,6 +206,10 @@
                    <app loc="3r2">
                       <lem>cānuma<surplus>ṁ</surplus>ntā</lem>
                       <rdg source="bib:Jain+al2005_01">cānumantā</rdg>
+                  </app>
+                   <app loc="3r7">
+                      <lem>samvaT <num value="30">rla</num> <num value="7">gra</num></lem>
+                      <rdg source="bib:Jain+al2005_01">samva <num value="37"><g type="numeral">30</g> 7</num> rla gra</rdg>
                   </app>
                   </div></div>
          <div type="translation" resp="part:nabo">
