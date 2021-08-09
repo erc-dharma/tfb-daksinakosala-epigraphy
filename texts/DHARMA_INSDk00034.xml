@@ -102,10 +102,10 @@
                            n="1v4" break="no"/>va kṛttivā<space type="binding-hole"/>saso rājña<supplied reason="omitted">ḥ</supplied> śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya sūnuḥ somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasa<lb
                            n="1v5" break="no"/>mbhavaḥ paramamāheśvaro mātāpitṛpādānudhyātaḥ śr<choice><sic>i</sic><corr>ī</corr></choice>mahāśivagu<lb
                            n="1v6" break="no"/>ptarājaḥ kuśalī<g type="ddandaHooked"/> svalpaśarkarāmārgīy<choice><orig>a-A</orig><reg>ā</reg></choice>ḍakerake brāhmaṇān saṁpū<lb
-                           n="1v7" break="no"/>jya yathākālādhyāsibya<supplied reason="omitted">ḥ</supplied> vahāriṇaḥ sakaraṇān anonapi samāha<pb n="2r" break="no"/><lb
-                           n="2r1" break="no"/>rtṛsannidhātṛprabhṛtiḥ<g type="dandaPlain"/> sarvvarājapuruṣā<supplied reason="omitted">n</supplied> prativāsinaś ca sa<supplied reason="omitted">ṁ</supplied>ni<lb
+                           n="1v7" break="no"/>jya yathākālādhyāsi<supplied reason="omitted">nas</supplied> <choice><orig>b</orig><reg>v</reg></choice>yavahāriṇaḥ sakaraṇān an<choice><orig>o</orig><reg>yā</reg></choice>n api samāha<pb n="2r" break="no"/><lb
+                           n="2r1" break="no"/>rtṛsannidhātṛprabhṛt<choice><orig>iḥ</orig><reg>īn</reg></choice><g type="dandaPlain"/> sarvvarājapuruṣā<supplied reason="omitted">n</supplied> prativāsinaś ca sa<supplied reason="omitted">ṁ</supplied>ni<lb
                            n="2r2" break="no"/>diś<choice><sic>ā</sic><corr>a</corr></choice>ti</p> <p>viditam astu bhavatāṁ yathāsmābhir aya<supplied reason="omitted">ṁ</supplied> grāmaḥ sanidhiḥ sopa<lb
-                           n="2r3" break="no"/>nikadhar acāṭabhaṭapraveśaḥ sarvvakarādānasahitaḥ sadaśāparādhaḥ<lb
+                           n="2r3" break="no"/>nidhir acāṭabhaṭapraveśaḥ sarvvakarādānasahitaḥ sadaśāparādhaḥ<lb
                            n="2r4"/>sadvopa<space type="binding-hole"/>dravavivarjjitaḥ mātāpittror ātmanaś ca puṇyābhivṛddha<lb
                            n="2r5" break="no"/>ye kāmakāyanasagotrāya <choice><orig>v</orig><reg>b</reg></choice>ahv<choice><sic>a</sic><corr>ṛ</corr></choice>cabhaṭṭanandikumārāya Udaka<lb
                            n="2r6" break="no"/>pūrvvakam ācandrārkasamakālopabhogārtha<supplied reason="omitted">ṁ</supplied> tām<surplus>v</surplus>raśāsanena pratipādi<lb
@@ -172,28 +172,20 @@
                       <rdg source="bib:Singh2009_01">°kāla°</rdg>
                   </app>
                    <app loc="1v7">
-                      <lem>yathākālādhyāsibya<supplied reason="omitted">ḥ</supplied> vahāriṇaḥ</lem>
-                      <note>The intended reading may be <foreign>yathākālādhyāsinaḥ</foreign> and <foreign>adhikāriṇaḥ</foreign>, which are phrases used in the address of other copperplate charters issued by the same king.</note>
-                  </app>
-                  <app loc="1v7">
-                      <lem>anonapi</lem>
-                      <note>The intended reading may be <foreign>anyāṁś ca</foreign>, which is a phrase used in the address of other copperplate charters issued by the same king.</note>
+                      <lem>yathākālādhyāsi<supplied reason="omitted">nas</supplied> <choice><orig>b</orig><reg>v</reg></choice>yavahāriṇaḥ</lem>
+                      <note>The intended reading may also be <foreign>yathākālādhyāsinaḥ</foreign> and <foreign>adhikāriṇaḥ</foreign>, which are phrases used in the address of other copperplate charters issued by the same king.</note>
                   </app>
                   <app loc="1v7">
                       <lem>samāha<pb n="2r" break="no"/><lb n="2r1" break="no"/>rtṛ°</lem>
                       <rdg source="bib:Singh2009_01">samāha<pb n="2r" break="no"/><lb n="2r1" break="no"/>tṛ°</rdg>
                   </app>
-                  <app loc="2r2">
-                      <lem>sanidh<choice><sic>ī</sic><corr>i</corr></choice>ḥ</lem>
-                      <rdg source="bib:Singh2009_01"></rdg>
-                  </app>
-                  <app loc="2r2">
-                      <lem>sopa<lb n="2r3" break="no"/>nikadhar</lem>
-                      <note>The intended reading is probably <foreign>sopanidhir</foreign>, which follows <foreign>sanidhiḥ</foreign> in other copperplate charters issued by the same king.</note>
+                   <app loc="2r2">
+                      <lem>sanidh<choice><sic>ī</sic><corr>i</corr></choice>ḥ sopa<lb n="2r3" break="no"/>nikadhar</lem>
+                      <rdg source="bib:Singh2009_01">sanidhiḥ sopa<lb n="2r3" break="no"/>nidhir</rdg>
                   </app>
                   <app loc="2r4">
                       <lem>sadvopa<space type="binding-hole"/>dravavivarjjitaḥ</lem>
-                      <note>The intended reading may be <foreign>sarvvapīḍāvarjjitaḥ</foreign>, which is mentioned among the exemptions of the grant in other copperplate charters issued by the same king.</note>
+                      <note>The intended reading is probably <foreign>sarvvapīḍāvarjjitaḥ</foreign>, which is mentioned among the exemptions of the grant in other copperplate charters issued by the same king.</note>
                   </app>
                   <app loc="2r4">
                       <lem>°pittror</lem>
