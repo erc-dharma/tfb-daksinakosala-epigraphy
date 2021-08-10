@@ -190,6 +190,10 @@
                       <lem><choice><orig>b</orig><reg>v</reg></choice>yākhyā°</lem>
                       <rdg source="bib:Jain+al2005_01">vyākhyā°</rdg>
                   </app>
+                   <app loc="2v2">
+                      <lem>a<choice><orig>bv</orig><reg>bb</reg></choice>ani<choice><orig>bv</orig><reg>bb</reg></choice>aḍi°</lem>
+                      <note>An emendation to <foreign>bhaṭṭinī°</foreign> seems to be the best possibility here.</note>
+                  </app>
                    <app loc="2v6">
                       <lem>bh<choice><sic>u</sic><corr>ū</corr></choice>mi°</lem>
                       <rdg source="bib:Jain+al2005_01">bhūmi°</rdg>
