@@ -138,7 +138,9 @@
                                         <l n="cd">mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied> śreṣṭha<surplus>ḥ</surplus> dānā<supplied reason="omitted">t</supplied> śreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                     <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="ddandaHooked"/></ab></div></div>
          <div type="apparatus">
-               <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+               <div type="textpart" n="A">
+                   <head xml:lang="eng">Seal</head>
+               </div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v1">
                       <lem>°kṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
@@ -196,7 +198,8 @@
                       <lem>svadat<supplied reason="omitted">t</supplied>āṁ</lem>
                       <rdg source="bib:Jain+al2005_01">svadat<supplied reason="omitted">t</supplied>ā</rdg>
                   </app>
-         </div></div>
+         </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>
