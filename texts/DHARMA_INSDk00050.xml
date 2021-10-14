@@ -139,35 +139,37 @@
                                         <l n="cd">mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied> śreṣṭha <lb n="3r7"/>dānā<supplied reason="omitted">t</supplied> śreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                     <ab><choice><orig>i</orig><reg>I</reg></choice>ti<g type="ddandaHooked"/></ab></div></div>
          <div type="apparatus">
-               <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+               <div type="textpart" n="A">
+                   <head xml:lang="eng">Seal</head>
+               </div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                   <app loc="1v5">
                       <lem>mātā°</lem>
-                      <rdg source="Shastri1995_02">mātṛ°</rdg>
+                      <rdg source="bib:Shastri1995_02">mātṛ°</rdg>
                   </app>
                    <app loc="1v7">
                       <lem>sapradhānā<choice><orig>t</orig><reg>n</reg></choice></lem>
-                      <rdg source="Shastri1995_02">sapradhānān</rdg>
+                      <rdg source="bib:Shastri1995_02">sapradhānān</rdg>
                   </app>
                    <app loc="1v7">
                       <lem>°prabh<choice><orig>ri</orig><reg>ṛ</reg></choice>t<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">n</supplied></lem>
-                      <rdg source="Shastri1995_02">°prabh<choice><sic>i</sic><corr>ṛ</corr></choice>ti</rdg>
+                      <rdg source="bib:Shastri1995_02">°prabh<choice><sic>i</sic><corr>ṛ</corr></choice>ti</rdg>
                   </app>
                    <app loc="2r1">
                       <lem>sarvva°</lem>
-                      <rdg source="Shastri1995_02">sarva°</rdg>
+                      <rdg source="bib:Shastri1995_02">sarva°</rdg>
                   </app>
                    <app loc="2r3">
                       <lem>sarvvap<choice><sic>i</sic><corr>ī</corr></choice>ḍā<supplied reason="omitted">vi</supplied>varjjita<supplied reason="omitted">ḥ</supplied></lem>
-                      <rdg source="Shastri1995_02">sarvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjjitaḥ</rdg>
+                      <rdg source="bib:Shastri1995_02">sarvap<choice><sic>i</sic><corr>ī</corr></choice>ḍāvarjjitaḥ</rdg>
                   </app>
                    <app loc="3r2">
                       <lem>t<surplus>t</surplus>rayas</lem>
-                      <rdg source="Shastri1995_02">trayas</rdg>
+                      <rdg source="bib:Shastri1995_02">trayas</rdg>
                   </app>
                    <app loc="3r6">
                       <lem>paradat<supplied reason="omitted">t</supplied>ām</lem>
-                      <rdg source="Shastri1995_02">paradattām</rdg>
+                      <rdg source="bib:Shastri1995_02">paradattām</rdg>
                   </app>
          </div></div>
          <div type="translation" resp="part:nabo">
