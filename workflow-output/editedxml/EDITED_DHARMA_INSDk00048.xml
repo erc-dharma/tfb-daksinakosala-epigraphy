@@ -82,21 +82,42 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:nabo" when="2020-10-12" status="draft">Adding text and translation</change>
          <change who="part:nabo" when="2020-07-13" status="draft">Initial encoding of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">  
-                	<p part="F"><pb n="3r" break="no"/><lb n="3r1" break="no"/></p></div>    
-         <div type="apparatus">
+         <div type="edition" xml:lang="san-Latn" source="bib:Shastri1995_02">  
+                	<ab part="F"><pb n="3r"/><lb n="3r1"/>vaseT<g type="dandaPlain"/></ab>
+                         <lg n="1" met="anuṣṭubh">
+                              <l n="ab">bahubhir <choice><orig>bb</orig><reg>vv</reg></choice>asudhā dattā rājabhiḥ sagarādibhiḥ</l>
+                              <l n="cd">yasya yasya yadā <lb n="3r2"/>bhūmis tasya tasya tadā phalaṁ<g type="dandaPlain"/></l></lg>
+                         <lg n="2" met="anuṣṭubh"> 
+                              <l n="ab">svadattāṁ paradattām <choice><orig>b</orig><reg>v</reg></choice>ā yatnād rakṣa yudhiṣṭhira<g type="dandaPlain"/></l>
+                              <l n="cd"><lb n="3r3"/>mahīṁ mahībhṛtāṁ śreṣṭha dānāt śreyo ’nupālanaṁ<g type="ddandaPlain"/></l></lg>
+                         <lg n="3" met="indravajrā"> 
+                              <l n="ab">mā bhū<supplied reason="omitted">va</supplied>d aphalaśa<lb n="3r4" break="no"/>ṅkā vaḥ paradat<choice><orig>v</orig><reg>t</reg></choice>eti pārthivāḥ</l>
+                              <l n="cd">svadānāt phalam ānantyaṁ par<subst><del>ā</del><add place="overstrike">a</add></subst>d<choice><sic>ā</sic><corr>a</corr></choice>ttānu<lb n="3r5" break="no"/>pālane<g type="ddandaPlain"/></l></lg>
+                         <lg n="4" met="puṣpitāgrā"> 
+                              <l n="a">Iti kamaladalāmbubindulolāṁ</l>
+                              <l n="b">śriyam anuci<supplied reason="omitted">n</supplied>tya manu<lb n="3r6" break="no"/>ṣyajīvitaṁ ca<g type="dandaPlain"/></l>
+                              <l n="c">sakalam idam udāhṛtaṁ ca bu<supplied reason="omitted">d</supplied>dhvā</l>
+                              <l n="d">na hi puruṣaiḥ parakīrtayo vilo<lb n="3r7" break="no"/>pyāḥ<g type="ddandaPlain"/></l></lg>
+                              <p>pravarddhamānavijayarājyasam<choice><orig>b</orig><reg>v</reg></choice>atsare saptapañcāśe ’ṅkenāpi <choice><orig>saṁ0</orig><reg>samvat</reg></choice> <num value="57"><g type="numeral">50</g> 7</num> mā<lb n="3r8"/>gha dina <num value="30">30</num> utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇaṁ tām<surplus>b</surplus>rapaṭ<choice><orig>ṭh</orig><reg>ṭ</reg></choice>ikagolāyyas<choice><sic>u</sic><corr>ū</corr></choice>nunā nāgadeveneti<g type="ddandaPlain"/></p></div>
+          <div type="apparatus">
                    </div>
          <div type="translation" resp="part:nabo">
-                    <p n="2r1-2r5"><supplied reason="undefined" evidence="parallel"/></p></div>
-         <div type="commentary">
-             </div>
+                    <p n="3r1"><supplied reason="undefined" evidence="parallel">A giver of land rejoices in heaven for sixty thousand years; he who confiscates it or allows another to confiscate it</supplied>will dwell<supplied reason="undefined" evidence="parallel">for the same period in hell!</supplied></p>
+                    <p n="3r1-3r2" rend="stanza">The earth has been granted by many kings, beginning with Sagara; whoever possesses the land at any time, to him belong the fruits at that time!</p>
+                    <p n="3r2-3r3" rend="stanza">O Yudhiṣṭhira, zealously protect the land which was given by yourself or by others! O best of kings, protection is superior to giving!</p>
+                    <p n="3r3-3r5" rend="stanza">Oh kings, do not fear that land given by others will be unfruitful for you! The fruit of one’s own giving is endless in <supplied reason="subaudible">combination with</supplied> upholding that which was given by others!</p>
+                    <p n="3r5-3r7" rend="stanza">After thus considering that wealth and human life are unstable as a drop of water on a lotus petal and <supplied reason="subaudible">also</supplied> knowing all that is said, the glories of others should not be violated by human beings.</p>
+                    <p n="3r7-3r8">In the fifty-seventh year of the increasingly victorious reign <supplied reason="subaudible">of Śivagupta</supplied>, in numbers: Year 57, <supplied reason="subaudible">Month</supplied> Māgha, Day 30, <supplied reason="subaudible">the copperplate charter</supplied> has been engraved by Nāgadeva, son of the goldsmith Golāyya.</p></div>
+        <div type="commentary">
+             <p>This is the third copperplate of a charter and therefore it does not contain any information about the grant or the issuing king. However, the engraver of the plate named Nāgadeva is known from one of Śivagupta’s Sirpur Plates (<ref target="DHARMA_INSDk00042.xml">Dk00042</ref>). Also Śivagupta is the only king of the region known to have ruled as long as fifty-seven years. Therefore the copperplate can be ascribed to king Śivagupta.</p></div>
         <div type="bibliography">
-        	    <p>First edited by by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>162-164</citedRange></bibl>; re-edited here by Natasja Bosma based on the published photographs.</p>	   
+        	    <p>Edited by Shastri <bibl rend="omitname"><ptr target="bib:Shastri1995_02"/><citedRange>162-164</citedRange></bibl>; encoded here by Natasja Bosma based on this edition.</p>	   
             <listBibl type="primary">
               <bibl n="AMS">
                   <ptr target="bib:Shastri1995_02"/>
