@@ -138,7 +138,7 @@
                                         <l n="cd">mahīṁ mahīmatāṁ śreṣṭha dānā<supplied reason="omitted">t</supplied> śreyo 'nupā<lb n="3r4" break="no"/>lana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice><space type="binding-hole"/>ti<g type="ddandaHooked"/></ab>
                             <p>pravarddhamānavijayarājye sam<choice><orig>b</orig><reg>v</reg></choice>atsare ṣa<lb
-                            n="3r5" break="no"/>ṣṭhe <num value="6">6</num><g type="dandaPlain"/> Āṣāḍhadivasu <num value="15"><g type="numeral">10</g> 5</num><g type="dandaPlain"/> Āviḥ prakurvvatā śilpaṁ puṇyaṁ<lb
+                            n="3r5" break="no"/>ṣṭhe <num value="6">6</num><g type="dandaPlain"/> Āṣāḍhadivasu <num value="15">10 5</num><g type="dandaPlain"/> Āviḥ prakurvvatā śilpaṁ puṇyaṁ<lb
                             n="3r6"/>cākṣayam itsatā stambhāyyasūnunotkīrṅa<supplied reason="omitted">ṁ</supplied> kṛṣṇāyyanaiva śāsanaṁ<g type="ddandaHooked"/></p></div></div>    
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
@@ -164,8 +164,8 @@
                       <rdg source="bib:Singh2009_01">nṛśa<choice><orig>ṅT</orig><reg>ṁsāḥ</reg></choice></rdg>
                   </app>
                   <app loc="3r5">
-                      <lem><num value="15"><g type="numeral">10</g> 5</num><g type="dandaPlain"/></lem>
-                      <rdg source="bib:Singh2009_01"><num value="16"><g type="numeral">10</g> 4 2</num></rdg>
+                      <lem><num value="15">10 5</num><g type="dandaPlain"/></lem>
+                      <rdg source="bib:Singh2009_01"><num value="16">10 4 2</num></rdg>
                   </app>
                   <app loc="3r5">
                       <lem>°śilpaṁ</lem>
