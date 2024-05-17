@@ -125,12 +125,13 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>
                   <app loc="1v2">
                       <lem>°dhauta°</lem>
-                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                      <rdg source="bib:Pandeya1934_01">°dhauta°</rdg>
                      <rdg source="bib:Katare1955-1956_01">°dhota°</rdg>
                      <rdg source="bib:Shastri1995_02">°dhauta°</rdg>
+                      <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                   </app>
                   <app loc="1v4">
                       <lem>cu°</lem>
@@ -156,7 +157,9 @@
                      <rdg source="bib:Katare1955-1956_01">droṇasiṅghe<choice><orig>ṇ</orig><reg>n</reg></choice>a</rdg>
                      <rdg source="bib:Shastri1995_02">droṇasiṅghena</rdg>
                   </app>
-         </div></div>
+              </listApp>        
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The enemy-chastising charter belongs to the illustrious Jayarāja, who was the son of Prasanna and whose enemies were overcome by his valour.</p></div>

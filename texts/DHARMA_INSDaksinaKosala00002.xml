@@ -113,6 +113,7 @@
          <div type="apparatus">
             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
             <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+            <listApp>
                    <app loc="1v3">
                       <lem>°s<choice><sic>ima</sic><corr>īmā</corr></choice>°</lem>
                      <rdg source="bib:Dikshit1955-1956_01">°sīma°</rdg>
@@ -131,7 +132,9 @@
                      <rdg source="bib:Shastri1995_02">phala<supplied reason="omitted">m</supplied></rdg>
                      <rdg source="bib:Jain+al2005_01">phala<supplied reason="omitted">m</supplied></rdg>
                   </app>
-         </div></div>
+            </listApp>   
+            </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter belongs to the illustrious king Narendra who chastised his enemies, who was the son of Śarabha who conquered the earth with the blade of his sword.</p></div>

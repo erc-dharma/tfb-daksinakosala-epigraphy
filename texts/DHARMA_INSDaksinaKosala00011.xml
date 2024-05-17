@@ -125,7 +125,8 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                  <app loc="1v2">
+              <listApp>    
+                 <app loc="1v2">
                       <lem>°dhauta°</lem>
                      <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                   </app>
@@ -156,7 +157,9 @@
                      <rdg source="bib:Pandeya1935-1936_01"><num value="8">8</num></rdg>
                      <rdg source="bib:Shastri1995_02"><num value="7">7</num></rdg>
                   </app>
-         </div></div>
+              </listApp>   
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The permanent charter belongs to the illustrious Sudevarāja, who was born from the moon that was Mānamātra, who was born from the sea that was Prasanna.</p></div>
