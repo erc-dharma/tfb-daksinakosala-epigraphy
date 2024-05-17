@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣitīśavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinaya<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣitīśavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinaya<lb
                            n="1v2" break="no"/>sampatsampāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsamāśraya<supplied reason="omitted">ḥ</supplied> prakṛ<lb
                            n="1v3" break="no"/>ṣṭataraśauryyaprajñāprabhāvasambhāvitamahābhyudaya<supplied reason="omitted">ḥ</supplied> kārtt<choice><sic>e</sic><corr>i</corr></choice>keya I<lb
                            n="1v4" break="no"/>va kṛttivā<space type="binding-hole"/>saso rājña<supplied reason="omitted">ḥ</supplied> śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya sūnuḥ somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasa<lb
@@ -144,6 +144,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp> 
                   <app loc="1v3">
                       <lem>°sambhāvita°</lem>
                       <rdg source="bib:Singh2009_01">°savambhāvita°</rdg>
@@ -236,7 +237,9 @@
                       <lem>Ak<choice><orig>ā</orig><reg>ṣa</reg></choice>śālika°</lem>
                       <rdg source="bib:Singh2009_01">Āk<choice><orig>ā</orig><reg>ṣa</reg></choice>śālika°</rdg>
                   </app>
-               </div></div>
+               </listApp> 
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

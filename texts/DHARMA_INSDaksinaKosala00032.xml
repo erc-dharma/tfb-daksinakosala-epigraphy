@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice>śavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinayasa<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice>śavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinayasa<lb
                             n="1v2" break="no"/>mpatsa<supplied reason="omitted">ṁ</supplied>pāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsam<subst><del>o</del><add place="overstrike">ā</add></subst>śraya<supplied reason="omitted">ḥ</supplied> prakṛṣṭataraśau<lb
                             n="1v3" break="no"/>ryyaprajñāprabhāvasa<supplied reason="omitted">ṁ</supplied>bhāvitamahābhyudaya<supplied reason="omitted">ḥ</supplied> kārt<supplied reason="omitted">t</supplied>ikeya Iva kṛt<supplied reason="omitted">t</supplied>ivāsaso<lb
                             n="1v4" break="no"/>rājña<supplied reason="omitted">ḥ</supplied> śr<choice><sic>i</sic><corr>ī</corr></choice><space type="binding-hole"/>harṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice>nu<supplied reason="omitted">ḥ</supplied> somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasaṁbhavaḥ paramamāhe<lb
@@ -143,6 +143,7 @@
         <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>    
                   <app loc="1v2">
                       <lem>°śau<lb n="1v3" break="no"/>ryya°</lem>
                       <rdg source="bib:Mirashi+Pandeya1935-1936_01">°śau<lb n="1v3" break="no"/>ryya°</rdg>
@@ -172,7 +173,10 @@
                       <lem><choice><orig>s</orig><reg>ś</reg></choice>reyo</lem>
                       <rdg source="bib:Mirashi+Pandeya1935-1936_01"><choice><orig>s</orig><reg>ś</reg></choice>reyo</rdg>
                       <rdg source="bib:Shastri1995_02">śreyo</rdg>
-                  </app></div></div>
+                  </app>
+              </listApp>
+              </div>
+        </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the earth.</p></div>

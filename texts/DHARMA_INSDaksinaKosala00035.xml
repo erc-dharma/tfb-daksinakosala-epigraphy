@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavina<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavina<lb
                            n="1v2" break="no"/>yasa<surplus>ṁ</surplus>mpatsa<supplied reason="omitted">ṁ</supplied>pāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsamāśraya<supplied reason="omitted">ḥ</supplied> prakṛ<lb
                            n="1v3" break="no"/>ṣṭataraśauryyaprajñāprabhāvasambhāvitamahābhyudaya<supplied reason="omitted">ḥ</supplied> kārttikeya<lb
                            n="1v4"/>Iva kṛ<space type="binding-hole"/>t<supplied reason="omitted">t</supplied>ivāsaso rājñaḥ śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice>nu<supplied reason="omitted">ḥ</supplied> somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasa<lb
@@ -144,7 +144,8 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                  <app loc="1v4">
+               <listApp>     
+                   <app loc="1v4">
                       <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
                       <rdg source="bib:Singh2009_01">śrī°</rdg>
                   </app>
@@ -227,7 +228,10 @@
                    <app loc="3r7">
                       <lem>triṅśatime Aṅkenāpi</lem>
                       <rdg source="bib:Singh2009_01">triṅśati Āḍakenāpi</rdg>
-                  </app></div></div>
+                  </app>
+               </listApp>
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

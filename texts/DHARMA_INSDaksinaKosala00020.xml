@@ -93,7 +93,7 @@
                   <ab><unclear>śrīpuruṣaḥ</unclear></ab></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                     <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aparimitaguṇasamudayasya bhagavatas t<choice><sic>ṛ</sic><corr>ri</corr></choice>śūlapāṇer vva<lb 
+                     <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aparimitaguṇasamudayasya bhagavatas t<choice><sic>ṛ</sic><corr>ri</corr></choice>śūlapāṇer vva<lb 
                             n="1v2" break="no"/>ravṛṣa<space type="descender"/>bhavāhanasya sphuradbhujagaparikarasyānaṅgāṅgavidhva<choice><orig>t</orig><reg>ṁ</reg></choice>sinaḥ<lb
                             n="1v3"/>t<choice><sic>ṛ</sic><corr>ri</corr></choice>daśapatinutacaraṇā<surplus>ṁ</surplus>bjayugalasya śrījayeśvarabhaṭṭārakasye<lb
                             n="1v4" break="no"/><choice><orig>v</orig><reg>d</reg></choice>aṁ śāsanaṁ<surplus>ḥ</surplus> likhyate śrī-Udīrṇṇavairānumatyayā<g type="dashConvex"/> tataḥ</p> 
@@ -165,6 +165,7 @@
                            n="3v2" break="no"/>ṣṇapakṣ<choice><sic>e</sic><corr>ai</corr></choice>kādaśyā<supplied reason="omitted">ṁ</supplied> pūrvvaphā<space type="descender"/>lguṇyāṁ budhadineneti likhita<lb 
                            n="3v3" break="no"/>ñ cedaṁ śāsanaṁ śivenotk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇañ ca m<choice><sic>a</sic><corr>i</corr></choice>hirakeneti<space type="descender"/></p></div></div>
         <div type="apparatus">
+            <listApp>
                   <app loc="1v3">
                       <lem>°caraṇā<surplus>ṁ</surplus>bja°</lem>
                       <rdg source="bib:Sitaraman+Sharma1977_01">°caraṇābja°</rdg>
@@ -314,7 +315,9 @@
                       <lem>°otk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇañ</lem>
                       <rdg source="bib:Sitaraman+Sharma1977_01">°otkīrṇṇañ</rdg>
                       <rdg source="bib:Shastri1995_02">°otk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇañ</rdg>
-                  </app></div>
+                  </app>
+            </listApp>     
+         </div>
          <div type="translation" resp="part:nabo">
                     <p n="1v1-1v4">Success! Hail! This charter of the illustrious Jayeśvara-bhaṭṭāraka <supplied reason="explanation">i.e. Śiva</supplied>, the god who is furnished with unlimited qualities; who carries the trident in his hand; who has an excellent bull for his vehicle and quivering snakes for his retinue; who destroyed the body of Kāma; and whose pair of lotus-like feet are praised by the Lord of the gods <supplied reason="explanation">Indra</supplied> is written with the permission of the illustrious Udīrṇavaira <supplied reason="explanation">i.e. Śūrabala</supplied>. Consequently;</p>
                     <p n="1v4-1v8" rend="stanza">There was in the lineage of the Pāṇḍavas, who are of flawless glory and possess great splendour, a king of Mekalā who was an ornament among kings and whose fame was widely known; who was illustrious and a disposer of fortune; who was decorated with a multitude of most excellent qualities; whose appearance was handsome; and who, by his own glorious deeds, was well-known in this world for all times as Jayabala!</p>

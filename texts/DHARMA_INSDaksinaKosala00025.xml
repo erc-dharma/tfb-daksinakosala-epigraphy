@@ -95,7 +95,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <ab><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/></ab> 
+                    <ab><pb n="1v"/><lb n="1v1"/><g type="spiralR"/></ab> 
                         <lg n="1" met="āryā">
                                         <l n="a">jayati jagat<supplied reason="omitted">t</supplied>rayatilakaḥ</l>
                                         <l n="b">kṣitibhṛtkulabhavanamaṅgala<supplied reason="omitted">sta</supplied>mbhaḥ</l>
@@ -163,6 +163,7 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>
                   <app loc="1v5">
                       <lem>°sa<choice><orig>ṭ</orig><reg>d</reg></choice>ā°</lem>
                       <rdg source="bib:Sircar1961-1962_01">°saṭā°</rdg>
@@ -202,7 +203,10 @@
                       <lem><surplus>-Evaṁ t</surplus>trivikramopāddhyāya</lem>
                       <rdg source="bib:Sircar1961-1962_01"><surplus>r</surplus>avantivikramopāddhyāya</rdg>
                       <rdg source="bib:Shastri1995_02">eva<supplied reason="omitted">n</supplied>tripāddhayā vikramopāddhyāya</rdg>
-                  </app></div></div>
+                  </app>
+              </listApp>
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>This charter of the illustrious Tīvaradeva the king of Kosala, which is for the sake of an increase of dharma, endures as long as the moon and stars.</p></div>

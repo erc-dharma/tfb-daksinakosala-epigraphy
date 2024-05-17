@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<unclear>ī</unclear>śavidyābhyāsaviśeṣāsāditamahanī<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<unclear>ī</unclear>śavidyābhyāsaviśeṣāsāditamahanī<lb
                             n="1v2" break="no"/>yavinayasa<supplied reason="omitted">m</supplied>patsa<supplied reason="omitted">ṁ</supplied>pāditasakalavijigīṣuguṇo guṇava<lb
                             n="1v3" break="no"/>tsamāśraya<supplied reason="omitted">ḥ</supplied> prakṛṣṭataraśauryyaprajñāprabhāvasaṁbhāvitamahābhyu<lb
                             n="1v4" break="no"/>daya<supplied reason="omitted">ḥ</supplied> kārtti<space type="binding-hole"/>keya Iva kṛttivāsaso rājña<supplied reason="omitted">ḥ</supplied> śrīharṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice><lb
@@ -143,6 +143,7 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>    
                   <app loc="1v1">
                       <lem>°kṣit<unclear>ī</unclear>śa°</lem>
                       <rdg source="bib:Singh2009_01">°kṣit<choice><orig>i</orig><reg>ī</reg></choice>śa°</rdg>
@@ -174,7 +175,10 @@
                   <app loc="3r5">
                       <lem>Āviḥ prakurvvatā śilpaṁ puṇyaṁ<lb n="3r6"/>cākṣayam itsatā</lem>
                       <note>The meaning of this phrase is not quite clear and it does not appear in any of the other copperplate charters issued by the same king. Perhaps <foreign>itsatā</foreign> should be emended to <foreign>icchatā</foreign>.</note>
-                  </app></div></div>
+                  </app>
+              </listApp>
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the earth.</p></div>
