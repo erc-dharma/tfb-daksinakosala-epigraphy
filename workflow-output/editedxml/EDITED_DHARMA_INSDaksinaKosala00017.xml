@@ -90,7 +90,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-         <p part="M"><pb n="2v" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavṛddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivṛddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūtvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g type="dashDoubledot"/></p>
+         <p part="M"><pb n="2r" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavṛddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivṛddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūtvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g type="dashDoubledot"/></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">d<subst><del>o</del><add place="overstrike">ā</add></subst>nād viśiṣṭam anupāla<lb n="2v2" break="no"/>najaṁ purāṇā</l>
                                         <l n="b">dharmmeṣu niścitadh<choice><sic>ī</sic><corr>i</corr></choice>yaḫ pravadanti dharmmaṁ<g type="dashDouble"/></l>
@@ -103,6 +103,7 @@
                                         <l n="c">dattās trayas tena bhavanti lokā<surplus>ḥ</surplus></l>
                                         <l n="d">yaẖ kāñcanaṁ gāṁ ca mahī<supplied reason="omitted">ṁ</supplied> ca</l></lg></div>    
          <div type="apparatus">
+              <listApp>
                   <app loc="2r1">
                       <lem>avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te</lem>
                       <rdg source="bib:Dikshit1957_01">avatiṣṭhate</rdg>
@@ -207,11 +208,12 @@
                       <rdg source="bib:Dikshit1957_01">vvaiṣṇave</rdg>
                       <rdg source="bib:Shastri1995_02">vvaiṣṇavī</rdg>
                   </app>
-            <app loc="2v6">
+                  <app loc="2v6">
                       <lem>ca</lem>
                       <rdg source="bib:Dikshit1957_01">va</rdg>
                       <rdg source="bib:Shastri1995_02">ca</rdg>
                   </app>
+              </listApp>     
          </div>
          <div type="translation" resp="part:nabo">
                     <p n="2r1-2r5"><supplied reason="undefined" evidence="parallel">Let it be known to you that this village</supplied> has been granted on behalf of Daṇḍacakra and members of his family <supplied reason="subaudible">and</supplied> confirmed by us, for the increase of religious merit of <foreign>dīkṣita</foreign> Anantasvāmin, belonging to the Bhāradvāja <foreign>gotra</foreign> and to the Vājasaneya <supplied reason="subaudible">school</supplied>. <supplied reason="subaudible">The grant of the village</supplied> is to be enjoyed as long as the world will endure, <supplied reason="subaudible">the world</supplied> of which the darkness of the night is removed by the rays of the <supplied reason="undefined" evidence="parallel">sun, moon</supplied> and stars; <supplied reason="subaudible">comes along with the right to</supplied> hidden treasures and deposits; is not to be entered by irregular or regular troops; and is exempt from all taxes.</p> 

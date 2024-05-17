@@ -88,12 +88,12 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">   
+          <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                   <ab>śr<choice><orig>ī-I</orig><reg>ī</reg></choice>ndrarājaḥ</ab></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <ab><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti</ab> 
+                    <ab><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti</ab> 
                         <lg n="1" met="śārdūlavikrīḍita">
                                         <l n="a" enjamb="yes">ās<choice><sic>i</sic><corr>ī</corr></choice>d indrasamaḥ kṣitaukṣit<choice><sic>a</sic><corr>i</corr></choice>pati<supplied reason="omitted">ḥ</supplied> śaktyā k<surplus>t</surplus>riyābhir guṇai</l>
                                         <l n="b">r u<lb n="1v2" break="no"/>tphullāmalacāru<choice><orig>v</orig><reg>b</reg></choice>im<choice><orig>v</orig><reg>b</reg></choice>avadanā ya<supplied reason="omitted">ṁ</supplied> śrī<supplied reason="omitted">ḥ</supplied> sadā sevate<g type="comma"/></l>
@@ -128,6 +128,7 @@
                                         <l n="cd">talasiktasya vṛkṣasya phalaṁ śākhāsu dṛśy<choice><sic>i</sic><corr>a</corr></choice>t<choice><sic>i</sic><corr>e</corr></choice><g type="comma"/></l></lg>
                            <p>likhitañ ca rājapu<choice><orig>ttā</orig><reg>tra</reg></choice>deve<supplied reason="omitted">na</supplied><lb n="3r7"/>Utkīrṇa<supplied reason="omitted">ṁ</supplied> suvarṇak<choice><sic>a</sic><corr>ā</corr></choice>r<choice><orig>a-Is</orig><reg>eś</reg></choice>varaputre<add place="below">ṇa</add> droṇākena samāptañ c<choice><sic>a</sic><corr>e</corr></choice>da<supplied reason="omitted">ṁ</supplied> śāsana<supplied reason="omitted">ṁ</supplied> jy<choice><sic>a</sic><corr>ā</corr></choice>ṣṭapra<add place="below">tha</add><pb n="3v" break="no"/><lb n="3v1" break="no"/>mapakṣa U<surplus>ra</surplus>ttarabhādrapad<choice><sic>a</sic><corr>e</corr></choice><g type="comma"/> Aṅgār<choice><sic>ā</sic><corr>a</corr></choice>vār<choice><sic>a</sic><corr>e</corr></choice> <surplus>d</surplus>divasa Ekādaś<choice><sic>a</sic><corr>e</corr></choice><g type="comma"/> prava<supplied reason="omitted">r</supplied>ddhamāna<lb n="3v2" break="no"/>vijayarājyasamvat<choice><orig>p</orig><reg>s</reg></choice>araḥ <num value="11">11</num></p></div></div>    
          <div type="apparatus">
+             <listApp>
                   <app loc="1v3">
                       <lem>°rāj<choice><sic>ā</sic><corr>o</corr></choice></lem>
                       <rdg source="bib:Sircar+Sankaranarayanan1959-1960_01">°rāj<choice><sic>ā</sic><corr>o</corr></choice></rdg>
@@ -188,7 +189,9 @@
                       <lem><num value="11">11</num></lem>
                       <rdg source="bib:Sircar+Sankaranarayanan1959-1960_01"><num value="1">1</num><g type="dashPlain"/></rdg>
                       <rdg source="bib:Shastri1995_02"><num value="1">1</num><g type="dashPlain"/></rdg>
-                  </app></div>
+                  </app>
+             </listApp>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <ab>The illustrious Indrarāja.</ab></div>

@@ -95,7 +95,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <ab><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/></ab> 
+                    <ab><pb n="1v"/><lb n="1v1"/><g type="spiralR"/></ab> 
                         <lg n="1" met="āryā">
                                         <l n="a">jayati jagat<supplied reason="omitted">t</supplied>rayatilaka<supplied reason="omitted">ḥ</supplied></l>
                                         <l n="b">kṣitibhṛtkulabhavanamaṅgalasta<supplied reason="omitted">m</supplied>bha<supplied reason="omitted">ḥ</supplied></l>
@@ -131,6 +131,7 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>    
                   <app loc="1v1">
                       <lem>°sta<supplied reason="omitted">m</supplied>bha<supplied reason="omitted">ḥ</supplied></lem>
                       <rdg source="bib:Fleet1970_03">°sūtra<supplied reason="omitted">ḥ</supplied></rdg>
@@ -226,7 +227,9 @@
                       <rdg source="bib:Fleet1970_03">kañcanaṁ</rdg>
                       <rdg source="bib:Shastri1995_02">kāñcanaṁ</rdg>
                   </app>
-              </div></div>
+              </listApp>    
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>This charter of the illustrious Tīvaradeva the king of Kosala, which is for the sake of an increase of dharma, endures as long as the moon and stars.</p></div>

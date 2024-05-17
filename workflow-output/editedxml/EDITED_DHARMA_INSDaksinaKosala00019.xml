@@ -90,7 +90,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">   
                  <pb n="1r"/>
-                    <ab><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasti<surplus>ḥ</surplus></ab> 
+                    <ab><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti<surplus>ḥ</surplus></ab> 
                         <lg n="1" met="sragdharā">
                                         <l n="a">Āsīd yaḥ pāṇḍavānāṁ suvimalayaśasām anvaye bhūridhāmnā<supplied reason="omitted">ṁ</supplied></l>
                                         <l n="b">rā<lb n="1v2" break="no"/>jābhū<choice><orig>t</orig><reg>n</reg></choice> mekalāyāṁ kṣitipatitilakaḥ saṁprasūtorukīrtti<supplied reason="omitted">ḥ</supplied></l>
@@ -161,6 +161,7 @@
                                         <l n="cd">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha dānāc chreyo ’nupālana<supplied reason="omitted">ṁ</supplied></l></lg>
                     <p><lb n="3r9"/>samāptaṁ cedaṁ śāsanaṁ pravarddhamāna<surplus><g type="dashPlain"/></surplus>vijayarājyasaṁvatsare <num value="2">2</num> bh<choice><sic>a</sic><corr>ā</corr></choice>drapadakṛṣṇatra<lb n="3r10" break="no"/>yodaśyāṁ puṣyanakṣatreṇa likhita<surplus>ṁ</surplus>ñ cedaṁ śāsanaṁ rāhasikeśānaputreṇa śiveno<lb n="3r11" break="no"/>tkīrṇañ ca suvarṇṇakāreśvaraputreṇa mihirake<choice><orig>n</orig><reg>ṇ</reg></choice>eti<g type="dashPlain"/></p></div>
         <div type="apparatus">
+            <listApp>
                   <app loc="1v1">
                       <lem>svasti<surplus>ḥ</surplus></lem>
                       <rdg source="bib:Chhabra1947-1948_01">svasti<surplus>ḥ</surplus></rdg>
@@ -358,6 +359,7 @@
                       <rdg source="bib:Mirashi1963_02">°nakṣatreṇa</rdg>
                       <rdg source="bib:Shastri1995_02">°nakṣatreṇa</rdg>
                   </app>
+            </listApp>    
         </div>
          <div type="translation" resp="part:nabo">
                     <ab n="1v1">Success! Hail!</ab>
