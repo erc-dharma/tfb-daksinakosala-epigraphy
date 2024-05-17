@@ -108,13 +108,17 @@
                     <pb n="3v"/>
               </div></div>    
          <div type="apparatus">
-             <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+             <listApp>
                   <app loc="ab">
                       <lem>°bhuvaḥ</lem>
                      <rdg source="bib:Sircar+Sarma1943_01">°bhuvaḥ</rdg>
                      <rdg source="bib:Shastri1995_02">°bhuvaiḥ</rdg>
                   </app>
-             <div type="textpart" n="B"><head xml:lang="eng">Plates</head></div>
+             </listApp>
+             </div>
+            <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+            <listApp>
                   <app loc="1v5">
                       <lem>°vājasaney<choice><orig>aṁ Ā</orig><reg>ā</reg></choice>treya°</lem>
                      <rdg source="bib:Sircar+Sarma1943_01">°vājasaneya-Ātreya°</rdg>
@@ -140,6 +144,8 @@
                      <rdg source="bib:Sircar+Sarma1943_01">°t<choice><orig>ri</orig><reg>ṛ</reg></choice>tīya°</rdg>
                      <rdg source="bib:Shastri1995_02">°tṛ<surplus>i</surplus>tīya°</rdg>
                   </app>
+            </listApp>
+            </div>
          </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>

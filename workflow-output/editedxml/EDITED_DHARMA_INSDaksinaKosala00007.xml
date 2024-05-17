@@ -124,6 +124,7 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+             <listApp>
                  <app loc="1v1">
                       <lem>°cūḍāmaṇi°</lem>
                       <rdg source="bib:Bhattacharya+Sivayya1961-1962_01">°cūḍ<choice><sic>e</sic><corr>ā</corr></choice>maṇi°</rdg>
@@ -149,7 +150,9 @@
                       <rdg source="bib:Bhattacharya+Sivayya1961-1962_01">mahimatāñ</rdg>
                       <rdg source="bib:Shastri1995_02">mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ñ</supplied></rdg>
                   </app>
-             </div></div>
+             </listApp>    
+             </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The enemy-chastising charter belongs to the illustrious Jayarāja, who was the son of Prasanna and whose enemies were overcome by his valour.</p></div>

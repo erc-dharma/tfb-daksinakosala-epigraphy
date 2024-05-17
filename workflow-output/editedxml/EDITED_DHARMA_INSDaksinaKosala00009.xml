@@ -126,7 +126,8 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-               <app loc="3r1">
+             <listApp>  
+                <app loc="3r1">
                       <lem>ṣaṣṭ<choice><sic>ī</sic><corr>i</corr></choice>°</lem>
                      <rdg source="bib:Jain1978_01"><supplied reason="omitted">ṣa</supplied>ṣṭiṁ°</rdg>
                      <rdg source="bib:Shastri1995_02"><supplied reason="omitted">ṣa</supplied>ṣṭiṁ°</rdg>
@@ -136,7 +137,9 @@
                      <rdg source="bib:Jain1978_01">Indrarāja</rdg>
                      <rdg source="bib:Shastri1995_02">Indrabalarāja<supplied reason="omitted">ḥ</supplied></rdg>
                </app>
-         </div></div>
+             </listApp>   
+             </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The permanent charter belongs to the illustrious Sudevarāja, whose kingdom was acquired by hereditary descent and whose enemies were annihilated by his valour.</p></div>

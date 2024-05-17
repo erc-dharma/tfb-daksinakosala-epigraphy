@@ -95,6 +95,7 @@
                     <lb n="1v1"/><g type="spiralR"/> svasti śarabhapurāt paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v2" break="no"/>ś śrīmahārājanarendra<supplied reason="omitted">ḥ</supplied> maṇṭarājabhukt<choice><sic>o</sic><corr>au</corr></choice> torāmake brāhmaṇādī<supplied reason="omitted">n</supplied> prati<lb n="1v3" break="no"/>vāsi<space type="binding-hole"/>kuṭumbinas samājñāpayati</p> <p>viditam astu vo yathāsmābhir vva<lb n="1v4" break="no"/>ṭapadrakīyakāritakadevakule bhagavate śrīdharasvāmine mātṛ<surplus>i</surplus>rā<lb n="1v5" break="no"/>jakulānā<supplied reason="omitted">ṁ</supplied> puṇyābhivṛddhaye khaṇḍasphuṭitasaṁskārabalicaru<lb n="1v6" break="no"/>sa<supplied reason="omitted">t</supplied>t<choice><sic>ṛ</sic><corr>ra</corr></choice></p>                   
                </div>    
          <div type="apparatus">
+            <listApp>
                    <app loc="1v2">
                       <lem>°bhukt<choice><sic>o</sic><corr>au</corr></choice></lem>
                      <rdg source="bib:UshaJain1979_01">°bhukto</rdg>
@@ -105,6 +106,7 @@
                      <rdg source="bib:UshaJain1979_01">brāhmaṇādi°</rdg>
                      <rdg source="bib:Shastri1995_02">brāhmaṇādī<supplied reason="omitted">n</supplied></rdg>
                   </app>
+            </listApp>   
          </div>
          <div type="translation" resp="part:nabo">
                     <p n="1v1-1v3">Success! Hail! From Śarabhapura the illustrious Mahārāja Narendra, who is entirely devoted to Viṣṇu and favoured by his father and mother, issues <supplied reason="subaudible">the following command</supplied> to the landholders, beginning with the Brahmins, settled <supplied reason="subaudible">in the village of</supplied> Torāmaka situated in the Maṇṭarāja <foreign>bhukti</foreign>:</p> 

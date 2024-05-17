@@ -126,19 +126,22 @@
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
               <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>
                   <app loc="1v2">
                       <lem>°dhauta°</lem>
-                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                      <rdg source="bib:Konow1907-1908_01">°dhota°</rdg>
                      <rdg source="bib:Shastri1995_02">°dhauta°</rdg>
+                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note>                   
                   </app>
                   <app loc="2r4">
                       <lem>°kauśika°</lem>
-                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                      <rdg source="bib:Konow1907-1908_01">°kośika°</rdg>
                      <rdg source="bib:Shastri1995_02">°kauśika°</rdg>
+                     <note>The shape of the vowel marker for <foreign>au</foreign> is slightly irregular, but is the same as in other copperplate charters of the kings of Śarabhapura.</note> 
                   </app>
-         </div></div>
+              </listApp>   
+              </div>
+         </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The permanent charter belongs to the illustrious Sudevarāja, who was born from the moon that was Mānamātra, who was born from the sea that was Prasanna.</p></div>
