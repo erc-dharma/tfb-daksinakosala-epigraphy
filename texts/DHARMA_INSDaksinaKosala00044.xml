@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinaya<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavinaya<lb
                            n="1v2" break="no"/>sa<surplus>ṁ</surplus>mpatsampāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇa<supplied reason="omitted">va</supplied><surplus>T<g type="dandaPlain"/></surplus>tsamāśraya<supplied reason="omitted">ḥ</supplied> pra<lb 
                            n="1v3" break="no"/>kṛṣṭataraśauryyaprajñāprabhāvasambhāvitam<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>bhyudaya<supplied reason="omitted">ḥ</supplied> kārt<supplied reason="omitted">t</supplied>ikeya I<lb
                            n="1v4" break="no"/>va kṛt<supplied reason="omitted">t</supplied>ivā<space type="binding-hole"/>sa<choice><orig>ś</orig><reg>s</reg></choice>o r<choice><sic>a</sic><corr>ā</corr></choice>jñaḥ śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice>nu<supplied reason="omitted">ḥ</supplied> somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasa<supplied reason="omitted">ṁ</supplied>bhava<lb
@@ -120,7 +120,7 @@
                                     <lg n="1" met="vasantatilakā">
                                         <l n="a">bh<choice><sic>u</sic><corr>ū</corr></choice>mipradā divi lala<lb n="2v7" break="no"/>nti patanti hanta</l>
                                         <l n="b">hṛtvā mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> nṛpatayo narake nṛ<choice><orig>saṅś</orig><reg>śaṁs</reg></choice>āT<g type="dandaPlain"/></l>
-                                        <l n="c">Etad <supplied reason="omitted">d</supplied>va<pb n="3v" break="no"/><lb n="3v1" break="no"/>ya<supplied reason="omitted">ṁ</supplied> parikal<choice><sic>ai</sic><corr>a</corr></choice>y<supplied reason="omitted">y</supplied>a calāñ ca lakṣm<choice><sic>i</sic><corr>ī</corr></choice>m</l>
+                                        <l n="c">Etad <supplied reason="omitted">d</supplied>va<pb n="3r" break="no"/><lb n="3r1" break="no"/>ya<supplied reason="omitted">ṁ</supplied> parikal<choice><sic>ai</sic><corr>a</corr></choice>y<supplied reason="omitted">y</supplied>a calāñ ca lakṣm<choice><sic>i</sic><corr>ī</corr></choice>m</l>
                                         <l n="d">āyus tathā kuruta yad bhavatām abh<choice><sic>i</sic><corr>ī</corr></choice><lb n="3r2" break="no"/>ṣṭa<supplied reason="omitted">ṁ</supplied></l></lg>
                             <ab>Api ca</ab> 
                                     <lg n="2" met="anuṣṭubh">
@@ -145,6 +145,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                   <app loc="1v1">
                       <lem>°āsādita°</lem>
                       <rdg source="bib:Jain+al2005_01">°āsād<choice><sic>a</sic><corr>i</corr></choice>ta°</rdg>
@@ -261,7 +262,9 @@
                       <lem>ma<lb n="3v2" break="no"/>h<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>matā<supplied reason="omitted">ṁ</supplied></lem>
                       <rdg source="bib:Jain+al2005_01">ma<lb n="3v2" break="no"/>hī mahīmatā</rdg>
                   </app>
-                  </div></div>
+               </listApp>    
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidy<choice><sic>a</sic><corr>ā</corr></choice>bhy<choice><sic>a</sic><corr>ā</corr></choice>saviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice><lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidy<choice><sic>a</sic><corr>ā</corr></choice>bhy<choice><sic>a</sic><corr>ā</corr></choice>saviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice><lb
                            n="1v2" break="no"/>yavinayasampa<choice><orig>st</orig><reg>ts</reg></choice>ampāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇava<lb
                            n="1v3" break="no"/>tsamāśraya<supplied reason="omitted">ḥ</supplied> prakṛṣṭataraśauryyaprajñāprabhāvasambhāvitamahā<lb
                            n="1v4" break="no"/>bhyudaya<supplied reason="omitted">ḥ</supplied> kā<space type="binding-hole"/><choice><orig>takaya</orig><reg>rttikeya</reg></choice> Iva kṛt<supplied reason="omitted">t</supplied>ivāsa<choice><orig>śa</orig><reg>so</reg></choice> rājñaḥ śrīharṣadevasya s<choice><sic>u</sic><corr>ū</corr></choice>nu<supplied reason="omitted">ḥ</supplied><lb 
@@ -148,6 +148,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                   <app loc="1v1">
                       <lem>°mahan<choice><sic>i</sic><corr>ī</corr></choice><lb n="1v2" break="no"/>ya°</lem>
                       <rdg source="bib:Jain+al2005_01">°mahanī<lb n="1v2" break="no"/>ya°</rdg>
@@ -232,7 +233,9 @@
                       <lem>samvaT<g type="dandaPlain"/></lem>
                       <rdg source="bib:Jain+al2005_01">samva<supplied reason="omitted">T</supplied><g type="ddandaPlain"/></rdg>
                   </app>
-                  </div></div>
+               </listApp>    
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

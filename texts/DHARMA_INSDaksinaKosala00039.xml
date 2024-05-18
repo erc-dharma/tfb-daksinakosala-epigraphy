@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahanīya<surplus>ḥ</surplus>vi<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahanīya<surplus>ḥ</surplus>vi<lb
                            n="1v2" break="no"/>nayasampatsampāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ś</orig><reg>ṣ</reg></choice>uguṇo guṇavatsamāśraya<supplied reason="omitted">ḥ</supplied><lb 
                            n="1v3"/>prakṛṣṭataraśauryyaprajñāprabhāvasambhāvitamahābhyudaya<supplied reason="omitted">ḥ</supplied> kārt<supplied reason="omitted">t</supplied>ike<lb
                            n="1v4" break="no"/>ya Iva kṛ<space type="binding-hole"/>t<supplied reason="omitted">t</supplied>ivāsa<choice><orig>ś</orig><reg>s</reg></choice>o rājña<supplied reason="omitted">ḥ</supplied> śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya <choice><orig>ś</orig><reg>s</reg></choice><choice><sic>u</sic><corr>ū</corr></choice>nu<supplied reason="omitted">ḥ</supplied> somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasambha<lb
@@ -147,6 +147,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                   <app loc="1v1">
                       <lem>°mahanīya<surplus>ḥ</surplus>°</lem>
                       <rdg source="bib:Jain+al2005_01">°mahan<choice><sic>i</sic><corr>ī</corr></choice>ya°</rdg>
@@ -215,7 +216,9 @@
                       <lem>sam<choice><orig>b</orig><reg>v</reg></choice>aT</lem>
                       <rdg source="bib:Jain+al2005_01">samba<supplied reason="omitted">T</supplied></rdg>
                   </app>
-                   </div></div>
+               </listApp>    
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

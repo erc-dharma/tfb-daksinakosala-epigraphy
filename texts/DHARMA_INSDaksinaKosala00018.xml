@@ -87,7 +87,7 @@
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
-      <body>
+        <body>
           <div type="edition" xml:lang="san-Latn">   
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                   <ab>śr<choice><orig>ī-I</orig><reg>ī</reg></choice>ndrarājaḥ</ab></div>
@@ -111,7 +111,7 @@
                             n="2r4" break="no"/>payati</p> <p>viditam astu bhavatā<supplied reason="omitted">ṁ</supplied> yathāsmābhir aya<supplied reason="omitted">ṁ</supplied> grāma<supplied reason="omitted">ḥ</supplied> sodraṅgaḥ s<choice><sic>a</sic><corr>o</corr></choice>parikaraḥ<lb 
                             n="2r5" break="no"/>Acāṭabhaṭapraveś<choice><orig>ī</orig><reg>aḥ</reg></choice> sanidhiḥ sopanidhi<surplus>ḥ</surplus>ś coradaṇḍa<choice><orig>yalitaḥ</orig><reg>varjitaḥ</reg></choice> catuḥ<choice><orig>ś</orig><reg>s</reg></choice>ī<lb
                             n="2r6" break="no"/>mādhānaparyanta Ācandr<choice><sic>a</sic><corr>ā</corr></choice>rkakṣititārakānirodh<choice><orig>ena</orig><reg>aṁ</reg></choice> mātāpitror ātmanaś ca pu<choice><orig>n</orig><reg>ṇ</reg></choice>yā<lb
-                            n="2r7" break="no"/>bhivṛddhaye<g type="comma"/> ś<choice><sic>a</sic><corr>ā</corr></choice>ṇḍilyagotravājasaneyamā<surplus>d</surplus>dhyandinanāgasvāmipu<choice><orig>v</orig><reg>tr</reg></choice>a<pb n="2r" break="no"/><lb
+                            n="2r7" break="no"/>bhivṛddhaye<g type="comma"/> ś<choice><sic>a</sic><corr>ā</corr></choice>ṇḍilyagotravājasaneyamā<surplus>d</surplus>dhyandinanāgasvāmipu<choice><orig>v</orig><reg>tr</reg></choice>a<pb n="2v" break="no"/><lb
                             n="2v1" break="no"/>bhavasvāmin<choice><orig>asya</orig><reg>e</reg></choice> pratipādit<choice><orig>e</orig><reg>a I</reg></choice>ty</p> <p>avagamya<g type="dashConvex"/> yathocitabhogam upana<lb
                             n="2v2" break="no"/>yantaḥ Ājñāśravanavidheyair bhūtvā sukhaṁ prativ<choice><sic>ā</sic><corr>a</corr></choice>stavyam iti svayam ā<lb
                             n="2v3" break="no"/>jñāpanā<g type="dashConvex"/> ye cāsmadva<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śe sam<choice><sic>ū</sic><corr>u</corr></choice>tpadyante rājāna<surplus>ḥ</surplus>s tair ap<choice><orig>anīya</orig><reg>īyaṁ</reg></choice> dattir anu<lb
@@ -143,7 +143,9 @@
                             n="3v1" break="no"/>mapakṣa U<surplus>ra</surplus>ttarabhādrapad<choice><sic>a</sic><corr>e</corr></choice><g type="comma"/> Aṅgār<choice><sic>ā</sic><corr>a</corr></choice>vār<choice><sic>a</sic><corr>e</corr></choice> <surplus>d</surplus>divasa Ekādaś<choice><sic>a</sic><corr>e</corr></choice><g type="comma"/> prava<supplied reason="omitted">r</supplied>ddhamāna<lb
                             n="3v2" break="no"/>vijayarājyasamvat<choice><orig>p</orig><reg>s</reg></choice>araḥ <num value="11">11</num></p></div></div>    
          <div type="apparatus">
-             <listApp>
+              <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
+              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+              <listApp>
                   <app loc="1v3">
                       <lem>°rāj<choice><sic>ā</sic><corr>o</corr></choice></lem>
                       <rdg source="bib:Sircar+Sankaranarayanan1959-1960_01">°rāj<choice><sic>ā</sic><corr>o</corr></choice></rdg>
@@ -206,6 +208,7 @@
                       <rdg source="bib:Shastri1995_02"><num value="1">1</num><g type="dashPlain"/></rdg>
                   </app>
              </listApp>
+             </div>
          </div>
          <div type="translation" resp="part:nabo">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>

@@ -95,7 +95,7 @@
                      <l n="cd">śāsanaṁ śivaguptasya sthitam ā bhuvanasthite<supplied reason="omitted">ḥ</supplied></l>
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice>śavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>ya<surplus>naya</surplus>vinayasaṁ<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice>śavidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>ya<surplus>naya</surplus>vinayasaṁ<lb
                            n="1v2" break="no"/>patsampāditasakalavijigīṣuguṇo guṇavatsamāśrayaḥ prakṛṣṭataraśau<lb
                            n="1v3" break="no"/>ryyaprajñāprabhāvasaṁbhāvitamahābhyudayaḥ kārttikeya Iva kṛttivāsas<choice><sic>au</sic><corr>o</corr></choice> rā<lb
                            n="1v4" break="no"/>jñaḥ śrīharṣa<space type="binding-hole"/>guptasya sūnuḥ somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasaṁbhavaḥ <surplus>t</surplus>paramamāheśvaro mātā<lb
@@ -153,6 +153,7 @@
                            n="1r1"/>sam<choice><orig>b</orig><reg>v</reg></choice>aT <num value="57">50 7</num> <choice><orig>phagguṇa</orig><reg>phālguna</reg></choice> dina <num value="12"><supplied reason="omitted">10</supplied> 2</num></p></div></div>
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+               <listApp>
                <app loc="ab">
                       <lem>rājña<supplied reason="omitted">ḥ</supplied></lem>
                       <rdg source="bib:Raikwar+Singh1994_01">rājña<supplied reason="omitted">ḥ</supplied></rdg>
@@ -180,8 +181,11 @@
                       <rdg source="bib:Shastri2001_01">°sthiteḥ</rdg>
                       <rdg source="bib:Jain+al2005_01">°sthite<supplied reason="omitted">ḥ</supplied></rdg>
                       <rdg source="bib:Majumdar2007_01">°sthiteḥ</rdg>
-                  </app></div>
+                  </app>
+               </listApp>
+               </div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                   <app loc="1v6">
                       <lem>°bhogīya°</lem>
                       <rdg source="bib:Raikwar+Singh1994_01">°bhogīya°</rdg>
@@ -385,7 +389,9 @@
                       <rdg source="bib:Jain+al2005_01"><num value="12">1 2</num></rdg>
                       <rdg source="bib:Majumdar2007_01"><num value="12">10 2</num></rdg>
                   </app>
-         </div></div>
+               </listApp>    
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

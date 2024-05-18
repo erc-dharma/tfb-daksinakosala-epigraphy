@@ -96,7 +96,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsādita<surplus>ḥ</surplus>mahan<choice><sic>i</sic><corr>ī</corr></choice>yavi<lb 
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsādita<surplus>ḥ</surplus>mahan<choice><sic>i</sic><corr>ī</corr></choice>yavi<lb 
                            n="1v2" break="no"/>nayasampatsa<supplied reason="omitted">ṁ</supplied>pāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsamāśra<lb
                            n="1v3" break="no"/>ya<supplied reason="omitted">ḥ</supplied> prakṛṣṭataraśauryyaprajñāprabhāvasambhāvitamahābhyudayaḥ kā<lb
                            n="1v4" break="no"/><supplied reason="omitted">rt</supplied>tikeya I<space type="binding-hole"/>va kṛttivāsaso rājñaḥ śṛ<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya sūnu<supplied reason="omitted">ḥ</supplied> somava<lb
@@ -142,6 +142,7 @@
                    <head xml:lang="eng">Seal</head>
                </div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                   <app loc="1v1">
                       <lem>°kṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
                       <rdg source="bib:Jain+al2005_01">°kṣit<choice><sic>i</sic><corr>ī</corr></choice>śa°</rdg>
@@ -198,6 +199,7 @@
                       <lem>svadat<supplied reason="omitted">t</supplied>āṁ</lem>
                       <rdg source="bib:Jain+al2005_01">svadat<supplied reason="omitted">t</supplied>ā</rdg>
                   </app>
+               </listApp>    
          </div>
          </div>
          <div type="translation" resp="part:nabo">

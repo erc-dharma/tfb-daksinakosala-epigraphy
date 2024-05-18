@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavi<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣit<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>avidyābhyāsaviśeṣāsāditamahan<choice><sic>i</sic><corr>ī</corr></choice>yavi<lb
                            n="1v2" break="no"/>nayasampatsaṁpāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsamāśraya<supplied reason="omitted">ḥ</supplied><lb
                            n="1v3"/>prakṛṣṭataraśauryyaprajñāprabhāvasambhāvi<surplus>ḥ</surplus>ta<surplus>ḥ</surplus>mahābhyudaya<supplied reason="omitted">ḥ</supplied> kārttikeya<lb 
                            n="1v4"/>Iva kṛt<supplied reason="omitted">t</supplied>i<space type="binding-hole"/>vāsaso rājñaḥ śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya sūnu<supplied reason="omitted">ḥ</supplied> somava<choice><orig>ṅ</orig><reg>ṁ</reg></choice>śasa<lb
@@ -144,6 +144,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>
                    <app loc="1v4">
                       <lem>śr<choice><sic>i</sic><corr>ī</corr></choice>°</lem>
                       <rdg source="bib:Jain+al2005_01">śrī°</rdg>
@@ -212,7 +213,9 @@
                       <lem>samvaT <num value="30">rla</num> <num value="7">gra</num></lem>
                       <rdg source="bib:Jain+al2005_01">samva <num value="37">30 7</num> rla gra</rdg>
                   </app>
-                  </div></div>
+               </listApp>    
+               </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>

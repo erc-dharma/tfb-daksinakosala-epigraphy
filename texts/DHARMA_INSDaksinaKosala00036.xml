@@ -97,7 +97,7 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="symbol" subtype="spiralR"/> svasty aśeṣakṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a<unclear>vi</unclear>dyābhyāsaviśeṣāsāditamahanīyavina<lb
+                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasty aśeṣakṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a<unclear>vi</unclear>dyābhyāsaviśeṣāsāditamahanīyavina<lb
                            n="1v2" break="no"/>yasampatsaṁpāditasakalavijig<choice><sic>i</sic><corr>ī</corr></choice>ṣuguṇo guṇavatsamāśrayaḥ<lb 
                            n="1v3"/>prakṛṣṭataraśauryyaprajñāprabhāvasaṁbhāvitamahābhyudayaḥ kārttike<lb
                            n="1v4" break="no"/>ya Iva <space type="binding-hole"/>kṛttivāsaso rājñaḥ śr<choice><sic>i</sic><corr>ī</corr></choice>harṣadevasya sūnu<supplied reason="omitted">ḥ</supplied> soma<lb
@@ -145,6 +145,7 @@
          <div type="apparatus">
                <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
                <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
+               <listApp>    
                   <app loc="1v1">
                       <lem>°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</lem>
                       <rdg source="bib:Mirashi+Pandeya1963-1964_01">°kṣ<choice><sic>ī</sic><corr>i</corr></choice>t<choice><sic>i</sic><corr>ī</corr></choice><choice><orig>ṣ</orig><reg>ś</reg></choice>a°</rdg>
@@ -225,7 +226,9 @@
                       <rdg source="bib:Mirashi+Pandeya1963-1964_01">sam<choice><orig>b</orig><reg>v</reg></choice>atsare</rdg>
                       <rdg source="bib:Shastri1995_02">samvatsare</rdg>
                   </app>
-                  </div></div>
+                  </listApp>
+                  </div>
+         </div>
          <div type="translation" resp="part:nabo">
                     <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                     <p>The charter of Śivagupta, son of the illustrious king Harṣagupta, who is possessed of good qualities, endures as long as the existence of the world</p></div>
