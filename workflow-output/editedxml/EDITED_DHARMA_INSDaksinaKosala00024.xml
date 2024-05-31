@@ -154,7 +154,7 @@
        <div type="commentary">
             </div>
         <div type="bibliography">
-        	    <p>First edited by Ali and Zhang <bibl rend="omitname"><ptr target="bib:Ali+Zhang202201"/></bibl> from the original plates; re-edited here by Natasja Bosma based on the published photographs.</p>	   	   
+        	    <p>Edited and translated by Ali and Zhang <bibl rend="omitname"><ptr target="bib:Ali+Zhang202201"/></bibl> from the original plates.</p>	   	   
             <listBibl type="primary">
                <bibl n="AZ">
                   <ptr target="bib:Ali+Zhang202201"/>
