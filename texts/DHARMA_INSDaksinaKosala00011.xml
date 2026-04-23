@@ -63,19 +63,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -98,15 +92,15 @@
                  </lg></div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
                     <pb n="1r"/>
-                    <p><pb n="1v"/><lb n="1v1"/><g type="spiralR"/> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇiprabhāpra<lb n="1v2" break="no"/>sekāmbudhautapādayuga<space type="descender"/>lo ripuvilāsinīsīmantoddharaṇahetu<lb n="1v3" break="no"/>r vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v4" break="no"/>ś ś<choice><sic>ṛ</sic><corr>r</corr></choice>īmahāsudevarājaḥ tosa<choice><orig>dḍa</orig><reg>ḍḍa</reg></choice>bhuktīyaśiv<choice><sic>i</sic><corr>a</corr></choice>liṅgake prati<space type="descender"/>vāsi<lb n="1v5" break="no"/>kuṭumbinas samājñāpayati<g type="dashDouble"/></p> <p>viditam astu vo yathāyaṁ grāma<pb n="2r" break="no"/><lb n="2r1" break="no"/>s <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhā<supplied reason="omitted">ka</supplied>ro yāvad raviśaśitārākiraṇaprati<lb n="2r2" break="no"/>hataghorāndhakā<add place="below" rend="mark">ra</add>ṁ jagad avatiṣṭhate tāvad upabhogyas sanidhis sopa<space type="descender"/>nidhi<lb n="2r3" break="no"/>r acāṭabha<space type="binding-hole"/><add place="below">ṭa</add>prāveśyas sarvvakaravisarjjita<surplus>ḥ</surplus>ḫ pratihārabhogillena mātā<lb n="2r4" break="no"/>pitror ātmanaś ca puṇyābhivṛddhaye kātyāyanasagotramādhyandinavāja<lb n="2r5" break="no"/>saneyayajñasvāmi<choice><orig>naḥ</orig><reg>ne</reg></choice> Adhyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena bhāradvājakumāravats<choice><orig>a Ā</orig><reg>ā</reg></choice>tre<pb n="2v" break="no"/><lb n="2v1" break="no"/>yakāṇvavājasaneyayajñasvāmin<choice><sic>a</sic><corr>au</corr></choice> pratya<choice><orig>ṅg</orig><reg>ṁś</reg></choice>ena kātyāyanaviśākha<lb n="2v2" break="no"/>svāmikauśikamādhyandinagolasvāmi-Evaṁ-dāmodarasvāmidāmasvāmi<lb n="2v3" break="no"/>bhāradvāja<space type="binding-hole"/>pañcālisvāmidīkṣitāyanīkā<supplied reason="omitted">n</supplied> pratyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsa<lb n="2v4" break="no"/>nenātisṛ<space type="binding-hole"/>ṣṭo bhūtvāsmābhir anumodit<subst><del>i</del><add place="overstrike">a</add></subst>ḥ</p> <p>te yūyam evam upalabhyaiṣā<lb n="2v5" break="no"/>mājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ <lb n="2v6"/>prativatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
+                    <p><pb n="1v"/><lb n="1v1"/><g ref="sym:spiral-right" type="symbol">*</g> svasti śarabhapurād vikkramopanatasāmantamakuṭacūḍāmaṇiprabhāpra<lb n="1v2" break="no"/>sekāmbudhautapādayuga<space type="descender"/>lo ripuvilāsinīsīmantoddharaṇahetu<lb n="1v3" break="no"/>r vvasu<space type="binding-hole"/>vasudhāgopradaḫ paramabhāgavato mātāpitṛpādānuddhyāta<lb n="1v4" break="no"/>ś ś<choice><sic>ṛ</sic><corr>r</corr></choice>īmahāsudevarājaḥ tosa<choice><orig>dḍa</orig><reg>ḍḍa</reg></choice>bhuktīyaśiv<choice><sic>i</sic><corr>a</corr></choice>liṅgake prati<space type="descender"/>vāsi<lb n="1v5" break="no"/>kuṭumbinas samājñāpayati<g ref="sym:dash-double" type="punctuation">.</g></p> <p>viditam astu vo yathāyaṁ grāma<pb n="2r" break="no"/><lb n="2r1" break="no"/>s <choice><orig>tṛ</orig><reg>tri</reg></choice>daśapatisadanasukhapratiṣṭhā<supplied reason="omitted">ka</supplied>ro yāvad raviśaśitārākiraṇaprati<lb n="2r2" break="no"/>hataghorāndhakā<add place="below" rend="mark">ra</add>ṁ jagad avatiṣṭhate tāvad upabhogyas sanidhis sopa<space type="descender"/>nidhi<lb n="2r3" break="no"/>r acāṭabha<space type="binding-hole"/><add place="below">ṭa</add>prāveśyas sarvvakaravisarjjita<surplus>ḥ</surplus>ḫ pratihārabhogillena mātā<lb n="2r4" break="no"/>pitror ātmanaś ca puṇyābhivṛddhaye kātyāyanasagotramādhyandinavāja<lb n="2r5" break="no"/>saneyayajñasvāmi<choice><orig>naḥ</orig><reg>ne</reg></choice> Adhyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena bhāradvājakumāravats<choice><orig>a Ā</orig><reg>ā</reg></choice>tre<pb n="2v" break="no"/><lb n="2v1" break="no"/>yakāṇvavājasaneyayajñasvāmin<choice><sic>a</sic><corr>au</corr></choice> pratya<choice><orig>ṅg</orig><reg>ṁś</reg></choice>ena kātyāyanaviśākha<lb n="2v2" break="no"/>svāmikauśikamādhyandinagolasvāmi-Evaṁ-dāmodarasvāmidāmasvāmi<lb n="2v3" break="no"/>bhāradvāja<space type="binding-hole"/>pañcālisvāmidīkṣitāyanīkā<supplied reason="omitted">n</supplied> pratyarddh<choice><orig>aṅg</orig><reg>āṁś</reg></choice>ena tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsa<lb n="2v4" break="no"/>nenātisṛ<space type="binding-hole"/>ṣṭo bhūtvāsmābhir anumodit<subst><del>i</del><add place="overstrike">a</add></subst>ḥ</p> <p>te yūyam evam upalabhyaiṣā<lb n="2v5" break="no"/>mājñāśravaṇavidheyā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ <lb n="2v6"/>prativatsyatha bhaviṣyataś ca bhūmipān anudarśayati</p>
                                    <lg n="1" met="vasantatilakā">
-                                        <l n="a">dānād viśiṣṭa<surplus><g type="dashDouble"/></surplus><pb n="3r" break="no"/><lb n="3r1" break="no"/>m anupālanajaṁ purāṇā</l>
-                                        <l n="b">dharmmeṣu niścitadhiyaḫ pravadanti dharmmaṁ<g type="dashDouble"/></l>
+                                        <l n="a">dānād viśiṣṭa<surplus><g ref="sym:dash-double" type="punctuation">.</g></surplus><pb n="3r" break="no"/><lb n="3r1" break="no"/>m anupālanajaṁ purāṇā</l>
+                                        <l n="b">dharmmeṣu niścitadhiyaḫ pravadanti dharmmaṁ<g ref="sym:dash-double" type="punctuation">.</g></l>
                                         <l n="c">tasmā<supplied reason="omitted">d</supplied> dvi<lb n="3r2" break="no"/>jāya suviśuddhakulaśrutāya</l>
-                                        <l n="d">dattāṁ bhuvaṁ bhavatu vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g type="dashDouble"/></l></lg>
+                                        <l n="d">dattāṁ bhuvaṁ bhavatu vo matir eva goptu<supplied reason="omitted">ṁ</supplied><g ref="sym:dash-double" type="punctuation">.</g></l></lg>
                                  <p><lb n="3r3"/>tad bhavadbhi<space type="binding-hole"/>r apy eṣā da<supplied reason="omitted">t</supplied>tir anupālayitavyā vyāsagītā<supplied reason="omitted">ṁ</supplied>ś cātra ślokān u<lb n="3r4" break="no"/>dāhara<space type="binding-hole"/>nti</p>
                                    <lg n="2" met="indravajrā">
-                                        <l n="a">Agner apatya<supplied reason="omitted">ṁ</supplied> prathamaṁ suvarṇṇaṁ<g type="dashDouble"/></l>
+                                        <l n="a">Agner apatya<supplied reason="omitted">ṁ</supplied> prathamaṁ suvarṇṇaṁ<g ref="sym:dash-double" type="punctuation">.</g></l>
                                         <l n="b">bhūr vvaiṣṇavī sūryyasu<lb n="3r5" break="no"/>tāś ca gāva<supplied reason="omitted">ḥ</supplied></l>
                                         <l n="c">dattās trayas tena bhava<surplus>ṁ</surplus>nti lokā</l>
                                         <l n="d">yaẖ kāñcanaṁ gāṁ ca mahī<supplied reason="omitted">ṁ</supplied> ca dadyāT</l></lg>
@@ -120,7 +114,7 @@
                                         <l n="ab">svada<choice><orig>ntā</orig><reg>ttā</reg></choice><supplied reason="omitted">ṁ</supplied> parada<choice><orig>ntā</orig><reg>ttā</reg></choice><supplied reason="omitted">ṁ</supplied> vā yatnā<lb n="3v3" break="no"/>d rakṣa yudhiṣṭhira</l>
                                         <l n="cd">mahīm mah<choice><sic>i</sic><corr>ī</corr></choice>matāñ chreṣṭha <add place="below" rend="mark">dānā</add>c chreyo 'nupālana<choice><orig>m</orig><reg>M</reg></choice></l></lg>
                                      <ab><choice><orig>i</orig><reg>I</reg></choice>ti</ab>
-                                <p>svamu<lb n="3v4" break="no"/>khā<choice><orig>gn</orig><reg>jñ</reg></choice>ayā <choice><orig>saṁvva</orig><reg>saṁva</reg></choice>t <num value="7">7</num> vaiśākha di <num value="26">20 6</num> U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇa<unclear>siṅghe</unclear>na<g type="dotTriangle"/></p>
+                                <p>svamu<lb n="3v4" break="no"/>khā<choice><orig>gn</orig><reg>jñ</reg></choice>ayā <choice><orig>saṁvva</orig><reg>saṁva</reg></choice>t <num value="7">7</num> vaiśākha di <num value="26">20 6</num> U<choice><orig>kt</orig><reg>tk</reg></choice>īrṇṇaṁ droṇa<unclear>siṅghe</unclear>na<g ref="sym:bullet-triple-clustered" type="punctuation">.</g></p>
              </div></div>    
          <div type="apparatus">
               <div type="textpart" n="A"><head xml:lang="eng">Seal</head></div>
