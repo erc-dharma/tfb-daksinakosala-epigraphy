@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Malhār Plates of Śivagupta, undated (presumably year 6)</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:nabo">
                         <forename>Natasja</forename>
                         <surname>Bosma</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:nabo">
                         <forename>Natasja</forename>
                         <surname>Bosma</surname>
