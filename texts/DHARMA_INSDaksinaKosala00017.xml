@@ -60,7 +60,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-         <p part="M"><pb n="2r" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavṛddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivṛddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūtvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g ref="sym:dash-obelus" type="punctuation">.</g></p>
+         <p part="M"><pb n="2r" break="no"/><lb n="2r1" break="no"/>śitārākiraṇapratihataghorāndhakāraṁ jagad avatiṣṭh<choice><sic>ā</sic><corr>a</corr></choice>te tā<supplied reason="omitted">va</supplied>d upabhogya<lb n="2r2" break="no"/>s sanidhis sopanidhir acāṭabhaṭaprāveśyas sarvvakaravisarjjitaḥ sabā<lb n="2r3" break="no"/>lavr̥ddhada<space type="binding-hole"/>ṇḍacakkreṇa puṇyābhivr̥ddhaye vājasaneyabh<choice><sic>a</sic><corr>ā</corr></choice>radvājasa<lb n="2r4" break="no"/>gotrad<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tānantasvāminaḥ Atisr̥ṣṭak<choice><sic>ā</sic><corr>o</corr></choice> bhūtvā tā<choice><orig>mbra</orig><reg>mra</reg></choice>śāsane<lb n="2r5" break="no"/>nāsmābhir anumoditaḥ</p> <p>te yūyam evam upalabhyāsyājñāśravaṇavidhe<lb n="2r6" break="no"/>yā bhūtvā yathocitaṁ bhogabhāgam upanayantas sukhaṁ prativ<choice><sic>i</sic><corr>a</corr></choice>tsyatha <pb n="2v"/><lb n="2v1"/>bhaviṣyataś ca bhūmipān anudarśayati<g ref="sym:dash-obelus" type="punctuation">.</g></p>
                                    <lg n="1" met="vasantatilakā">
                                         <l n="a">d<subst><del>o</del><add place="overstrike">ā</add></subst>nād viśiṣṭam anupāla<lb n="2v2" break="no"/>najaṁ purāṇā</l>
                                         <l n="b">dharmmeṣu niścitadh<choice><sic>ī</sic><corr>i</corr></choice>yaḫ pravadanti dharmmaṁ<g ref="sym:dash-double" type="punctuation">.</g></l>
@@ -90,9 +90,9 @@
                       <rdg source="bib:Shastri1995_02">sopanidhir</rdg>
                   </app>
                   <app loc="2r3">
-                      <lem>°vṛddha°</lem>
-                      <rdg source="bib:Dikshit1957_01">°bṛddha°</rdg>
-                      <rdg source="bib:Shastri1995_02">°vṛddha°</rdg>
+                      <lem>°vr̥ddha°</lem>
+                      <rdg source="bib:Dikshit1957_01">°br̥ddha°</rdg>
+                      <rdg source="bib:Shastri1995_02">°vr̥ddha°</rdg>
                   </app>
                   <app loc="2r3">
                       <lem>°cakkreṇa</lem>
@@ -105,9 +105,9 @@
                       <rdg source="bib:Shastri1995_02">°d<choice><sic>i</sic><corr>ī</corr></choice>kṣi<space type="binding-hole"/>tā°</rdg>
                   </app>
                   <app loc="2r4">
-                      <lem>Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice></lem>
-                      <rdg source="bib:Dikshit1957_01">Atisṛṣṭako</rdg>
-                      <rdg source="bib:Shastri1995_02">Atisṛṣṭak<choice><sic>ā</sic><corr>o</corr></choice></rdg>
+                      <lem>Atisr̥ṣṭak<choice><sic>ā</sic><corr>o</corr></choice></lem>
+                      <rdg source="bib:Dikshit1957_01">Atisr̥ṣṭako</rdg>
+                      <rdg source="bib:Shastri1995_02">Atisr̥ṣṭak<choice><sic>ā</sic><corr>o</corr></choice></rdg>
                   </app>
                   <app loc="2r4">
                       <lem>bhūtvā</lem>
